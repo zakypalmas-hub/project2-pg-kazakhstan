@@ -1,0 +1,1625 @@
+record_id,shipment_date,region,product_category,transport_mode,distance_km,shipment_units,customs_clearance_hours,warehouse_wait_hours,labeling_hours,processing_hours,total_lead_days,stockout_flag,stockout_days,shelf_availability_pct,peak_period
+PGK00001,28/01/2026,Shymkent,Oral care,Road,1232.9,1761,17.2,22.9,"17,2",40.1,3.98,0,0,98.6,Non-peak
+PGK00002,2026-08-24,Almaty,Baby care,Road,719.6,364,26.0,"14,6",5.4,20.0,2.89,0,0,99.8,Peak
+PGK00003,2026-07-18,Aktobe,Hair care,Road,353.6,663,11.8,25.9,6.9,32.7,"2,69",0,0,99.6,Peak
+PGK00004,2026-05-14,SHYMKENT,Oral care,Road,1290.9,455,"14,6",11.7,4.1,15.8,3.15,0,0,"98,6",Non-peak
+PGK00005,2026-05-12,Almaty,Oral care,Road,"2083,2",258,28.8,33.5,9.7,"43,3",6.35,0,0,97.7,Non-peak
+PGK00006,2026-09-19,Almaty,ORAL CARE,Road,1891.8,54,7.5,11.9,12.5,24.4,4.19,0,0,99.3,Peak
+PGK00007,2026-01-27,Shymkent,Baby care,Rail,1169.4,210,3.6,17.0,4.4,21.4,3.35,0,0,97.8,Non-peak
+PGK00008,2026-07-31,Almaty,Feminine care,rail,1588.1,1073,5.3,14.0,10.7,24.7,5.6,0,0,100.0,Peak
+PGK00009,2026-03-03,Astana,Hair care,Rail,1231.6,346,3.3,8.7,11.4,20.1,4.05,0,0,99.3,Non-peak
+PGK00010,2026-01-29,Atyrau,Feminine care,Rail,1552.8,429,21.6,15.5,15.1,30.6,5.34,0,0,98.3,Non-peak
+PGK00011,2026-06-10,Almaty,Hair care,Road,,279,34.1,18.6,8.0,26.7,4.53,0,0,98.0,Peak
+PGK00012,24/10/2026,Almaty,Hair care,Road,1782.2,1462,11.4,14.9,6.9,21.8,5.42,0,0,98.5,Non-peak
+PGK00013,2026-08-12,Atyrau,Baby care,Road,1392.3,1290,16.7,30.4,9.5,39.8,4.14,0,0,97.2,Peak
+PGK00014,2026-08-20,Astana,Baby care,Road,2366.4,1927,19.7,34.3,18.9,53.3,7.83,1,4,92.2,Peak
+PGK00015,2026-08-07,Almaty,Oral care,Rail,1213.1,267,30.0,11.3,12.5,23.7,4.99,0,0,98.3,Peak
+PGK00016,2026-08-27,Aktobe,Hair care,Road,285.8,457,33.2,13.7,11.6,25.3,3.31,0,0,,Peak
+PGK00017,2026-06-06,Aktobe,Feminine care,Road,781.8,939,1.8,16.5,8.3,24.8,2.89,1,3,94.5,Peak
+PGK00018,2026-02-08,Astana,Hair care,Rail,1376.4,1316,6.5,13.7,14.7,28.4,4.09,0,0,100.0,Non-peak
+PGK00019,2026-09-13,Shymkent,Baby care,Rail,1466.3,303,10.5,29.2,6.0,35.1,5.41,0,0,99.1,Peak
+PGK00020,2026-05-17,Almaty,Feminine care,Rail,1492.9,463,5.9,20.7,7.7,28.4,5.4,1,6,89.9,Non-peak
+PGK00021,2026-06-02,ALMATY,Baby care,Rail,1857.7,872,8.5,16.1,10.2,26.3,5.29,0,0,100.0,Peak
+PGK00022,2026-04-23,Shymkent,Oral care,Road,868.0,85,13.9,11.5,3.8,15.3,2.85,0,0,99.5,Non-peak
+PGK00023,25/02/2026,Almaty,Feminine care,Road,1746.0,821,13.7,19.8,10.8,30.6,6.88,0,0,99.3,Non-peak
+PGK00024,2026-10-09,Shymkent,Feminine care,Road,1834.1,1529,19.3,17.5,14.7,32.2,5.59,0,0,98.4,Non-peak
+PGK00025,2026-08-26,Aktobe,BABY CARE,Rail,1175.4,1077,10.6,17.2,8.8,25.9,3.93,0,0,98.0,Peak
+PGK00026,2026-07-15,Almaty,Baby care,Road,1154.9,896,1.0,15.7,10.5,26.2,2.85,0,0,100.0,Peak
+PGK00027,2026-05-03,Shymkent,Laundry,Road,652.6,1001,8.0,20.0,12.2,32.3,2.92,0,0,99.5,Non-peak
+PGK00028,2026-09-08,Almaty,Baby care,Rail,1181.5,1897,13.0,16.6,9.8,26.3,5.22,0,0,99.7,Peak
+PGK00029,2026-06-15,Aktobe,Feminine care,Road,2020.3,1065,20.2,20.2,12.7,32.9,4.78,0,0,98.3,Peak
+PGK00030,2026-05-15,Almaty,Baby care,Road,2295.2,1092,18.4,13.8,"12,7",26.5,5.64,1,5,92.1,Non-peak
+PGK00031,2026-05-17,Shymkent,Hair care,road,1585.6,1866,9.6,"11,5",14.1,25.6,4.43,0,0,98.8,Non-peak
+PGK00032,2026-03-11,Astana,Laundry,Rail,-99,357,6.2,11.9,8.3,20.2,"3,47",0,0,98.3,Non-peak
+PGK00033,2026-01-29,Astana,Hair care,Road,1785.2,237,"10,0",8.8,5.4,14.3,4.5,0,0,"98,7",Non-peak
+PGK00034,18/06/2026,Shymkent,Hair care,Rail,"1915,3",927,2.1,13.6,13.7,"27,3",5.03,0,0,100.0,Peak
+PGK00035,2026-09-27,Shymkent,Feminine care,Rail,997.5,671,6.7,29.1,6.3,35.3,5.26,0,0,97.8,Peak
+PGK00036,2026-01-20,Astana,Baby care,Rail,2109.7,445,22.7,16.1,4.1,20.1,5.75,0,0,98.4,Non-peak
+PGK00037,2026-09-18,Shymkent,Laundry,Road,415.8,283,9.9,15.9,9.9,25.8,2.21,0,0,100.0,Peak
+PGK00038,2026-09-09,ATYRAU,Laundry,Rail,274.2,1763,13.4,30.9,17.0,47.9,3.13,0,0,99.6,Peak
+PGK00039,2026-03-26,Astana,Feminine care,Road,526.7,1248,3.2,24.3,15.6,39.9,2.69,0,0,98.0,Non-peak
+PGK00040,2026-07-12,Astana,Feminine care,Rail,601.0,1397,20.1,29.2,21.3,50.6,5.2,0,0,97.5,Peak
+PGK00041,2026-02-20,Almaty,Oral care,Road,2227.6,280,9.3,7.1,3.7,10.8,4.32,0,0,97.6,Non-peak
+PGK00042,2026-08-19,Aktobe,Laundry,Road,1206.2,715,13.1,23.5,6.7,30.2,3.99,0,0,99.1,Peak
+PGK00043,2026-08-01,Astana,Laundry,Road,868.6,1261,15.1,20.9,16.1,37.0,3.45,0,0,99.6,Peak
+PGK00044,2026-04-18,Astana,LAUNDRY,Rail,1215.4,1079,19.7,16.7,7.7,24.4,4.7,0,0,100.0,Non-peak
+PGK00045,21/01/2026,Almaty,Oral care,Rail,1138.4,1405,11.7,12.3,10.2,22.5,5.21,0,0,97.2,Non-peak
+PGK00046,2026-10-23,Aktobe,Oral care,Road,928.3,1356,9.4,18.0,13.8,31.8,3.09,0,0,97.6,Non-peak
+PGK00047,2026-05-16,Astana,Feminine care,Rail,560.3,856,3.8,20.6,9.0,29.6,2.74,0,0,98.8,Non-peak
+PGK00048,2026-09-29,Shymkent,Laundry,Road,1725.8,1577,2.9,38.2,16.1,54.3,4.7,1,5,92.8,Peak
+PGK00049,2026-07-26,Almaty,Laundry,Road,,556,11.6,15.3,6.6,21.9,2.79,0,0,100.0,Peak
+PGK00050,2026-08-25,Atyrau,Feminine care,Road,1994.7,206,13.1,13.1,8.9,22.0,4.83,1,5,91.0,Peak
+PGK00051,2026-08-20,Almaty,Feminine care,Road,703.8,1831,14.7,40.3,15.3,55.6,5.01,0,0,97.3,Peak
+PGK00052,2026-03-01,Almaty,Oral care,Road,1895.6,93,5.3,4.1,10.8,14.9,3.53,0,0,97.1,Non-peak
+PGK00053,2026-04-21,Aktobe,Laundry,Rail,2062.6,603,6.7,2.6,14.5,17.1,5.25,0,0,99.2,Non-peak
+PGK00054,2026-05-22,Atyrau,Laundry,road,532.0,273,11.4,8.0,4.4,12.3,1.97,0,0,99.2,Non-peak
+PGK00055,2026-06-01,ALMATY,Laundry,Rail,445.2,502,7.4,23.7,6.0,29.8,3.38,0,0,98.7,Peak
+PGK00056,14/01/2026,Astana,Oral care,Road,2386.5,820,43.0,7.9,11.4,19.3,5.45,1,2,95.4,Non-peak
+PGK00057,2026-06-16,Shymkent,Feminine care,Rail,1291.9,302,6.6,8.5,4.2,12.7,3.75,0,0,98.5,Peak
+PGK00058,2026-02-16,Aktobe,Oral care,Rail,1668.0,960,13.8,14.5,12.4,26.9,5.33,0,0,98.0,Non-peak
+PGK00059,2026-08-14,Astana,Hair care,Road,302.3,1859,18.0,37.1,"18,4",55.5,4.55,1,4,93.1,Peak
+PGK00060,2026-07-27,Astana,Oral care,Rail,877.1,316,18.7,"13,6",6.3,19.9,3.38,0,0,98.3,Peak
+PGK00061,2026-10-08,Shymkent,Laundry,Rail,1387.1,1857,7.3,14.3,7.7,22.0,"5,0",1,5,90.3,Non-peak
+PGK00062,2026-08-15,Shymkent,Feminine care,Road,2244.0,852,"15,1",37.8,15.1,52.9,6.38,1,4,"91,7",Peak
+PGK00063,2026-04-22,Shymkent,FEMININE CARE,Rail,"860,7",1205,13.9,19.2,17.5,"36,7",6.22,0,0,99.5,Non-peak
+PGK00064,2026-10-22,Astana,Oral care,Road,1994.2,911,15.6,24.3,15.7,40.0,6.79,1,3,92.8,Non-peak
+PGK00065,2026-05-05,Almaty,Feminine care,Rail,1740.0,667,11.3,5.4,15.0,20.5,6.13,0,0,100.0,Non-peak
+PGK00066,2026-04-10,Aktobe,Baby care,Rail,509.4,262,18.1,32.6,2.5,35.1,3.2,0,0,98.3,Non-peak
+PGK00067,03/10/2026,Aktobe,Baby care,Rail,910.1,1207,12.3,12.9,9.9,22.8,3.31,0,0,98.9,Non-peak
+PGK00068,2026-04-23,Aktobe,Hair care,Road,785.2,1838,3.4,15.8,13.3,29.1,3.7,0,0,100.0,Non-peak
+PGK00069,2026-01-24,Almaty,Feminine care,Road,1245.7,1066,12.0,14.9,9.6,24.5,3.5,0,0,98.1,Non-peak
+PGK00070,2026-05-23,Almaty,Oral care,Rail,1679.5,1218,13.0,18.3,12.7,31.0,7.1,0,0,99.7,Non-peak
+PGK00071,2026-08-30,Shymkent,Laundry,Road,1225.2,1305,17.2,25.1,9.1,34.3,4.24,0,0,99.9,Peak
+PGK00072,2026-02-27,ALMATY,Feminine care,Road,800.2,808,11.6,20.6,4.2,24.8,3.55,1,3,94.3,Non-peak
+PGK00073,2026-05-21,Atyrau,Laundry,Road,1815.7,285,30.5,14.4,1.8,16.2,5.08,0,0,99.1,Non-peak
+PGK00074,2026-02-09,Astana,Baby care,Road,1565.1,1038,9.7,14.0,13.9,27.9,4.04,0,0,100.0,Non-peak
+PGK00075,2026-07-28,Shymkent,Laundry,Road,1418.5,1745,7.0,17.9,10.4,28.3,4.57,1,7,87.1,Peak
+PGK00076,2026-05-25,Aktobe,Oral care,Road,1497.4,662,24.6,12.6,7.9,20.5,4.79,0,0,99.3,Non-peak
+PGK00077,2026-04-11,Astana,Baby care,road,749.3,1750,9.5,16.3,10.0,26.3,2.54,0,0,98.7,Non-peak
+PGK00078,10/03/2026,Almaty,Baby care,Road,1781.0,1716,10.8,35.5,9.9,45.4,7.57,0,0,98.8,Non-peak
+PGK00079,2026-06-21,Shymkent,Oral care,Rail,1121.9,527,13.0,24.0,8.2,32.3,4.13,0,0,99.9,Peak
+PGK00080,2026-07-23,Astana,Oral care,Rail,1067.8,1171,12.3,19.4,9.9,29.2,4.01,0,0,98.7,Peak
+PGK00081,2026-10-13,Astana,Hair care,Road,586.9,1508,15.5,24.6,7.0,31.5,3.73,0,0,96.8,Non-peak
+PGK00082,2026-05-13,Shymkent,FEMININE CARE,Rail,1592.9,1015,16.6,12.2,8.2,20.4,5.41,0,0,99.6,Non-peak
+PGK00083,2026-02-18,Atyrau,Baby care,Rail,1606.0,1414,6.5,9.1,8.1,17.2,5.22,0,0,98.1,Non-peak
+PGK00084,2026-09-11,Astana,Laundry,Rail,1015.7,1827,4.1,18.5,11.7,30.2,3.83,1,1,98.0,Peak
+PGK00085,2026-07-11,Almaty,Laundry,Rail,2184.7,1273,4.6,25.7,22.2,48.0,7.21,0,0,98.6,Peak
+PGK00086,2026-08-01,Astana,Hair care,Road,2152.3,1684,22.9,18.8,10.0,28.8,4.97,1,5,91.4,Peak
+PGK00087,2026-01-30,Astana,Oral care,Road,495.4,1612,8.9,9.4,10.4,19.8,2.45,0,0,98.2,Non-peak
+PGK00088,2026-04-05,Almaty,Baby care,Road,1813.8,1635,17.9,15.4,"12,2",27.6,5.96,0,0,98.5,Non-peak
+PGK00089,22/08/2026,ALMATY,Hair care,Rail,1136.1,1712,16.9,"28,9",24.0,52.9,5.17,1,5,89.7,Peak
+PGK00090,2026-09-11,Shymkent,Baby care,Road,2499.4,490,10.8,24.9,5.7,30.6,"6,14",0,0,97.5,Peak
+PGK00091,2026-05-13,Almaty,Feminine care,Road,756.3,85,"5,3",18.0,12.0,30.0,2.91,0,0,"100,0",Non-peak
+PGK00092,2026-09-02,Atyrau,Baby care,Road,"881,2",348,17.2,7.5,7.5,"15,0",2.62,0,0,97.6,Peak
+PGK00093,2026-09-13,Almaty,Laundry,Road,1244.7,537,10.6,11.2,8.4,19.5,2.97,0,0,100.0,Peak
+PGK00094,2026-04-28,Almaty,Laundry,Road,854.6,1396,3.9,11.4,13.1,24.5,2.72,0,0,99.5,Non-peak
+PGK00095,2026-10-01,Shymkent,Baby care,Road,1807.0,1044,7.5,18.3,17.1,35.4,5.46,0,0,98.7,Non-peak
+PGK00096,2026-03-29,Aktobe,Baby care,Road,1332.0,964,2.7,14.3,7.0,21.4,3.52,1,3,94.4,Non-peak
+PGK00097,2026-03-14,Almaty,Feminine care,Road,747.0,67,7.7,9.3,6.2,15.5,1.98,0,0,99.5,Non-peak
+PGK00098,2026-07-27,Almaty,Baby care,Road,1389.3,1383,11.2,25.2,12.9,38.1,5.13,0,0,98.4,Peak
+PGK00099,2026-07-13,Almaty,Oral care,Road,2249.8,760,9.8,21.8,10.2,32.0,5.62,0,0,99.2,Peak
+PGK00100,12/02/2026,Astana,Baby care,rail,2032.9,1533,9.0,18.5,14.6,33.1,5.58,0,0,99.6,Non-peak
+PGK00101,2026-09-11,Astana,HAIR CARE,Road,1372.4,269,11.1,13.5,5.7,19.2,3.09,0,0,98.2,Peak
+PGK00102,2026-03-02,Almaty,Oral care,Rail,899.1,626,14.9,21.4,6.0,27.4,5.14,0,0,99.4,Non-peak
+PGK00103,2026-09-02,Almaty,Oral care,Rail,,156,18.8,19.0,3.6,22.6,3.6,0,0,96.5,Peak
+PGK00104,2026-01-03,Astana,Oral care,Road,2226.4,605,20.5,14.8,9.5,24.3,5.9,0,0,97.1,Non-peak
+PGK00105,2026-08-31,Atyrau,Laundry,Road,1847.9,1851,6.0,32.0,14.4,46.3,4.33,1,1,97.5,Peak
+PGK00106,2026-08-28,SHYMKENT,Oral care,Rail,1537.4,1007,21.8,50.4,18.7,69.1,7.79,1,1,96.1,Peak
+PGK00107,2026-08-26,Astana,Hair care,Rail,2228.7,907,10.6,24.9,7.3,32.2,6.27,1,4,91.3,Peak
+PGK00108,2026-07-22,Almaty,Oral care,Rail,523.8,583,8.2,16.1,20.7,36.8,4.06,0,0,98.8,Peak
+PGK00109,2026-05-24,Almaty,Oral care,Road,1785.6,566,4.7,13.5,10.2,23.8,4.72,0,0,98.7,Non-peak
+PGK00110,2026-08-03,Almaty,Oral care,Rail,737.6,1351,1.0,33.5,15.1,48.6,3.8,0,0,97.6,Peak
+PGK00111,26/03/2026,Shymkent,Feminine care,Road,521.3,1972,14.2,18.1,10.8,28.9,3.01,1,6,87.1,Non-peak
+PGK00112,2026-08-26,Aktobe,Baby care,Road,,1506,13.8,19.4,11.9,31.3,3.87,0,0,97.0,Peak
+PGK00113,2026-06-18,Aktobe,Laundry,Road,1121.6,1487,6.9,24.5,11.3,35.7,3.44,1,4,92.8,Peak
+PGK00114,2026-05-20,Atyrau,Oral care,Road,2367.6,970,7.1,17.1,15.1,32.1,5.18,0,0,98.5,Non-peak
+PGK00115,2026-06-03,Atyrau,Oral care,Rail,979.0,242,9.5,10.3,3.8,14.1,4.15,0,0,100.0,Peak
+PGK00116,2026-06-22,Atyrau,Laundry,Rail,2083.5,1462,8.1,21.8,12.1,34.0,5.91,0,0,98.5,Peak
+PGK00117,2026-01-12,Almaty,Laundry,Road,1934.9,1627,5.8,26.8,"11,1",37.9,4.36,0,0,,Non-peak
+PGK00118,2026-02-12,Almaty,Hair care,Rail,1752.8,1045,4.3,"14,8",7.4,22.2,4.72,0,0,99.0,Non-peak
+PGK00119,2026-03-16,Almaty,Feminine care,Rail,2320.9,228,22.0,3.3,3.0,6.3,"6,56",0,0,99.4,Non-peak
+PGK00120,2026-02-04,Astana,BABY CARE,Rail,1167.8,1440,"7,4",21.2,6.2,27.3,5.07,0,0,"99,1",Non-peak
+PGK00121,2026-05-14,Almaty,Feminine care,Rail,"1126,8",1846,13.8,16.4,11.7,"28,1",4.31,0,0,98.5,Non-peak
+PGK00122,23/07/2026,Aktobe,Feminine care,Road,612.1,488,15.6,39.4,11.0,50.4,3.5,1,5,88.9,Peak
+PGK00123,2026-07-18,SHYMKENT,Baby care,road,870.5,361,14.2,18.0,8.4,26.5,2.91,1,2,96.4,Peak
+PGK00124,2026-05-24,Astana,Oral care,Road,2229.5,1491,16.2,12.0,8.1,20.0,4.54,1,7,88.8,Non-peak
+PGK00125,2026-09-17,Almaty,Hair care,Road,1317.4,697,14.1,23.8,9.4,33.2,3.76,0,0,100.0,Peak
+PGK00126,2026-06-21,Almaty,Laundry,Road,1018.0,1445,6.4,26.0,20.6,46.6,3.53,1,2,94.7,Peak
+PGK00127,2026-01-25,Almaty,Hair care,Road,736.3,1421,8.5,25.8,8.4,34.2,3.33,1,2,94.8,Non-peak
+PGK00128,2026-08-21,Aktobe,Baby care,Road,1341.2,570,21.6,14.2,9.8,24.0,7.2,0,0,98.5,Peak
+PGK00129,2026-06-24,Astana,Laundry,Road,1862.5,132,7.3,14.0,8.7,22.6,3.62,0,0,98.9,Peak
+PGK00130,2026-07-12,Shymkent,Hair care,Rail,895.1,1134,10.6,10.6,7.9,18.5,3.69,0,0,99.1,Peak
+PGK00131,2026-06-21,Almaty,Laundry,Road,1954.9,845,14.9,17.7,9.1,26.8,5.04,0,0,98.0,Peak
+PGK00132,2026-06-18,Astana,Oral care,Rail,1667.0,1718,26.7,20.4,12.6,33.0,6.69,1,7,85.5,Peak
+PGK00133,28/01/2026,Astana,Feminine care,Rail,2022.0,748,20.4,12.3,7.8,20.1,6.05,0,0,99.2,Non-peak
+PGK00134,2026-06-19,Shymkent,Feminine care,Rail,814.5,536,5.1,17.5,15.1,32.6,3.23,1,2,92.0,Peak
+PGK00135,2026-08-30,Shymkent,Hair care,Road,1669.8,1728,13.5,27.1,10.5,37.6,5.41,1,5,90.2,Peak
+PGK00136,2026-04-03,Almaty,Baby care,Road,595.9,1485,12.4,14.3,17.3,31.6,3.09,0,0,98.0,Non-peak
+PGK00137,2026-07-03,Atyrau,Feminine care,Road,1068.5,1256,8.5,20.0,14.5,34.5,3.54,1,2,96.3,Peak
+PGK00138,2026-01-10,Almaty,Baby care,Road,1879.8,1911,10.8,33.3,24.4,57.7,5.2,0,0,99.5,Non-peak
+PGK00139,2026-04-16,Aktobe,HAIR CARE,Rail,1671.3,1577,6.4,34.1,6.9,41.0,5.44,0,0,99.8,Non-peak
+PGK00140,2026-05-13,ALMATY,Hair care,Road,672.7,1740,9.4,19.9,29.9,49.8,4.33,1,7,86.4,Non-peak
+PGK00141,2026-10-26,Almaty,Oral care,Rail,2181.3,1608,7.3,27.0,7.7,34.7,6.35,1,2,94.3,Non-peak
+PGK00142,2026-03-07,Aktobe,Baby care,Road,370.0,833,11.4,9.7,5.6,15.3,1.65,1,3,93.3,Non-peak
+PGK00143,2026-03-26,Almaty,Feminine care,Rail,1589.2,171,8.3,9.5,3.0,12.5,5.02,1,2,96.2,Non-peak
+PGK00144,05/05/2026,Astana,Feminine care,Rail,2463.6,1234,28.0,20.7,12.2,32.9,9.56,0,0,97.3,Non-peak
+PGK00145,2026-10-29,Astana,Laundry,Road,1445.9,1542,11.7,15.4,10.1,25.5,3.35,0,0,100.0,Non-peak
+PGK00146,2026-09-17,Almaty,Oral care,road,2051.5,1984,10.1,26.1,"12,5",38.7,5.02,1,7,86.6,Peak
+PGK00147,2026-01-11,Shymkent,Hair care,Road,1589.2,1379,9.0,"26,3",20.2,46.5,4.79,1,3,94.1,Non-peak
+PGK00148,2026-03-13,Aktobe,Baby care,Road,2011.9,1159,8.3,12.2,5.1,17.3,"3,52",0,0,97.4,Non-peak
+PGK00149,2026-09-07,Aktobe,Hair care,Road,1725.1,1173,"3,9",15.4,16.2,31.6,5.24,0,0,"98,0",Peak
+PGK00150,2026-01-18,Almaty,Hair care,Road,"1805,0",274,17.9,3.6,5.6,"9,2",3.86,0,0,97.4,Non-peak
+PGK00151,2026-09-18,Astana,Hair care,Rail,762.6,64,24.6,17.5,4.8,22.3,4.75,0,0,100.0,Peak
+PGK00152,2026-03-27,Almaty,Laundry,Rail,1919.1,138,7.2,9.1,3.4,12.5,5.24,0,0,99.1,Non-peak
+PGK00153,2026-10-06,Almaty,Oral care,Rail,785.3,1815,21.5,29.8,10.9,40.7,5.75,1,7,87.4,Non-peak
+PGK00154,2026-03-31,Almaty,Laundry,Rail,2456.4,1591,42.7,19.5,8.7,28.2,8.35,0,0,99.1,Non-peak
+PGK00155,13/05/2026,Atyrau,Hair care,Road,762.5,557,33.4,8.3,10.7,19.0,3.49,0,0,99.6,Non-peak
+PGK00156,2026-07-21,Aktobe,Laundry,Road,782.5,876,23.9,9.8,8.9,18.7,3.7,0,0,98.8,Peak
+PGK00157,2026-02-08,SHYMKENT,Laundry,Road,2182.0,993,4.3,10.0,11.6,21.6,3.88,1,7,87.0,Non-peak
+PGK00158,2026-06-19,Astana,HAIR CARE,Road,796.7,531,4.3,10.2,7.0,17.2,2.93,0,0,99.1,Peak
+PGK00159,2026-06-03,Astana,Feminine care,Road,1062.0,874,16.1,25.2,11.0,36.2,3.63,1,2,95.9,Peak
+PGK00160,2026-08-27,Astana,Feminine care,Road,1857.9,728,10.7,17.1,10.4,27.5,4.33,0,0,99.4,Peak
+PGK00161,2026-10-30,Astana,Hair care,Rail,607.2,1405,1.7,7.8,10.4,18.2,2.44,0,0,100.0,Non-peak
+PGK00162,2026-07-21,Astana,Baby care,Rail,607.9,1527,7.9,32.7,19.7,52.5,4.44,0,0,100.0,Peak
+PGK00163,2026-05-05,Almaty,Feminine care,Road,1344.3,242,15.7,7.9,13.4,21.3,5.02,0,0,97.3,Non-peak
+PGK00164,2026-05-04,Almaty,Hair care,Road,798.3,957,9.5,20.8,12.0,32.8,3.05,0,0,98.8,Non-peak
+PGK00165,2026-05-08,Atyrau,Feminine care,Rail,780.2,1983,10.7,15.9,18.0,33.9,4.62,0,0,98.5,Non-peak
+PGK00166,05/09/2026,Astana,Laundry,Rail,270.8,1744,4.3,36.4,16.8,53.3,4.65,1,3,94.7,Peak
+PGK00167,2026-04-08,Atyrau,Hair care,Road,1083.5,1598,7.8,14.0,9.6,23.5,3.84,0,0,98.8,Non-peak
+PGK00168,2026-02-20,Almaty,Hair care,Road,966.1,1483,16.2,17.1,10.1,27.2,3.73,0,0,99.5,Non-peak
+PGK00169,2026-04-12,Astana,Laundry,rail,320.1,58,7.5,3.4,0.8,4.2,1.84,0,0,97.1,Non-peak
+PGK00170,2026-01-07,Almaty,Feminine care,Road,1647.8,1950,22.6,31.3,9.8,41.1,4.9,0,0,97.2,Non-peak
+PGK00171,2026-02-02,Almaty,Feminine care,Road,1660.0,1484,10.9,10.2,7.2,17.4,3.18,1,1,99.6,Non-peak
+PGK00172,2026-01-28,Almaty,Hair care,Rail,409.3,1783,14.2,20.7,9.7,30.3,3.28,1,3,93.9,Non-peak
+PGK00173,2026-08-23,Almaty,Feminine care,Road,963.3,1823,15.9,27.4,15.1,42.5,5.42,1,3,92.6,Peak
+PGK00174,2026-08-08,ATYRAU,Oral care,Rail,2213.8,546,15.5,26.4,7.3,33.7,8.22,0,0,99.1,Peak
+PGK00175,2026-07-31,Almaty,Feminine care,Road,1559.9,76,5.0,13.8,"11,1",24.9,3.17,0,0,98.0,Peak
+PGK00176,2026-05-21,Shymkent,Feminine care,Road,1176.9,1335,5.7,"18,0",7.4,25.4,4.69,0,0,98.8,Non-peak
+PGK00177,06/08/2026,Astana,BABY CARE,Rail,1296.5,945,1.6,27.0,13.2,40.2,"5,2",1,7,85.4,Peak
+PGK00178,2026-02-19,Astana,Laundry,Road,718.6,90,"8,5",10.1,2.3,12.3,2.66,0,0,"98,5",Non-peak
+PGK00179,2026-10-01,Astana,Feminine care,Road,"2076,7",578,5.4,9.4,13.4,"22,7",5.43,0,0,98.7,Non-peak
+PGK00180,2026-06-02,Almaty,Oral care,Road,2306.5,1983,7.3,41.1,12.0,53.1,6.65,1,6,89.5,Peak
+PGK00181,2026-10-13,Atyrau,Feminine care,Rail,2299.0,758,9.1,17.9,9.7,27.6,6.0,0,0,99.5,Non-peak
+PGK00182,2026-02-16,Aktobe,Feminine care,Road,753.9,559,11.9,8.1,4.8,12.9,2.2,0,0,99.9,Non-peak
+PGK00183,2026-06-01,Shymkent,Laundry,Road,949.2,1327,9.6,33.7,21.0,54.7,3.85,0,0,98.5,Peak
+PGK00184,2026-07-31,Astana,Baby care,Road,611.4,1347,9.5,16.8,20.7,37.5,3.59,1,2,96.2,Peak
+PGK00185,2026-05-31,Almaty,Laundry,Rail,941.2,697,13.4,20.3,9.3,29.6,3.78,0,0,98.1,Non-peak
+PGK00186,2026-05-16,Atyrau,Laundry,Road,998.8,1706,10.4,12.6,13.2,25.8,3.07,1,4,91.5,Non-peak
+PGK00187,2026-02-20,Astana,Feminine care,Road,1674.5,1182,18.7,23.0,13.1,36.1,5.91,0,0,99.3,Non-peak
+PGK00188,26/04/2026,Almaty,Feminine care,Road,676.7,363,10.4,4.0,8.8,12.7,2.78,0,0,99.0,Non-peak
+PGK00189,2026-03-14,Astana,Feminine care,Road,2318.6,684,26.8,13.0,11.9,24.9,5.89,0,0,99.0,Non-peak
+PGK00190,2026-04-02,Aktobe,Feminine care,Rail,482.0,1704,4.8,20.4,8.8,29.3,5.44,0,0,98.8,Non-peak
+PGK00191,2026-07-27,SHYMKENT,Oral care,Rail,265.5,224,8.3,12.9,7.7,20.6,1.7,0,0,100.0,Peak
+PGK00192,2026-07-11,Shymkent,Baby care,road,2173.6,73,6.5,16.1,5.1,21.2,3.93,0,0,100.0,Peak
+PGK00193,2026-07-04,Aktobe,Feminine care,Road,1833.5,1330,12.2,13.3,20.5,33.8,4.52,0,0,98.3,Peak
+PGK00194,2026-04-20,Almaty,Baby care,Rail,1049.6,912,4.8,21.3,5.1,26.4,3.53,0,0,97.3,Non-peak
+PGK00195,2026-10-19,Atyrau,Oral care,Road,1589.9,543,3.2,16.1,17.0,33.0,4.72,1,1,96.5,Non-peak
+PGK00196,2026-01-27,Astana,HAIR CARE,Road,753.0,970,5.6,9.4,8.7,18.2,2.41,0,0,98.3,Non-peak
+PGK00197,2026-04-15,Shymkent,Oral care,Rail,628.9,408,3.4,11.7,10.9,22.6,2.44,0,0,99.9,Non-peak
+PGK00198,2026-02-05,Almaty,Feminine care,Rail,1310.1,779,9.2,17.1,6.2,23.3,4.63,0,0,100.0,Non-peak
+PGK00199,14/04/2026,Atyrau,Oral care,Road,1044.7,506,11.8,9.8,3.4,13.2,3.24,0,0,98.2,Non-peak
+PGK00200,2026-10-20,Almaty,Baby care,Road,1634.3,1194,2.8,7.7,17.6,25.3,3.27,0,0,98.3,Non-peak
+PGK00201,2026-04-22,Almaty,Laundry,Rail,740.8,1364,8.0,12.2,12.3,24.6,3.3,0,0,97.6,Non-peak
+PGK00202,2026-10-04,Astana,Laundry,Road,1741.6,1834,20.3,22.2,9.0,31.2,5.16,0,0,99.1,Non-peak
+PGK00203,2026-05-31,Almaty,Oral care,Road,1975.4,182,24.1,13.1,5.1,18.2,5.81,0,0,99.1,Non-peak
+PGK00204,2026-08-01,Almaty,Oral care,Road,624.9,687,17.0,18.6,"8,9",27.5,2.9,0,0,99.8,Peak
+PGK00205,2026-05-20,Shymkent,Oral care,Road,348.7,565,1.0,"13,3",9.0,22.3,2.48,0,0,99.6,Non-peak
+PGK00206,2026-03-22,Astana,Feminine care,Road,1239.1,1180,11.1,25.5,6.7,32.2,"3,62",0,0,99.5,Non-peak
+PGK00207,2026-08-21,Atyrau,Baby care,Road,1991.6,1090,"21,9",20.3,8.0,28.3,5.11,1,7,"85,5",Peak
+PGK00208,2026-10-22,ALMATY,Feminine care,Rail,"1714,3",1761,7.4,15.0,12.3,"27,3",4.85,1,7,86.5,Non-peak
+PGK00209,2026-03-22,Shymkent,Oral care,Road,1829.2,1843,4.0,39.8,9.5,49.3,5.41,0,0,99.6,Non-peak
+PGK00210,25/08/2026,Astana,Hair care,Rail,1156.4,1558,20.8,19.8,21.4,41.1,6.26,0,0,98.2,Peak
+PGK00211,2026-03-21,Shymkent,Feminine care,Road,778.6,438,22.8,4.4,10.4,14.7,3.06,0,0,97.6,Non-peak
+PGK00212,2026-08-06,Shymkent,Laundry,Rail,1446.5,129,10.3,8.7,11.0,19.7,4.45,0,0,100.0,Peak
+PGK00213,2026-08-28,Astana,Baby care,Road,709.8,1804,4.0,28.1,9.8,37.9,3.04,0,0,98.2,Peak
+PGK00214,2026-05-17,Atyrau,Feminine care,Rail,1884.0,1889,2.5,25.5,10.7,36.2,5.26,0,0,99.9,Non-peak
+PGK00215,2026-08-13,Astana,ORAL CARE,rail,693.2,538,13.0,17.1,7.9,25.0,4.13,0,0,99.0,Peak
+PGK00216,2026-03-24,Almaty,Feminine care,Rail,905.3,141,6.5,8.0,2.4,10.4,4.11,0,0,99.0,Non-peak
+PGK00217,2026-01-25,Shymkent,Laundry,Road,1389.7,1377,9.9,14.7,12.8,27.5,3.47,0,0,100.0,Non-peak
+PGK00218,2026-01-30,Aktobe,Baby care,Road,1345.1,1198,9.2,13.1,11.4,24.5,3.77,0,0,97.8,Non-peak
+PGK00219,2026-05-16,Almaty,Oral care,Rail,1601.9,1784,5.4,17.0,15.3,32.3,5.58,1,6,90.2,Non-peak
+PGK00220,2026-10-02,Astana,Oral care,Road,1234.3,1172,2.3,12.8,14.6,27.4,3.04,0,0,98.4,Non-peak
+PGK00221,08/02/2026,Aktobe,Feminine care,Road,2318.8,1533,7.5,27.5,15.7,43.2,6.86,1,6,88.7,Non-peak
+PGK00222,2026-05-19,Shymkent,Baby care,Rail,2139.9,1584,11.4,22.0,30.5,52.5,7.44,1,5,90.2,Non-peak
+PGK00223,2026-08-03,Atyrau,Oral care,Road,2228.0,69,11.8,13.8,6.9,20.7,4.05,0,0,98.7,Peak
+PGK00224,2026-03-03,Astana,Baby care,Road,1666.4,339,6.2,14.0,5.4,19.4,4.6,0,0,98.4,Non-peak
+PGK00225,2026-08-08,SHYMKENT,Feminine care,Rail,1678.8,1571,22.5,31.0,15.5,46.5,6.6,1,6,88.1,Peak
+PGK00226,2026-04-04,Almaty,Laundry,Road,1620.7,399,4.3,8.7,12.8,21.5,3.39,0,0,98.1,Non-peak
+PGK00227,2026-09-03,Atyrau,Hair care,Rail,1228.5,452,19.3,7.7,4.8,12.4,4.77,1,5,92.7,Peak
+PGK00228,2026-06-26,Astana,Laundry,Road,974.7,1517,11.2,33.0,10.5,43.4,3.79,0,0,98.2,Peak
+PGK00229,2026-06-16,Shymkent,Oral care,Road,1582.0,448,7.6,8.1,6.7,14.8,4.73,0,0,100.0,Peak
+PGK00230,2026-02-23,Astana,Hair care,Road,307.4,341,14.2,14.5,6.4,20.9,3.47,0,0,100.0,Non-peak
+PGK00231,2026-05-21,Astana,Hair care,Road,266.8,76,8.8,10.5,3.5,14.0,3.44,0,0,99.6,Non-peak
+PGK00232,18/09/2026,Shymkent,Feminine care,Road,2166.2,965,3.2,29.9,15.9,45.8,7.54,0,0,98.5,Peak
+PGK00233,2026-01-06,Astana,Hair care,Road,354.5,1292,4.1,22.4,"10,8",33.2,3.0,0,0,99.1,Non-peak
+PGK00234,2026-08-19,Aktobe,LAUNDRY,Rail,1430.8,1477,8.4,"24,6",12.2,36.8,5.2,0,0,99.4,Peak
+PGK00235,2026-05-30,Astana,Laundry,Rail,1633.7,1816,6.9,14.4,13.9,28.4,"4,86",0,0,99.1,Non-peak
+PGK00236,2026-08-07,Shymkent,Hair care,Road,695.9,1320,"19,0",26.6,8.0,34.5,4.16,1,7,"85,4",Peak
+PGK00237,2026-07-21,Astana,Feminine care,Rail,"2265,4",1525,6.6,22.1,14.5,"36,6",8.92,1,6,86.8,Peak
+PGK00238,2026-05-12,Astana,Baby care,rail,677.7,460,6.3,6.7,4.0,10.7,2.13,0,0,100.0,Non-peak
+PGK00239,2026-04-04,Astana,Feminine care,Rail,2240.2,714,5.7,17.6,11.7,29.3,6.48,1,2,92.9,Non-peak
+PGK00240,2026-07-10,Almaty,Hair care,Road,1966.7,643,5.3,8.4,5.4,13.8,3.19,0,0,99.4,Peak
+PGK00241,2026-02-12,Almaty,Hair care,Rail,791.7,176,5.5,8.3,7.7,16.0,2.47,0,0,99.0,Non-peak
+PGK00242,2026-06-27,SHYMKENT,Laundry,Rail,589.2,1940,3.6,50.6,12.0,62.6,5.63,1,3,93.4,Peak
+PGK00243,29/01/2026,Shymkent,Hair care,Rail,961.5,520,11.5,7.2,13.4,20.6,4.68,0,0,98.0,Non-peak
+PGK00244,2026-07-17,Shymkent,Baby care,Road,1145.4,925,9.3,10.6,6.8,17.4,2.79,0,0,99.5,Peak
+PGK00245,2026-07-11,Almaty,Feminine care,Road,803.0,746,9.0,9.4,9.9,19.3,2.31,0,0,99.4,Peak
+PGK00246,2026-01-26,Almaty,Hair care,Rail,2497.5,136,2.6,5.3,8.5,13.7,7.54,0,0,100.0,Non-peak
+PGK00247,2026-08-19,Almaty,Oral care,Road,766.7,1812,13.4,31.9,15.4,47.3,3.64,1,4,92.0,Peak
+PGK00248,2026-05-07,Shymkent,Oral care,Road,2118.9,478,14.3,9.5,8.0,17.5,3.92,0,0,100.0,Non-peak
+PGK00249,2026-08-28,Aktobe,Hair care,Rail,608.0,245,26.0,7.8,4.5,12.2,2.96,0,0,97.8,Peak
+PGK00250,2026-01-13,Almaty,Feminine care,Road,2455.6,718,13.8,21.8,4.3,26.0,5.46,1,2,96.7,Non-peak
+PGK00251,2026-02-24,Shymkent,Baby care,Road,757.4,330,29.4,1.7,7.3,8.9,5.78,0,0,99.6,Non-peak
+PGK00252,2026-05-31,Almaty,Laundry,Road,1198.8,2000,6.1,15.3,13.3,28.6,3.21,0,0,99.3,Non-peak
+PGK00253,2026-02-27,Almaty,FEMININE CARE,Rail,1506.8,418,26.9,9.8,3.6,13.3,6.22,0,0,99.5,Non-peak
+PGK00254,11/04/2026,Almaty,Feminine care,Rail,520.6,640,14.1,23.4,4.4,27.8,3.46,0,0,100.0,Non-peak
+PGK00255,2026-07-20,Almaty,Laundry,Road,2087.8,579,12.9,14.6,8.7,23.3,3.97,1,2,95.9,Peak
+PGK00256,2026-02-13,Shymkent,Feminine care,Road,868.0,101,8.9,8.3,3.9,12.2,2.27,0,0,98.5,Non-peak
+PGK00257,2026-07-26,Atyrau,Feminine care,Road,1485.9,75,7.6,8.4,18.6,27.0,4.73,0,0,98.4,Peak
+PGK00258,2026-02-01,Almaty,Feminine care,Road,1486.7,1050,6.5,15.7,16.0,31.7,4.82,0,0,99.7,Non-peak
+PGK00259,2026-02-23,ASTANA,Hair care,Rail,1605.9,504,27.5,17.3,10.6,27.9,5.61,0,0,99.4,Non-peak
+PGK00260,2026-06-28,Shymkent,Oral care,Road,374.8,213,8.7,16.1,15.7,31.7,3.37,0,0,97.4,Peak
+PGK00261,2026-08-30,Atyrau,Baby care,road,629.4,618,14.2,23.2,7.2,30.4,3.19,0,0,99.5,Peak
+PGK00262,2026-02-21,Shymkent,Oral care,Road,612.7,584,16.3,12.9,"5,4",18.3,3.09,0,0,98.1,Non-peak
+PGK00263,2026-04-02,Almaty,Oral care,Rail,929.6,877,16.2,"22,5",14.2,36.7,5.76,0,0,99.3,Non-peak
+PGK00264,2026-10-09,Shymkent,Oral care,Rail,576.1,1986,11.5,12.6,12.8,25.4,"2,95",0,0,98.2,Non-peak
+PGK00265,28/10/2026,Almaty,Baby care,Road,2324.3,648,"26,6",9.9,7.7,17.6,4.99,0,0,"98,9",Non-peak
+PGK00266,2026-06-26,Atyrau,Oral care,Road,"1404,1",1424,13.5,26.0,9.4,"35,4",5.52,0,0,98.3,Peak
+PGK00267,2026-05-16,Astana,Baby care,Road,1653.0,1549,6.3,13.4,16.5,29.9,6.48,0,0,100.0,Non-peak
+PGK00268,2026-04-16,Shymkent,Laundry,Rail,1054.3,148,7.8,1.0,7.8,8.8,4.07,0,0,99.7,Non-peak
+PGK00269,2026-07-06,Almaty,Laundry,Rail,871.6,1028,2.7,37.9,9.9,47.8,4.61,0,0,99.9,Peak
+PGK00270,2026-06-29,Astana,Feminine care,Road,1382.1,925,12.4,17.4,8.8,26.2,4.62,0,0,100.0,Peak
+PGK00271,2026-03-31,Aktobe,Feminine care,Road,912.2,1040,15.0,11.4,15.6,27.0,3.2,0,0,99.1,Non-peak
+PGK00272,2026-01-07,Shymkent,BABY CARE,Road,1023.2,384,15.9,11.4,4.3,15.7,3.21,1,7,88.8,Non-peak
+PGK00273,2026-02-16,Astana,Laundry,Road,1268.7,957,14.1,10.5,5.0,15.6,2.81,0,0,98.5,Non-peak
+PGK00274,2026-10-19,Atyrau,Oral care,Road,,289,8.9,5.5,13.1,18.5,3.14,0,0,100.0,Non-peak
+PGK00275,2026-05-08,Aktobe,Laundry,Road,2464.7,1895,10.1,29.5,19.7,49.1,6.3,0,0,97.8,Non-peak
+PGK00276,27/05/2026,ALMATY,Hair care,Road,752.5,1195,10.1,9.4,7.5,16.9,2.81,0,0,99.2,Non-peak
+PGK00277,2026-05-23,Astana,Hair care,Road,1347.9,117,19.1,1.6,18.9,20.5,3.23,0,0,99.7,Non-peak
+PGK00278,2026-08-26,Astana,Laundry,Road,-99,1036,1.8,16.3,10.6,26.9,2.41,0,0,99.7,Peak
+PGK00279,2026-01-20,Shymkent,Feminine care,Road,1037.5,1857,7.2,17.5,10.2,27.7,3.45,0,0,97.7,Non-peak
+PGK00280,2026-01-26,Almaty,Baby care,Road,1863.9,1499,4.6,18.8,13.1,31.8,4.5,0,0,98.1,Non-peak
+PGK00281,2026-03-25,Almaty,Hair care,Road,642.5,582,33.4,6.2,3.8,10.0,2.7,0,0,99.9,Non-peak
+PGK00282,2026-05-28,Atyrau,Baby care,Road,1558.0,1790,21.5,40.4,9.3,49.7,6.04,0,0,98.2,Non-peak
+PGK00283,2026-07-24,Atyrau,Laundry,Road,1187.6,411,7.4,12.8,9.6,22.4,5.36,0,0,97.7,Peak
+PGK00284,2026-05-30,Aktobe,Baby care,road,366.1,531,3.3,9.9,7.3,17.2,2.68,0,0,99.1,Non-peak
+PGK00285,2026-05-15,Atyrau,Baby care,Road,2349.4,352,4.1,6.9,10.6,17.5,4.33,0,0,99.1,Non-peak
+PGK00286,2026-10-13,Shymkent,Hair care,Road,1180.6,1850,18.9,41.5,9.1,50.5,6.55,1,3,93.7,Non-peak
+PGK00287,18/02/2026,Shymkent,Feminine care,Road,2013.8,1448,2.7,22.8,22.2,45.0,4.7,1,6,89.0,Non-peak
+PGK00288,2026-06-23,Shymkent,Hair care,Road,1186.7,1060,10.2,16.2,9.7,25.9,4.01,0,0,99.5,Peak
+PGK00289,2026-06-14,Astana,Laundry,Rail,2359.1,1353,17.0,21.9,12.5,34.4,7.15,1,6,87.9,Peak
+PGK00290,2026-05-24,Astana,Baby care,Road,903.6,554,3.8,5.5,5.5,11.0,3.97,0,0,98.9,Non-peak
+PGK00291,2026-09-03,Almaty,FEMININE CARE,Road,1177.5,187,10.1,14.5,"4,2",18.6,2.81,1,3,95.0,Peak
+PGK00292,2026-03-23,Shymkent,Hair care,Rail,1957.4,1700,7.5,"17,9",11.5,29.3,5.4,0,0,98.4,Non-peak
+PGK00293,2026-10-17,ALMATY,Laundry,Road,1023.3,1931,6.8,24.9,15.6,40.4,"5,05",1,3,93.3,Non-peak
+PGK00294,2026-04-11,Almaty,Feminine care,Road,1069.8,119,"6,0",14.8,4.6,19.4,3.37,0,0,"97,6",Non-peak
+PGK00295,2026-06-15,Astana,Baby care,Rail,"2488,4",150,17.9,12.2,4.9,"17,1",8.07,0,0,99.2,Peak
+PGK00296,2026-06-08,Astana,Laundry,Road,1500.1,1141,24.4,33.7,16.0,49.7,5.1,0,0,99.0,Peak
+PGK00297,2026-09-16,Almaty,Oral care,Road,1801.1,133,8.4,13.1,12.2,25.3,3.82,0,0,97.1,Peak
+PGK00298,14/05/2026,Aktobe,Hair care,Road,1697.8,1457,12.9,13.2,9.8,23.0,4.38,0,0,98.0,Non-peak
+PGK00299,2026-03-28,Aktobe,Feminine care,Road,2112.8,1894,10.3,23.5,13.8,37.3,4.54,1,1,95.7,Non-peak
+PGK00300,2026-01-07,Almaty,Hair care,Road,2189.1,596,2.1,12.8,11.8,24.6,4.5,0,0,99.8,Non-peak
+PGK00301,2026-04-21,Almaty,Baby care,Road,1517.3,624,8.2,12.5,10.3,22.8,3.5,0,0,97.2,Non-peak
+PGK00302,2026-09-09,Almaty,Baby care,Road,912.8,1734,1.7,18.3,15.1,33.3,3.16,0,0,98.8,Peak
+PGK00303,2026-01-04,Aktobe,Hair care,Rail,301.3,744,7.1,13.5,10.5,24.1,3.12,0,0,99.8,Non-peak
+PGK00304,2026-09-30,Aktobe,Baby care,Road,1632.4,518,9.9,19.3,10.7,30.0,4.87,0,0,99.1,Peak
+PGK00305,2026-06-15,Almaty,Laundry,Road,2107.3,214,16.1,17.6,7.7,25.3,6.8,0,0,98.6,Peak
+PGK00306,2026-02-12,Shymkent,Oral care,Road,1263.7,1688,12.2,20.7,8.4,29.1,4.86,0,0,99.3,Non-peak
+PGK00307,2026-04-02,Almaty,Oral care,road,620.6,1856,18.2,29.2,9.4,38.7,3.13,0,0,99.8,Non-peak
+PGK00308,2026-06-18,Astana,Feminine care,Road,898.2,203,5.2,12.2,9.6,21.8,2.44,0,0,99.0,Peak
+PGK00309,06/04/2026,Atyrau,Hair care,Road,1397.5,1616,22.5,11.4,9.7,21.1,3.73,0,0,96.9,Non-peak
+PGK00310,2026-02-03,ALMATY,HAIR CARE,Rail,2132.5,362,24.4,4.4,8.1,12.5,7.02,0,0,100.0,Non-peak
+PGK00311,2026-07-22,Almaty,Baby care,Road,636.4,320,1.6,10.3,4.9,15.2,3.8,0,0,99.6,Peak
+PGK00312,2026-07-24,Astana,Oral care,Road,1627.3,793,2.5,27.1,7.7,34.8,3.61,0,0,98.8,Peak
+PGK00313,2026-02-06,Shymkent,Feminine care,Road,1945.1,901,9.8,13.7,7.7,21.4,5.12,0,0,97.1,Non-peak
+PGK00314,2026-03-27,Atyrau,Laundry,Road,2356.1,1716,6.7,33.3,7.3,40.6,5.41,1,1,96.8,Non-peak
+PGK00315,2026-03-16,Atyrau,Hair care,Road,512.6,1415,7.5,13.3,7.9,21.2,2.41,0,0,98.2,Non-peak
+PGK00316,2026-07-20,Almaty,Hair care,Road,2334.4,332,12.1,30.3,6.1,36.4,5.1,1,7,85.7,Peak
+PGK00317,2026-08-11,Almaty,Hair care,Road,1603.3,1189,18.6,19.7,12.3,31.9,4.51,0,0,98.8,Peak
+PGK00318,2026-08-10,Aktobe,Baby care,Rail,1975.1,1757,5.0,24.6,13.0,37.6,6.29,0,0,98.3,Peak
+PGK00319,2026-10-13,Almaty,Feminine care,Road,371.0,1341,20.6,8.2,11.1,19.3,2.53,0,0,98.7,Non-peak
+PGK00320,22/08/2026,Aktobe,Laundry,Road,1388.8,498,5.9,33.6,"9,0",42.5,4.65,1,6,89.3,Peak
+PGK00321,2026-04-08,Shymkent,Feminine care,Road,1650.9,301,36.3,"5,3",5.0,10.3,4.48,0,0,99.6,Non-peak
+PGK00322,2026-02-02,Almaty,Oral care,Road,940.4,932,22.6,39.3,6.6,45.8,"4,51",1,1,96.5,Non-peak
+PGK00323,2026-07-06,Aktobe,Oral care,Rail,1221.2,971,"6,4",27.0,11.0,38.0,5.3,1,3,"93,1",Peak
+PGK00324,2026-10-06,Almaty,Oral care,Road,"1497,2",738,3.3,15.0,14.1,"29,1",4.02,0,0,98.5,Non-peak
+PGK00325,2026-10-24,Astana,Laundry,Road,1493.2,263,6.2,6.4,3.9,10.2,2.44,0,0,99.1,Non-peak
+PGK00326,2026-03-11,Astana,Oral care,Road,344.2,280,5.6,15.6,17.1,32.7,3.06,0,0,99.5,Non-peak
+PGK00327,2026-03-13,ASTANA,Hair care,Rail,1238.8,1082,14.8,14.3,9.5,23.8,4.79,0,0,98.0,Non-peak
+PGK00328,2026-01-12,Shymkent,Baby care,Rail,731.1,1892,1.7,14.0,16.4,30.4,4.45,0,0,100.0,Non-peak
+PGK00329,2026-02-12,Shymkent,ORAL CARE,Road,2312.6,1216,2.6,15.5,11.2,26.7,4.82,0,0,99.6,Non-peak
+PGK00330,2026-06-18,Atyrau,Oral care,road,2447.3,904,14.5,10.7,12.6,23.3,4.92,0,0,96.3,Peak
+PGK00331,16/06/2026,Atyrau,Hair care,Rail,924.2,1866,5.4,25.7,11.7,37.3,3.86,0,0,98.9,Peak
+PGK00332,2026-04-23,Astana,Hair care,Rail,644.2,1396,7.1,21.5,8.8,30.3,2.84,0,0,100.0,Non-peak
+PGK00333,2026-04-05,Almaty,Baby care,Road,743.9,1450,16.9,12.2,6.7,18.9,3.06,0,0,99.5,Non-peak
+PGK00334,2026-09-10,Shymkent,Laundry,Rail,1324.9,1172,19.2,29.0,10.7,39.7,5.21,1,4,91.6,Peak
+PGK00335,2026-05-20,Atyrau,Oral care,Road,2217.6,1538,21.9,22.2,13.6,35.8,6.94,0,0,98.8,Non-peak
+PGK00336,2026-09-03,Almaty,Laundry,Road,1375.1,1028,16.0,22.0,10.2,32.2,4.34,0,0,99.1,Peak
+PGK00337,2026-10-20,Astana,Baby care,Rail,374.6,1263,8.7,12.1,14.3,26.4,2.37,1,3,94.7,Non-peak
+PGK00338,2026-04-07,Astana,Oral care,Road,339.7,1252,8.2,22.1,8.5,30.6,2.1,0,0,97.5,Non-peak
+PGK00339,2026-03-03,Almaty,Laundry,Rail,761.6,1518,7.5,16.2,8.7,24.9,3.75,0,0,98.4,Non-peak
+PGK00340,2026-10-17,Shymkent,Feminine care,Rail,2146.2,1802,3.8,23.4,10.3,33.7,7.68,0,0,100.0,Non-peak
+PGK00341,2026-07-12,Astana,Hair care,Road,1648.3,624,4.9,24.8,12.5,37.3,4.83,0,0,98.9,Peak
+PGK00342,30/03/2026,Shymkent,Laundry,Road,1516.7,1414,20.1,15.8,19.4,35.2,4.7,1,3,95.3,Non-peak
+PGK00343,2026-07-09,Aktobe,Oral care,Road,967.7,111,5.8,13.2,19.5,32.7,4.12,0,0,100.0,Peak
+PGK00344,2026-06-06,AKTOBE,Baby care,Rail,2341.2,1088,3.8,13.5,13.8,27.2,6.55,1,1,96.8,Peak
+PGK00345,2026-10-03,Astana,Oral care,Rail,995.2,1803,21.2,35.2,16.1,51.4,5.37,0,0,97.4,Non-peak
+PGK00346,2026-03-19,Almaty,Oral care,Road,2128.6,1308,11.6,41.2,6.4,47.6,7.16,0,0,98.4,Non-peak
+PGK00347,2026-10-29,Shymkent,Baby care,Road,2265.8,572,27.9,15.2,3.8,19.1,5.12,0,0,100.0,Non-peak
+PGK00348,2026-10-12,Aktobe,FEMININE CARE,Road,1337.5,1233,26.0,23.8,7.2,31.1,4.23,0,0,100.0,Non-peak
+PGK00349,2026-02-24,Astana,Hair care,Rail,2262.2,747,4.1,13.8,"14,6",28.5,6.2,0,0,100.0,Non-peak
+PGK00350,2026-02-20,Aktobe,Baby care,Road,872.8,895,9.3,"13,6",15.1,28.8,3.4,0,0,98.9,Non-peak
+PGK00351,2026-06-12,Almaty,Laundry,Road,1731.5,495,4.6,13.5,23.6,37.1,"5,22",0,0,99.3,Peak
+PGK00352,2026-01-14,Aktobe,Oral care,Road,447.9,1268,"4,5",24.5,7.3,31.8,2.33,0,0,"98,2",Non-peak
+PGK00353,01/04/2026,Almaty,Hair care,rail,"1316,4",436,7.3,25.7,6.2,"31,8",4.42,0,0,96.4,Non-peak
+PGK00354,2026-05-13,Almaty,Oral care,Road,739.0,915,15.1,15.8,4.6,20.4,2.72,0,0,99.1,Non-peak
+PGK00355,2026-10-22,Astana,Feminine care,Rail,391.2,1882,15.2,19.1,8.9,28.0,3.16,0,0,97.8,Non-peak
+PGK00356,2026-10-29,Almaty,Feminine care,Road,258.4,1528,13.9,15.8,9.9,25.7,2.17,0,0,99.7,Non-peak
+PGK00357,2026-02-16,Almaty,Feminine care,Road,980.7,858,8.7,30.1,5.8,35.9,4.95,0,0,97.0,Non-peak
+PGK00358,2026-09-29,Almaty,Laundry,Road,1576.4,1940,15.7,31.4,12.1,43.5,4.38,0,0,98.0,Peak
+PGK00359,2026-01-28,Astana,Laundry,Road,1274.3,77,3.7,6.1,3.2,9.3,3.39,0,0,99.6,Non-peak
+PGK00360,2026-08-16,Shymkent,Feminine care,Road,929.0,1922,11.7,42.9,22.3,65.2,4.55,0,0,98.7,Peak
+PGK00361,2026-09-15,ALMATY,Hair care,Road,2480.2,737,10.2,7.7,15.1,22.7,4.82,0,0,99.0,Peak
+PGK00362,2026-09-28,Shymkent,Laundry,Road,2363.9,1651,8.3,37.8,10.6,48.4,5.42,0,0,100.0,Peak
+PGK00363,2026-03-09,Aktobe,Hair care,Road,532.7,1898,12.0,29.2,17.5,46.7,4.45,1,3,95.1,Non-peak
+PGK00364,29/09/2026,Almaty,Feminine care,Rail,1184.0,1224,1.5,19.3,9.4,28.7,5.56,0,0,98.3,Peak
+PGK00365,2026-02-05,Almaty,Hair care,Road,1709.9,1241,4.6,18.6,6.1,24.8,8.46,0,0,100.0,Non-peak
+PGK00366,2026-06-07,Aktobe,Laundry,Road,1900.4,1511,14.3,25.4,10.9,36.3,5.41,1,4,93.8,Peak
+PGK00367,2026-05-23,Aktobe,ORAL CARE,Road,1074.3,517,10.0,5.4,8.0,13.3,2.31,1,1,97.4,Non-peak
+PGK00368,2026-04-07,Astana,Laundry,Road,1929.1,397,2.8,32.1,3.8,35.9,4.09,1,4,92.1,Non-peak
+PGK00369,2026-01-07,Aktobe,Hair care,Road,529.3,720,9.8,7.9,10.2,18.1,2.84,0,0,99.1,Non-peak
+PGK00370,2026-08-23,Almaty,Laundry,Rail,996.6,984,6.7,16.5,8.9,25.5,3.8,0,0,98.4,Peak
+PGK00371,2026-04-13,Astana,Oral care,Road,1862.0,1499,20.5,32.9,12.2,45.1,6.24,1,2,94.7,Non-peak
+PGK00372,2026-07-21,Shymkent,Baby care,Rail,1657.8,552,4.0,22.0,6.2,28.2,5.35,0,0,100.0,Peak
+PGK00373,2026-05-05,Almaty,Feminine care,Rail,2133.7,1151,4.1,17.2,9.4,26.6,5.5,0,0,99.5,Non-peak
+PGK00374,2026-04-24,Shymkent,Hair care,Road,355.4,56,13.1,29.8,2.5,32.3,2.83,0,0,98.4,Non-peak
+PGK00375,27/09/2026,Astana,Hair care,Rail,642.4,110,8.9,17.5,6.3,23.8,3.96,0,0,98.1,Peak
+PGK00376,2026-01-29,Shymkent,Laundry,road,359.1,1936,8.6,16.1,23.9,39.9,3.44,0,0,98.0,Non-peak
+PGK00377,2026-08-12,Astana,Hair care,Road,682.3,1708,36.4,32.4,12.2,44.6,5.53,0,0,98.5,Peak
+PGK00378,2026-08-16,ASTANA,Baby care,Rail,259.6,1735,15.4,19.0,"10,5",29.5,2.51,0,0,,Peak
+PGK00379,2026-04-26,Almaty,Laundry,Road,1384.5,691,7.8,"14,1",7.8,21.9,3.14,0,0,98.2,Non-peak
+PGK00380,2026-03-21,Almaty,Baby care,Rail,,1052,2.5,16.1,9.3,25.3,"5,66",0,0,99.9,Non-peak
+PGK00381,2026-01-02,Shymkent,Feminine care,Road,1730.3,1366,"7,5",27.6,10.5,38.1,4.06,0,0,"99,0",Non-peak
+PGK00382,2026-10-12,Almaty,Oral care,Road,"1116,1",545,3.6,5.2,9.2,"14,3",3.34,0,0,99.4,Non-peak
+PGK00383,2026-10-16,Almaty,Oral care,Road,257.2,1502,4.9,15.8,9.2,25.0,1.68,0,0,100.0,Non-peak
+PGK00384,2026-03-15,Almaty,Feminine care,Road,1766.3,1401,5.0,14.6,13.1,27.7,4.19,0,0,99.8,Non-peak
+PGK00385,2026-01-10,Almaty,Oral care,Road,372.2,844,19.4,26.6,8.0,34.6,3.13,0,0,97.5,Non-peak
+PGK00386,07/02/2026,Aktobe,ORAL CARE,Road,2198.9,898,3.0,14.3,5.0,19.3,3.74,0,0,98.1,Non-peak
+PGK00387,2026-01-21,Astana,Feminine care,Road,301.0,649,18.2,27.7,10.9,38.5,3.56,1,4,91.8,Non-peak
+PGK00388,2026-09-10,Atyrau,Laundry,Road,1443.6,1617,13.5,17.8,13.8,31.6,5.33,0,0,99.3,Peak
+PGK00389,2026-09-29,Almaty,Feminine care,Road,2263.6,1975,13.4,20.2,17.1,37.3,5.08,1,6,90.0,Peak
+PGK00390,2026-02-16,Shymkent,Hair care,Rail,1538.1,2000,4.7,35.8,9.6,45.5,4.97,0,0,98.7,Non-peak
+PGK00391,2026-08-16,Astana,Oral care,Road,1618.9,1554,16.6,28.6,16.8,45.4,5.09,0,0,100.0,Peak
+PGK00392,2026-02-24,Astana,Feminine care,Rail,1783.6,731,4.3,25.2,21.9,47.1,5.71,0,0,97.9,Non-peak
+PGK00393,2026-04-22,Aktobe,Baby care,Road,525.4,1573,24.7,11.0,7.8,18.7,3.85,0,0,98.6,Non-peak
+PGK00394,2026-07-02,Atyrau,Laundry,Rail,1768.6,526,19.7,17.9,13.6,31.5,5.85,0,0,98.6,Peak
+PGK00395,2026-08-07,AKTOBE,Hair care,Rail,2230.8,1799,27.4,24.1,14.6,38.6,7.24,1,5,89.5,Peak
+PGK00396,2026-09-23,Almaty,Baby care,Road,2442.0,571,10.2,19.3,8.9,28.3,4.92,0,0,100.0,Peak
+PGK00397,14/01/2026,Almaty,Feminine care,Road,1246.9,835,8.9,13.2,12.0,25.2,4.64,1,7,84.4,Non-peak
+PGK00398,2026-03-01,Shymkent,Feminine care,Road,1025.1,232,7.4,10.7,9.0,19.6,3.35,0,0,98.6,Non-peak
+PGK00399,2026-03-27,Almaty,Baby care,road,1944.9,208,35.9,12.3,11.9,24.2,4.98,0,0,100.0,Non-peak
+PGK00400,2026-04-05,Shymkent,Feminine care,Road,1471.5,818,15.0,10.3,4.9,15.3,3.12,0,0,98.9,Non-peak
+PGK00401,2026-10-31,Astana,Baby care,Rail,828.9,1123,3.7,25.6,15.9,41.5,5.68,1,4,93.0,Non-peak
+PGK00402,2026-08-25,Astana,Baby care,Rail,637.4,83,22.9,28.7,8.5,37.2,4.04,0,0,100.0,Peak
+PGK00403,2026-04-08,Aktobe,Feminine care,Road,633.0,1700,8.7,25.7,7.8,33.5,4.31,1,3,93.9,Non-peak
+PGK00404,2026-10-23,Shymkent,Oral care,Rail,1283.1,273,1.0,15.1,4.5,19.6,3.83,0,0,100.0,Non-peak
+PGK00405,2026-06-01,Almaty,BABY CARE,Road,632.8,1997,5.6,25.6,15.5,41.0,2.98,1,3,96.1,Peak
+PGK00406,2026-06-02,Almaty,Baby care,Rail,294.4,580,19.7,20.1,7.6,27.8,2.86,0,0,99.4,Peak
+PGK00407,2026-05-12,Shymkent,Oral care,Rail,367.2,789,13.5,15.8,"7,4",23.2,2.84,1,3,93.9,Non-peak
+PGK00408,13/02/2026,Astana,Oral care,Rail,2342.2,361,15.4,"7,5",4.4,11.9,5.49,0,0,100.0,Non-peak
+PGK00409,2026-10-12,Almaty,Baby care,Rail,414.2,1658,22.8,27.4,32.2,59.6,"4,52",0,0,99.6,Non-peak
+PGK00410,2026-01-05,Astana,Laundry,Rail,414.7,1478,"2,1",12.6,13.5,26.1,4.85,0,0,"99,0",Non-peak
+PGK00411,2026-02-22,Shymkent,Laundry,Road,"1265,2",203,5.6,25.6,5.8,"31,4",6.58,0,0,98.5,Non-peak
+PGK00412,2026-03-11,AKTOBE,Laundry,Rail,,256,10.4,7.8,3.0,10.8,2.72,0,0,100.0,Non-peak
+PGK00413,2026-03-26,Astana,Baby care,Road,2416.1,1238,20.1,25.5,16.1,41.6,6.6,1,3,93.4,Non-peak
+PGK00414,2026-02-10,Astana,Oral care,Road,2299.7,1739,4.3,23.8,13.9,37.7,5.42,0,0,100.0,Non-peak
+PGK00415,2026-01-06,Almaty,Feminine care,Road,1160.7,264,7.8,3.3,3.2,6.5,2.13,0,0,99.6,Non-peak
+PGK00416,2026-07-26,Astana,Hair care,Road,1259.6,481,9.9,29.6,6.1,35.7,4.62,1,7,88.8,Peak
+PGK00417,2026-10-22,Almaty,Oral care,Road,1094.0,1113,5.4,9.7,8.8,18.5,2.75,0,0,98.3,Non-peak
+PGK00418,2026-02-07,Astana,Oral care,Rail,335.2,261,9.8,8.3,6.1,14.4,2.39,0,0,98.4,Non-peak
+PGK00419,01/04/2026,Shymkent,Laundry,Rail,908.9,644,8.9,10.1,10.0,20.2,4.37,1,5,91.5,Non-peak
+PGK00420,2026-06-03,Almaty,Hair care,Road,526.0,69,6.6,5.9,6.8,12.7,1.94,0,0,98.1,Peak
+PGK00421,2026-10-09,Almaty,Hair care,Road,480.3,1023,16.6,18.7,12.0,30.7,3.05,0,0,99.1,Non-peak
+PGK00422,2026-07-31,Almaty,Feminine care,rail,1511.9,1445,14.7,32.3,11.1,43.4,6.36,1,6,90.1,Peak
+PGK00423,2026-08-21,Aktobe,Feminine care,Road,472.2,853,17.1,33.8,10.0,43.7,4.94,0,0,96.9,Peak
+PGK00424,2026-06-26,Shymkent,FEMININE CARE,Road,481.6,550,18.1,18.5,15.6,34.2,3.83,0,0,99.3,Peak
+PGK00425,2026-05-07,Almaty,Baby care,Road,1331.2,877,26.5,16.5,11.7,28.2,4.36,0,0,100.0,Non-peak
+PGK00426,2026-03-02,Aktobe,Baby care,Road,1245.1,1044,2.7,22.3,8.9,31.2,4.56,0,0,98.9,Non-peak
+PGK00427,2026-09-20,Astana,Hair care,Road,559.7,373,3.0,14.2,9.5,23.7,2.74,0,0,98.1,Peak
+PGK00428,2026-09-02,Astana,Oral care,Road,260.0,267,15.7,23.2,7.6,30.8,4.42,0,0,98.7,Peak
+PGK00429,2026-01-08,ATYRAU,Laundry,Road,684.2,404,7.1,11.0,3.0,13.9,4.31,0,0,98.4,Non-peak
+PGK00430,06/08/2026,Almaty,Hair care,Rail,780.8,1972,6.4,23.0,24.0,46.9,4.75,1,6,88.5,Peak
+PGK00431,2026-01-26,Almaty,Laundry,Rail,2050.6,1460,5.7,19.6,8.1,27.7,7.24,0,0,98.7,Non-peak
+PGK00432,2026-08-13,Astana,Baby care,Road,2309.7,294,17.5,2.0,6.7,8.7,5.87,0,0,98.8,Peak
+PGK00433,2026-09-09,Almaty,Hair care,Road,1163.4,637,34.5,20.6,27.3,47.9,5.44,0,0,99.1,Peak
+PGK00434,2026-02-09,Shymkent,Laundry,Road,1161.3,853,18.0,18.4,5.3,23.7,5.19,0,0,100.0,Non-peak
+PGK00435,2026-05-12,Almaty,Hair care,Road,1853.1,403,6.8,6.3,6.0,12.3,3.73,0,0,99.6,Non-peak
+PGK00436,2026-02-07,Almaty,Feminine care,Rail,1660.6,1711,16.9,23.4,"18,8",42.1,6.89,0,0,100.0,Non-peak
+PGK00437,2026-06-22,Almaty,Baby care,Road,664.3,1885,2.9,"24,4",25.7,50.1,3.7,0,0,100.0,Peak
+PGK00438,2026-10-09,Astana,Feminine care,Rail,492.3,527,8.4,6.1,8.9,15.1,"2,01",0,0,98.6,Non-peak
+PGK00439,2026-01-25,Almaty,Feminine care,Road,,82,"2,1",4.9,11.5,16.4,5.42,0,0,"99,5",Non-peak
+PGK00440,2026-05-01,Almaty,Feminine care,Road,"1520,9",570,7.1,3.3,6.3,"9,6",3.77,1,6,88.7,Non-peak
+PGK00441,23/10/2026,Aktobe,Hair care,Rail,562.1,1186,11.2,31.4,5.0,36.3,4.44,0,0,97.4,Non-peak
+PGK00442,2026-04-02,Almaty,Feminine care,Rail,909.9,1627,38.5,16.1,17.0,33.1,5.53,0,0,,Non-peak
+PGK00443,2026-02-10,Astana,FEMININE CARE,Road,938.4,712,21.1,13.9,7.5,21.4,4.96,0,0,98.1,Non-peak
+PGK00444,2026-05-29,Almaty,Feminine care,Rail,837.9,583,2.1,11.5,6.0,17.5,3.02,0,0,99.7,Non-peak
+PGK00445,2026-06-04,Astana,Hair care,rail,1286.7,535,2.3,35.6,7.5,43.1,4.6,0,0,97.2,Peak
+PGK00446,2026-07-21,ALMATY,Hair care,Road,1719.4,55,5.4,12.2,10.0,22.2,3.55,0,0,99.3,Peak
+PGK00447,2026-04-06,Shymkent,Baby care,Road,1396.1,77,29.6,10.9,8.1,19.0,4.36,0,0,97.6,Non-peak
+PGK00448,2026-10-18,Almaty,Feminine care,Road,703.3,884,2.2,7.6,8.3,15.9,2.01,0,0,99.9,Non-peak
+PGK00449,2026-06-08,Aktobe,Feminine care,Rail,481.6,1254,5.7,27.2,13.6,40.8,3.57,0,0,98.4,Peak
+PGK00450,2026-03-29,Atyrau,Baby care,Road,,74,5.7,11.9,2.1,14.1,3.44,0,0,98.8,Non-peak
+PGK00451,2026-10-19,Almaty,Laundry,Rail,1328.4,440,13.1,11.3,5.8,17.2,5.41,0,0,100.0,Non-peak
+PGK00452,09/10/2026,Almaty,Baby care,Rail,389.8,1825,17.2,12.7,9.2,21.9,3.51,0,0,98.8,Non-peak
+PGK00453,2026-06-01,Almaty,Oral care,Rail,830.8,1981,14.8,53.0,11.8,64.8,7.8,1,6,88.2,Peak
+PGK00454,2026-01-08,Shymkent,Baby care,Rail,2059.1,1302,11.8,15.6,11.4,26.9,5.75,0,0,98.8,Non-peak
+PGK00455,2026-07-01,Almaty,Hair care,Rail,1941.4,1067,2.8,16.2,11.2,27.4,6.17,0,0,99.5,Peak
+PGK00456,2026-06-18,Aktobe,Hair care,Rail,2220.6,1187,10.6,15.9,10.1,26.0,5.81,0,0,100.0,Peak
+PGK00457,2026-02-15,Shymkent,Laundry,Rail,1604.7,772,23.2,7.1,7.0,14.0,5.26,0,0,100.0,Non-peak
+PGK00458,2026-07-12,Aktobe,Hair care,Road,1201.5,443,28.2,21.5,10.3,31.8,4.77,0,0,98.5,Peak
+PGK00459,2026-09-13,Astana,Oral care,Road,1209.9,783,12.8,25.4,13.1,38.4,3.64,0,0,100.0,Peak
+PGK00460,2026-02-02,Atyrau,Hair care,Rail,686.5,1415,2.1,17.9,12.7,30.6,4.54,0,0,98.0,Non-peak
+PGK00461,2026-08-08,Almaty,Feminine care,Rail,1714.3,1342,13.0,13.1,8.3,21.4,6.11,0,0,98.4,Peak
+PGK00462,2026-02-12,Astana,LAUNDRY,Road,1566.4,1371,8.8,20.0,5.9,25.9,4.42,0,0,98.9,Non-peak
+PGK00463,16/08/2026,ALMATY,Baby care,Road,598.4,1237,2.5,35.3,9.4,44.7,2.86,0,0,99.7,Peak
+PGK00464,2026-05-08,Atyrau,Baby care,Road,2242.7,167,4.1,6.4,1.1,7.4,3.44,0,0,98.2,Non-peak
+PGK00465,2026-01-02,Astana,Feminine care,Rail,1079.1,1272,4.7,16.6,"18,1",34.7,5.29,0,0,99.8,Non-peak
+PGK00466,2026-10-21,Aktobe,Feminine care,Road,,1768,15.7,"20,1",10.9,30.9,3.1,0,0,98.9,Non-peak
+PGK00467,2026-02-20,Almaty,Baby care,Rail,987.7,1315,27.5,21.0,6.7,27.7,"4,73",0,0,98.6,Non-peak
+PGK00468,2026-07-01,Atyrau,Oral care,rail,2207.2,1180,"14,1",19.2,10.5,29.7,7.96,0,0,"100,0",Peak
+PGK00469,2026-02-25,Astana,Oral care,Road,"2313,2",486,16.1,2.9,2.6,"5,5",4.42,0,0,98.6,Non-peak
+PGK00470,2026-10-11,Astana,Baby care,Road,1353.4,1596,9.3,13.5,7.8,21.3,3.06,0,0,100.0,Non-peak
+PGK00471,2026-08-13,Atyrau,Laundry,Road,2401.8,931,6.3,17.0,9.3,26.3,5.77,0,0,98.9,Peak
+PGK00472,2026-09-02,Astana,Baby care,Road,2219.3,562,14.4,15.1,7.3,22.5,4.29,0,0,99.2,Peak
+PGK00473,2026-05-12,Astana,Hair care,Rail,2106.8,1005,12.0,11.7,7.5,19.3,5.93,0,0,100.0,Non-peak
+PGK00474,23/05/2026,Astana,Baby care,Rail,2184.3,288,5.1,5.3,7.8,13.1,5.75,0,0,99.4,Non-peak
+PGK00475,2026-07-12,Almaty,Oral care,Road,1109.2,1857,11.4,34.8,18.8,53.6,5.36,0,0,99.7,Peak
+PGK00476,2026-08-27,Almaty,Hair care,Road,1952.1,1420,9.8,18.4,12.9,31.3,4.1,0,0,97.0,Peak
+PGK00477,2026-09-15,Almaty,Hair care,Rail,1549.0,687,7.7,19.8,14.4,34.3,4.63,1,1,96.7,Peak
+PGK00478,2026-01-06,Almaty,Feminine care,Road,1869.3,1598,6.1,13.0,9.5,22.5,3.38,0,0,99.5,Non-peak
+PGK00479,2026-07-21,Aktobe,Hair care,Rail,650.0,155,12.8,20.0,13.2,33.2,5.39,0,0,100.0,Peak
+PGK00480,2026-02-03,ASTANA,Laundry,Rail,1895.6,803,6.5,18.3,8.5,26.8,4.99,0,0,99.8,Non-peak
+PGK00481,2026-03-29,Astana,ORAL CARE,Road,2404.6,1320,34.5,41.6,14.1,55.7,9.26,0,0,99.2,Non-peak
+PGK00482,2026-09-10,Astana,Oral care,Rail,931.0,96,13.8,11.6,5.6,17.2,4.79,1,4,93.5,Peak
+PGK00483,2026-03-18,Astana,Feminine care,Road,2468.9,1432,13.0,37.1,10.8,47.9,5.66,0,0,99.1,Non-peak
+PGK00484,2026-08-31,Shymkent,Oral care,Road,1101.3,1646,8.6,18.3,26.2,44.5,3.53,0,0,96.6,Peak
+PGK00485,21/05/2026,Atyrau,Feminine care,Rail,699.4,1209,7.2,14.4,9.9,24.4,3.4,0,0,100.0,Non-peak
+PGK00486,2026-03-12,Atyrau,Baby care,Rail,502.6,452,1.7,6.7,11.1,17.8,2.18,0,0,98.3,Non-peak
+PGK00487,2026-04-12,Astana,Hair care,Rail,2016.2,1511,5.4,38.4,16.1,54.5,8.31,0,0,98.8,Non-peak
+PGK00488,2026-06-11,Almaty,Feminine care,Road,1498.4,711,2.1,18.6,12.3,30.9,4.06,0,0,99.1,Peak
+PGK00489,2026-08-21,Astana,Hair care,Road,941.0,1485,2.1,23.0,16.3,39.4,3.56,1,1,97.1,Peak
+PGK00490,2026-07-04,Astana,Hair care,Road,1619.0,1275,3.5,16.4,10.3,26.7,3.74,0,0,97.9,Peak
+PGK00491,2026-10-11,Astana,Feminine care,rail,997.2,232,21.6,1.3,3.3,4.6,4.3,0,0,97.5,Non-peak
+PGK00492,2026-09-21,Shymkent,Feminine care,Road,1258.8,245,21.5,9.8,4.9,14.7,3.65,0,0,98.2,Peak
+PGK00493,2026-08-18,Astana,Hair care,Rail,2191.0,79,5.5,11.0,8.8,19.8,8.25,0,0,100.0,Peak
+PGK00494,2026-07-03,Almaty,Oral care,Road,1753.4,190,2.7,7.2,"7,7",14.9,2.86,0,0,97.8,Peak
+PGK00495,2026-03-30,Astana,Feminine care,Road,1965.4,634,7.0,"12,7",8.7,21.4,4.0,0,0,98.2,Non-peak
+PGK00496,06/05/2026,Astana,Oral care,Road,1562.9,100,15.6,13.4,2.0,15.4,"4,3",1,1,97.9,Non-peak
+PGK00497,2026-02-06,ALMATY,Laundry,Rail,2480.6,1880,"18,8",24.4,10.2,34.6,7.88,0,0,"97,8",Non-peak
+PGK00498,2026-04-24,Almaty,Oral care,Rail,"793,2",1838,11.3,10.4,16.5,"26,8",3.4,0,0,98.5,Non-peak
+PGK00499,2026-10-09,Shymkent,Laundry,Rail,840.2,386,12.7,6.2,7.1,13.4,2.64,0,0,99.3,Non-peak
+PGK00500,2026-05-10,Astana,FEMININE CARE,Road,458.3,657,11.9,8.1,7.9,16.0,3.37,0,0,99.5,Non-peak
+PGK00501,2026-02-04,Almaty,Laundry,Road,1496.5,1498,2.3,26.7,10.0,36.7,4.26,0,0,97.8,Non-peak
+PGK00502,2026-07-18,Astana,Feminine care,Rail,1630.1,1338,3.0,29.3,9.9,39.1,6.45,0,0,98.9,Peak
+PGK00503,2026-10-20,Shymkent,Laundry,Road,1883.4,1184,28.2,17.3,15.6,32.9,5.75,1,1,97.6,Non-peak
+PGK00504,2026-09-21,Almaty,Baby care,Road,1004.8,1979,11.3,23.0,22.0,45.0,3.52,1,7,85.5,Peak
+PGK00505,2026-03-25,Aktobe,Hair care,Rail,277.6,1278,1.2,28.3,10.2,38.5,3.26,0,0,,Non-peak
+PGK00506,2026-05-18,Atyrau,Feminine care,Rail,1672.5,1356,13.3,19.3,9.8,29.1,5.2,0,0,98.3,Non-peak
+PGK00507,11/06/2026,Shymkent,Hair care,Rail,2497.1,1029,4.5,33.1,18.8,51.9,7.51,1,6,88.5,Peak
+PGK00508,2026-03-17,Shymkent,Oral care,Road,912.7,1074,19.8,19.3,7.1,26.4,3.64,0,0,99.7,Non-peak
+PGK00509,2026-03-23,Almaty,Laundry,Road,663.9,617,18.4,6.0,5.8,11.9,2.22,0,0,99.1,Non-peak
+PGK00510,2026-03-13,Atyrau,Baby care,Road,884.0,1066,15.0,6.4,13.1,19.4,2.79,0,0,100.0,Non-peak
+PGK00511,2026-10-30,Astana,Feminine care,Road,1207.2,1841,11.2,14.9,10.7,25.6,4.37,0,0,99.8,Non-peak
+PGK00512,2026-08-15,Atyrau,Feminine care,Road,,785,23.0,24.1,10.0,34.2,4.76,1,6,89.6,Peak
+PGK00513,2026-09-13,Astana,Hair care,Road,1030.7,309,24.5,10.7,3.8,14.4,2.89,0,0,99.6,Peak
+PGK00514,2026-09-06,ALMATY,Hair care,road,1686.0,1220,4.6,28.8,19.2,47.9,5.06,1,3,94.6,Peak
+PGK00515,2026-10-19,Almaty,Baby care,Road,1026.3,1581,14.9,22.0,14.6,36.7,4.91,0,0,99.2,Non-peak
+PGK00516,2026-02-02,Shymkent,Baby care,Road,1141.1,1920,6.2,35.0,18.0,53.0,4.62,1,7,85.0,Non-peak
+PGK00517,2026-09-26,Astana,Baby care,Road,340.1,1107,4.1,18.4,8.6,27.1,2.66,0,0,98.2,Peak
+PGK00518,21/01/2026,Almaty,Laundry,Road,2315.4,1587,24.5,12.2,20.5,32.7,5.15,0,0,98.7,Non-peak
+PGK00519,2026-05-25,Shymkent,ORAL CARE,Road,1165.5,538,16.6,7.0,6.7,13.7,4.64,0,0,99.2,Non-peak
+PGK00520,2026-06-30,Aktobe,Hair care,Road,988.3,877,11.8,18.7,16.5,35.2,3.31,0,0,99.2,Peak
+PGK00521,2026-04-19,Astana,Hair care,Road,444.6,867,5.0,7.4,9.8,17.2,1.96,0,0,98.4,Non-peak
+PGK00522,2026-02-14,Astana,Feminine care,Road,1676.9,698,25.0,8.5,11.4,19.9,5.39,0,0,100.0,Non-peak
+PGK00523,2026-02-28,Almaty,Oral care,Road,2193.6,1447,4.5,13.4,"12,5",25.9,6.4,0,0,98.9,Non-peak
+PGK00524,2026-09-08,Shymkent,Hair care,Road,342.6,1773,3.6,"22,0",12.4,34.4,2.54,0,0,98.9,Peak
+PGK00525,2026-04-07,Almaty,Feminine care,Road,576.9,687,9.8,7.5,3.8,11.3,"5,28",0,0,98.6,Non-peak
+PGK00526,2026-04-05,Aktobe,Hair care,Road,579.4,314,"15,6",22.4,12.8,35.2,3.65,0,0,"97,9",Non-peak
+PGK00527,2026-10-08,Astana,Baby care,Road,"1605,1",1660,7.5,30.9,6.9,"37,9",4.52,1,5,90.2,Non-peak
+PGK00528,2026-02-13,Astana,Hair care,Rail,2322.8,1707,72.0,7.7,16.1,23.7,8.53,0,0,99.1,Non-peak
+PGK00529,06/10/2026,Almaty,Laundry,Road,1235.0,1874,11.0,27.7,19.0,46.7,4.36,1,5,90.1,Non-peak
+PGK00530,2026-10-07,Almaty,Baby care,Road,1023.6,547,6.2,6.0,3.6,9.6,2.77,0,0,100.0,Non-peak
+PGK00531,2026-07-01,SHYMKENT,Baby care,Road,1973.1,1452,6.8,29.3,11.3,40.6,5.47,0,0,98.6,Peak
+PGK00532,2026-02-20,Astana,Feminine care,Road,1920.8,1446,30.3,18.6,7.0,25.6,5.72,0,0,99.0,Non-peak
+PGK00533,2026-02-17,Astana,Hair care,Road,805.2,1591,9.1,17.0,9.3,26.3,2.88,1,7,87.9,Non-peak
+PGK00534,2026-03-28,Atyrau,Feminine care,Road,611.9,1622,24.0,16.4,16.7,33.1,5.33,0,0,98.7,Non-peak
+PGK00535,2026-06-25,Atyrau,Oral care,Rail,1055.1,1908,2.0,19.5,18.1,37.6,4.4,0,0,99.4,Peak
+PGK00536,2026-02-16,Aktobe,Laundry,Road,1995.1,980,20.1,43.4,11.6,55.1,6.19,0,0,97.2,Non-peak
+PGK00537,2026-05-19,Almaty,Oral care,rail,1813.9,198,5.2,3.0,4.3,7.3,4.1,0,0,98.1,Non-peak
+PGK00538,2026-02-05,Shymkent,BABY CARE,Road,1748.2,425,16.8,26.3,2.0,28.3,5.23,0,0,99.1,Non-peak
+PGK00539,2026-06-14,Aktobe,Hair care,Road,2116.2,1779,5.2,30.4,10.7,41.1,5.08,1,5,90.0,Peak
+PGK00540,07/01/2026,Astana,Baby care,Road,873.5,1698,7.1,16.7,10.8,27.5,3.02,0,0,98.2,Non-peak
+PGK00541,2026-08-04,Almaty,Hair care,Rail,1014.3,71,4.0,10.7,4.2,14.9,2.81,1,3,94.3,Peak
+PGK00542,2026-01-17,Aktobe,Oral care,Rail,345.3,767,17.1,6.8,12.4,19.2,2.31,0,0,99.4,Non-peak
+PGK00543,2026-03-01,Astana,Baby care,Road,2204.7,528,18.9,11.5,16.5,28.1,5.52,0,0,98.3,Non-peak
+PGK00544,2026-02-23,Astana,Baby care,Road,1560.5,675,5.4,5.8,9.0,14.8,5.16,0,0,98.7,Non-peak
+PGK00545,2026-09-10,Atyrau,Hair care,Rail,920.8,1296,2.5,31.1,8.5,39.7,4.07,1,7,87.1,Peak
+PGK00546,2026-01-17,Shymkent,Hair care,Road,406.2,1045,23.7,18.7,16.0,34.7,3.51,0,0,97.9,Non-peak
+PGK00547,2026-05-11,Astana,Baby care,Rail,1877.7,988,5.9,18.5,9.3,27.8,6.21,0,0,98.4,Non-peak
+PGK00548,2026-06-29,ASTANA,Baby care,Road,1934.7,898,8.8,19.7,10.4,30.1,5.82,0,0,,Peak
+PGK00549,2026-06-06,Astana,Hair care,Rail,1748.9,1301,4.6,23.4,14.5,37.8,5.43,0,0,98.8,Peak
+PGK00550,2026-07-26,Almaty,Baby care,Rail,708.5,1382,16.0,20.1,9.2,29.3,3.43,0,0,98.5,Peak
+PGK00551,02/09/2026,Aktobe,Hair care,Rail,2304.7,134,16.2,11.5,6.1,17.6,6.36,0,0,98.3,Peak
+PGK00552,2026-04-30,Aktobe,Baby care,Road,1944.6,317,26.3,31.1,"5,8",36.9,6.04,0,0,97.8,Non-peak
+PGK00553,2026-09-09,Almaty,Laundry,Road,1730.0,715,20.5,"27,6",10.8,38.4,4.47,1,5,90.2,Peak
+PGK00554,2026-04-07,Almaty,Baby care,Road,1714.6,900,19.5,17.9,10.0,27.8,"4,45",0,0,100.0,Non-peak
+PGK00555,2026-10-27,Aktobe,Oral care,Road,2284.8,1993,"9,4",19.2,15.2,34.4,5.09,1,3,"94,3",Non-peak
+PGK00556,2026-06-03,Almaty,Feminine care,Rail,"2338,7",1789,8.5,16.8,12.1,"28,9",6.43,0,0,97.6,Peak
+PGK00557,2026-08-12,Astana,ORAL CARE,Rail,1590.2,1315,15.8,23.2,8.1,31.3,5.03,0,0,99.6,Peak
+PGK00558,2026-09-24,Astana,Oral care,Rail,1187.5,120,9.0,15.4,6.5,21.9,3.98,0,0,98.3,Peak
+PGK00559,2026-08-29,Shymkent,Laundry,Road,1068.4,246,20.9,13.9,7.4,21.3,3.63,0,0,99.1,Peak
+PGK00560,2026-09-16,Almaty,Hair care,rail,2092.9,942,4.4,20.4,6.6,27.0,5.45,1,4,91.6,Peak
+PGK00561,2026-06-13,Shymkent,Oral care,Road,1700.4,1195,1.9,16.6,9.6,26.2,4.08,0,0,100.0,Peak
+PGK00562,14/01/2026,Astana,Feminine care,Rail,423.8,1338,14.6,11.5,10.9,22.3,3.83,0,0,98.0,Non-peak
+PGK00563,2026-05-30,Shymkent,Baby care,Rail,569.9,326,6.5,18.5,4.5,23.0,3.84,0,0,99.4,Non-peak
+PGK00564,2026-02-25,Almaty,Feminine care,Rail,2275.4,1781,3.8,11.4,12.5,23.8,5.72,0,0,98.4,Non-peak
+PGK00565,2026-09-28,ASTANA,Hair care,Rail,2240.1,1012,37.0,27.5,9.2,36.7,8.35,0,0,99.6,Peak
+PGK00566,2026-03-13,Astana,Laundry,Road,2391.6,1208,10.0,30.4,12.5,42.9,6.03,0,0,99.0,Non-peak
+PGK00567,2026-03-11,Almaty,Laundry,Road,1212.7,126,3.1,13.4,2.6,16.0,5.14,1,1,98.8,Non-peak
+PGK00568,2026-03-17,Almaty,Baby care,Rail,2014.1,1658,5.9,21.4,11.5,32.8,6.48,0,0,99.6,Non-peak
+PGK00569,2026-07-15,Almaty,Oral care,Road,2113.5,1109,8.0,17.3,11.4,28.7,5.17,0,0,98.3,Peak
+PGK00570,2026-06-23,Astana,Hair care,Road,960.3,484,14.4,10.7,13.0,23.7,4.46,1,5,93.5,Peak
+PGK00571,2026-10-16,Almaty,Oral care,Road,577.0,672,5.9,14.8,6.4,21.2,1.98,0,0,99.7,Non-peak
+PGK00572,2026-05-07,Atyrau,Oral care,Road,2493.3,738,8.9,8.2,17.2,25.4,5.09,1,3,93.4,Non-peak
+PGK00573,27/03/2026,Astana,Hair care,Road,318.0,102,12.1,2.2,14.3,16.5,4.2,0,0,99.4,Non-peak
+PGK00574,2026-01-15,Aktobe,Hair care,Road,1594.0,1888,13.7,20.6,9.8,30.4,6.36,1,6,89.4,Non-peak
+PGK00575,2026-01-03,Atyrau,Oral care,Road,1713.0,1616,9.4,16.8,11.2,28.0,4.03,0,0,99.6,Non-peak
+PGK00576,2026-04-24,Almaty,ORAL CARE,Road,1784.0,1778,30.0,19.5,8.6,28.1,7.06,0,0,99.5,Non-peak
+PGK00577,2026-10-09,Shymkent,Laundry,Road,825.2,739,16.1,18.9,9.8,28.7,3.39,0,0,100.0,Non-peak
+PGK00578,2026-06-09,Aktobe,Hair care,Rail,1873.6,1138,15.5,19.3,9.7,29.0,6.28,1,5,91.3,Peak
+PGK00579,2026-09-29,Shymkent,Baby care,Road,736.9,944,15.1,23.4,11.0,34.5,3.02,0,0,98.0,Peak
+PGK00580,2026-01-31,Astana,Baby care,Road,2115.3,977,21.0,3.9,7.8,11.7,5.98,0,0,100.0,Non-peak
+PGK00581,2026-01-29,Astana,Laundry,Rail,,1199,11.5,21.5,"29,8",51.2,4.53,1,6,90.3,Non-peak
+PGK00582,2026-09-11,ALMATY,Feminine care,Road,1817.6,930,4.3,"13,2",10.0,23.2,3.38,0,0,99.9,Peak
+PGK00583,2026-02-02,Astana,Hair care,road,2012.7,1558,13.3,14.1,10.2,24.4,"4,55",0,0,99.1,Non-peak
+PGK00584,16/01/2026,Atyrau,Hair care,Rail,675.1,164,"14,5",2.5,10.1,12.6,3.67,0,0,"99,3",Non-peak
+PGK00585,2026-05-03,Atyrau,Laundry,Road,"785,5",425,23.2,2.6,12.1,"14,7",4.35,0,0,98.9,Non-peak
+PGK00586,2026-10-09,Almaty,Feminine care,Road,2003.0,1791,3.9,16.9,13.0,30.0,3.97,0,0,98.8,Non-peak
+PGK00587,2026-07-29,Shymkent,Hair care,Road,443.5,1771,4.8,29.0,19.7,48.8,2.98,1,4,89.6,Peak
+PGK00588,2026-01-31,Almaty,Feminine care,Rail,679.2,1646,10.3,30.9,28.8,59.7,5.39,0,0,100.0,Non-peak
+PGK00589,2026-09-12,Aktobe,Baby care,Rail,1274.9,769,15.4,18.7,8.8,27.5,5.49,0,0,100.0,Peak
+PGK00590,2026-09-14,Almaty,Feminine care,Road,2342.9,940,3.3,15.2,7.4,22.6,4.17,0,0,97.4,Peak
+PGK00591,2026-09-01,Atyrau,Laundry,Rail,1514.2,99,4.0,10.5,8.9,19.4,4.06,0,0,100.0,Peak
+PGK00592,2026-10-02,Aktobe,Laundry,Rail,1122.3,595,17.9,3.4,12.3,15.7,5.09,0,0,99.2,Non-peak
+PGK00593,2026-03-14,Almaty,Feminine care,Rail,2451.3,1467,3.4,10.8,19.4,30.1,6.04,0,0,98.8,Non-peak
+PGK00594,2026-10-25,Almaty,Feminine care,Rail,1293.4,719,4.9,13.1,10.2,23.3,4.03,0,0,99.6,Non-peak
+PGK00595,08/04/2026,Aktobe,BABY CARE,Road,1225.9,986,18.7,18.1,8.9,27.0,3.6,0,0,97.3,Non-peak
+PGK00596,2026-09-01,Almaty,Laundry,Road,1176.2,290,15.2,20.2,5.7,25.9,4.27,0,0,99.0,Peak
+PGK00597,2026-06-26,Astana,Feminine care,Road,952.4,1018,6.0,20.8,17.7,38.5,3.25,1,6,88.7,Peak
+PGK00598,2026-08-25,Atyrau,Hair care,Road,982.8,1458,14.1,17.2,13.9,31.2,4.81,1,1,97.3,Peak
+PGK00599,2026-07-10,ASTANA,Feminine care,Road,1797.6,1166,12.2,15.5,7.5,23.1,4.0,0,0,97.7,Peak
+PGK00600,2026-07-15,Astana,Feminine care,Rail,341.9,1136,9.1,25.8,24.1,49.9,4.12,1,1,97.3,Peak
+PGK00601,2026-07-07,Astana,Feminine care,Rail,1784.1,1834,7.4,20.2,11.1,31.3,5.22,0,0,100.0,Peak
+PGK00602,2026-08-25,Almaty,Oral care,Rail,702.7,506,13.7,39.7,14.1,53.8,4.97,0,0,98.9,Peak
+PGK00603,2026-08-13,Atyrau,Oral care,Rail,1114.5,634,3.7,12.8,10.3,23.0,3.53,0,0,98.9,Peak
+PGK00604,2026-02-10,Almaty,Baby care,Rail,579.7,1265,13.6,28.0,6.0,34.0,3.27,0,0,100.0,Non-peak
+PGK00605,2026-09-09,Almaty,Laundry,Rail,1493.7,986,11.5,15.9,10.4,26.4,5.67,1,6,87.9,Peak
+PGK00606,12/06/2026,Almaty,Hair care,rail,1891.0,1960,12.0,29.5,13.6,43.1,6.09,1,4,92.7,Peak
+PGK00607,2026-04-09,Atyrau,Oral care,Road,1048.0,166,4.7,6.3,1.9,8.1,2.05,0,0,99.6,Non-peak
+PGK00608,2026-06-06,Almaty,Feminine care,Road,617.7,288,23.6,13.4,10.0,23.4,3.47,0,0,100.0,Peak
+PGK00609,2026-10-21,Aktobe,Baby care,Road,759.6,717,6.0,5.7,12.0,17.6,2.79,0,0,99.6,Non-peak
+PGK00610,2026-09-18,Shymkent,Oral care,Road,2090.8,944,6.8,23.6,"10,5",34.1,4.33,0,0,99.5,Peak
+PGK00611,2026-09-11,Aktobe,Laundry,Road,852.2,1787,8.8,"19,0",12.8,31.8,3.8,0,0,99.4,Peak
+PGK00612,2026-05-21,Atyrau,Baby care,Rail,1993.1,1014,15.2,8.4,11.3,19.7,"5,46",0,0,98.1,Non-peak
+PGK00613,2026-08-27,Aktobe,Baby care,Road,-99,902,"11,8",12.7,5.8,18.5,2.56,1,5,"89,8",Peak
+PGK00614,2026-04-28,Atyrau,FEMININE CARE,Rail,"674,6",375,2.5,4.4,4.9,"9,3",2.27,0,0,99.1,Non-peak
+PGK00615,2026-07-28,Almaty,Hair care,Road,1886.4,897,9.9,26.6,9.2,35.8,4.61,0,0,99.8,Peak
+PGK00616,2026-07-14,AKTOBE,Hair care,Road,1304.2,1087,10.5,23.3,11.2,34.5,4.43,0,0,99.1,Peak
+PGK00617,17/03/2026,Astana,Hair care,Road,320.4,1188,24.0,15.1,5.9,21.0,5.27,0,0,,Non-peak
+PGK00618,2026-03-23,Astana,Laundry,Rail,2409.9,1232,7.9,23.8,5.6,29.3,6.79,0,0,100.0,Non-peak
+PGK00619,2026-01-19,Aktobe,Baby care,Road,582.4,888,14.3,14.4,5.5,19.9,3.27,0,0,97.2,Non-peak
+PGK00620,2026-02-12,Atyrau,Oral care,Road,1045.2,356,48.0,13.0,8.2,21.2,4.19,0,0,97.8,Non-peak
+PGK00621,2026-05-12,Shymkent,Feminine care,Road,1115.8,347,21.3,3.2,4.9,8.1,4.37,0,0,96.9,Non-peak
+PGK00622,2026-05-26,Astana,Feminine care,Road,1351.2,351,4.5,15.9,3.3,19.2,3.17,0,0,100.0,Non-peak
+PGK00623,2026-02-20,Astana,Laundry,Road,2017.2,1256,16.6,18.5,20.8,39.3,4.82,0,0,98.7,Non-peak
+PGK00624,2026-05-07,Astana,Hair care,Rail,263.7,1720,13.6,16.6,10.6,27.2,3.99,0,0,100.0,Non-peak
+PGK00625,2026-07-03,Astana,Hair care,Road,2348.1,1772,7.7,32.4,14.0,46.4,5.62,1,4,91.8,Peak
+PGK00626,2026-03-12,Astana,Hair care,Road,1703.5,657,16.7,9.9,14.1,24.0,5.24,0,0,100.0,Non-peak
+PGK00627,2026-04-13,Almaty,Feminine care,Rail,2389.0,205,4.4,25.7,6.3,32.0,9.21,0,0,98.8,Non-peak
+PGK00628,22/04/2026,Almaty,Laundry,Rail,2089.1,1279,6.1,18.4,12.3,30.7,5.5,0,0,99.4,Non-peak
+PGK00629,2026-06-03,Shymkent,Laundry,road,2337.6,124,8.9,13.5,4.9,18.4,4.15,0,0,99.4,Peak
+PGK00630,2026-04-22,Astana,Feminine care,Road,1602.3,1272,7.4,18.1,10.2,28.2,4.69,0,0,99.3,Non-peak
+PGK00631,2026-08-13,Atyrau,Feminine care,Road,1053.9,797,15.5,36.8,19.7,56.5,4.91,1,2,96.8,Peak
+PGK00632,2026-04-10,Shymkent,Hair care,Road,1246.6,1687,9.7,14.3,13.3,27.6,3.01,1,4,90.6,Non-peak
+PGK00633,2026-05-12,ALMATY,HAIR CARE,Road,1730.6,1270,6.9,20.5,10.9,31.4,4.07,0,0,98.9,Non-peak
+PGK00634,2026-04-26,Almaty,Baby care,Road,1210.6,1493,21.1,18.1,10.0,28.1,4.01,0,0,99.2,Non-peak
+PGK00635,2026-02-25,Almaty,Baby care,Rail,1896.3,841,15.1,15.7,4.8,20.5,5.64,0,0,99.2,Non-peak
+PGK00636,2026-07-28,Atyrau,Feminine care,Road,456.7,1689,2.9,14.7,19.4,34.0,2.37,0,0,98.5,Peak
+PGK00637,2026-03-13,Almaty,Baby care,Road,2117.5,1074,2.9,16.9,8.9,25.8,5.87,0,0,98.5,Non-peak
+PGK00638,2026-04-01,Astana,Laundry,Rail,709.4,1269,6.9,15.9,7.8,23.7,2.68,0,0,100.0,Non-peak
+PGK00639,29/08/2026,Atyrau,Baby care,Road,2373.9,753,3.3,25.0,"6,3",31.3,5.16,0,0,98.9,Peak
+PGK00640,2026-10-16,Atyrau,Baby care,Rail,600.0,926,18.9,"19,6",9.8,29.4,3.51,0,0,100.0,Non-peak
+PGK00641,2026-07-23,Almaty,Baby care,Road,540.6,1689,6.3,31.0,10.5,41.5,"2,98",0,0,99.3,Peak
+PGK00642,2026-10-06,Almaty,Baby care,Road,2076.7,817,"14,3",13.1,14.0,27.0,6.13,1,5,"90,2",Non-peak
+PGK00643,2026-09-17,Almaty,Feminine care,Road,"2092,1",91,16.4,15.5,5.2,"20,7",4.49,0,0,99.7,Peak
+PGK00644,2026-05-27,Almaty,Feminine care,Road,1912.2,789,1.7,22.0,8.3,30.3,4.52,0,0,99.1,Non-peak
+PGK00645,2026-08-23,Almaty,Hair care,Road,2411.2,814,6.6,11.5,11.7,23.2,5.45,0,0,100.0,Peak
+PGK00646,2026-04-10,Astana,Hair care,Road,858.7,866,8.6,15.0,9.4,24.3,3.09,1,6,87.7,Non-peak
+PGK00647,2026-05-20,Atyrau,Oral care,Road,2110.0,187,12.2,3.5,9.9,13.4,5.53,0,0,97.5,Non-peak
+PGK00648,2026-06-12,Astana,Baby care,Road,1042.1,302,18.2,33.8,6.3,40.1,3.78,0,0,99.1,Peak
+PGK00649,2026-10-19,Shymkent,Baby care,Rail,1459.1,682,38.1,22.2,7.6,29.8,6.56,0,0,99.8,Non-peak
+PGK00650,15/09/2026,ALMATY,Laundry,Rail,1252.6,877,28.1,19.2,13.0,32.2,7.88,0,0,99.2,Peak
+PGK00651,2026-05-29,Aktobe,Hair care,Road,263.2,106,9.6,15.8,14.0,29.8,2.91,0,0,99.6,Non-peak
+PGK00652,2026-07-18,Shymkent,ORAL CARE,rail,1542.5,809,9.6,15.1,13.9,29.0,4.52,0,0,99.5,Peak
+PGK00653,2026-03-03,Aktobe,Feminine care,Road,1931.9,674,26.2,25.1,12.5,37.7,5.96,0,0,97.3,Non-peak
+PGK00654,2026-09-02,Atyrau,Oral care,Road,642.7,117,10.0,11.1,6.2,17.4,4.19,0,0,99.5,Peak
+PGK00655,2026-06-18,Astana,Hair care,Road,2346.2,538,6.5,16.0,10.7,26.6,4.57,0,0,100.0,Peak
+PGK00656,2026-06-11,Almaty,Laundry,Rail,1443.4,586,19.1,27.9,16.6,44.4,5.79,1,7,87.0,Peak
+PGK00657,2026-08-21,Almaty,Laundry,Road,651.1,330,12.6,15.2,8.0,23.3,3.56,1,5,89.3,Peak
+PGK00658,2026-07-12,Astana,Hair care,Road,1703.4,1516,2.8,17.9,14.6,32.5,4.56,1,2,95.2,Peak
+PGK00659,2026-01-23,Atyrau,Baby care,Road,681.8,191,8.0,16.4,1.8,18.2,2.63,0,0,99.7,Non-peak
+PGK00660,2026-03-29,Astana,Feminine care,Rail,393.0,1177,3.4,10.7,12.7,23.4,2.17,0,0,100.0,Non-peak
+PGK00661,23/02/2026,Shymkent,Feminine care,Road,1792.0,1348,1.0,19.6,11.2,30.8,3.82,1,5,88.5,Non-peak
+PGK00662,2026-08-12,Astana,Laundry,Rail,499.1,1622,30.6,23.6,16.1,39.7,4.08,0,0,99.1,Peak
+PGK00663,2026-01-11,Almaty,Oral care,Road,489.0,1114,11.0,19.8,8.3,28.1,2.25,0,0,98.1,Non-peak
+PGK00664,2026-03-03,Almaty,Hair care,Rail,1914.9,1108,8.2,19.0,5.2,24.2,6.74,0,0,99.6,Non-peak
+PGK00665,2026-07-01,Shymkent,Laundry,Road,374.2,1534,6.9,49.6,16.4,66.0,4.84,1,4,92.1,Peak
+PGK00666,2026-07-31,Shymkent,Baby care,Rail,2072.0,1716,10.2,26.2,11.5,37.7,7.08,0,0,98.6,Peak
+PGK00667,2026-06-03,ASTANA,Laundry,Road,2041.3,461,6.8,14.3,5.0,19.3,4.68,0,0,99.8,Peak
+PGK00668,2026-09-19,Almaty,Hair care,Rail,568.1,1603,4.5,22.5,"13,9",36.4,3.33,0,0,100.0,Peak
+PGK00669,2026-10-07,Shymkent,Baby care,Road,1416.4,952,7.1,"18,1",18.5,36.6,3.96,0,0,98.7,Non-peak
+PGK00670,2026-02-10,Almaty,Hair care,Road,467.4,241,24.6,26.3,3.3,29.6,"2,96",0,0,97.6,Non-peak
+PGK00671,2026-10-17,Atyrau,BABY CARE,Road,1673.3,1244,"18,8",19.3,7.8,27.1,5.31,0,0,"100,0",Non-peak
+PGK00672,06/07/2026,Almaty,Baby care,Rail,"391,6",1956,7.1,22.0,18.4,"40,4",7.16,0,0,99.6,Peak
+PGK00673,2026-07-13,Almaty,Oral care,Rail,2375.1,324,32.6,72.0,7.4,79.4,10.08,0,0,98.6,Peak
+PGK00674,2026-01-29,Astana,Laundry,Rail,717.4,78,9.6,16.4,8.5,25.0,4.41,0,0,98.4,Non-peak
+PGK00675,2026-07-09,Astana,Laundry,road,,1838,5.4,18.8,13.3,32.1,5.27,1,6,89.7,Peak
+PGK00676,2026-08-09,Astana,Baby care,Road,538.7,1214,13.0,15.0,10.3,25.3,4.64,0,0,100.0,Peak
+PGK00677,2026-06-26,Astana,Hair care,Rail,721.6,477,27.1,9.3,6.4,15.6,3.39,0,0,99.1,Peak
+PGK00678,2026-01-26,Atyrau,Oral care,Road,1264.6,1596,23.8,20.6,12.6,33.2,3.93,0,0,99.0,Non-peak
+PGK00679,2026-06-09,Astana,Laundry,Rail,1539.5,818,5.6,18.8,7.7,26.5,5.04,1,1,96.3,Peak
+PGK00680,2026-10-12,Astana,Baby care,Road,2497.4,697,3.8,8.9,6.1,15.0,4.3,0,0,98.5,Non-peak
+PGK00681,2026-08-08,Astana,Feminine care,Road,308.3,615,7.6,9.0,15.0,24.0,5.85,0,0,98.0,Peak
+PGK00682,2026-02-11,Almaty,Laundry,Road,250.7,1217,14.5,11.9,23.9,35.8,2.62,0,0,99.0,Non-peak
+PGK00683,19/10/2026,Shymkent,Hair care,Road,1038.3,312,17.2,14.0,8.0,22.0,5.86,0,0,98.8,Non-peak
+PGK00684,2026-10-19,ALMATY,Feminine care,Road,1073.9,756,21.7,9.8,13.9,23.7,3.77,0,0,99.4,Non-peak
+PGK00685,2026-02-21,Shymkent,Baby care,Road,2238.6,645,11.4,8.9,6.2,15.1,3.89,0,0,98.3,Non-peak
+PGK00686,2026-09-01,Almaty,Laundry,Rail,2303.3,168,11.7,15.8,6.7,22.5,8.28,1,7,87.0,Peak
+PGK00687,2026-05-04,Atyrau,Hair care,Road,2231.2,1538,11.1,14.6,11.9,26.5,4.43,1,3,93.0,Non-peak
+PGK00688,2026-06-30,Astana,Oral care,Road,572.2,66,19.9,16.3,5.0,21.3,4.03,0,0,99.3,Peak
+PGK00689,2026-05-16,Aktobe,Feminine care,Road,1177.2,1922,17.4,20.6,11.1,31.7,4.28,0,0,97.3,Non-peak
+PGK00690,2026-08-26,Astana,HAIR CARE,Rail,1928.2,235,5.5,13.5,11.0,24.5,7.82,0,0,99.2,Peak
+PGK00691,2026-10-30,Almaty,Baby care,Rail,953.4,748,16.0,24.0,8.0,32.0,5.71,0,0,98.6,Non-peak
+PGK00692,2026-08-30,Aktobe,Oral care,Road,1742.3,241,19.0,6.1,7.3,13.4,3.98,0,0,99.4,Peak
+PGK00693,2026-10-11,Shymkent,Laundry,Road,783.6,765,20.0,5.9,7.3,13.2,4.9,0,0,97.6,Non-peak
+PGK00694,15/10/2026,Shymkent,Hair care,Road,977.7,1241,12.6,6.7,6.9,13.6,3.36,0,0,99.9,Non-peak
+PGK00695,2026-01-28,Astana,Oral care,Road,2186.0,220,12.1,8.1,6.4,14.5,4.4,0,0,98.9,Non-peak
+PGK00696,2026-03-19,Shymkent,Laundry,Road,813.6,1075,9.9,9.5,7.0,16.6,2.9,0,0,99.4,Non-peak
+PGK00697,2026-08-08,Aktobe,Oral care,Rail,2419.7,1555,10.6,27.7,"9,2",36.9,8.15,0,0,97.0,Peak
+PGK00698,2026-06-29,Shymkent,Baby care,road,939.1,938,29.4,"8,0",7.5,15.4,3.54,0,0,98.0,Peak
+PGK00699,2026-01-16,Astana,Feminine care,Rail,302.9,269,10.9,10.4,5.3,15.8,"2,11",0,0,98.8,Non-peak
+PGK00700,2026-01-29,Shymkent,Laundry,Rail,823.5,1399,"5,8",40.4,13.2,53.6,4.33,0,0,"99,9",Non-peak
+PGK00701,2026-06-08,SHYMKENT,Feminine care,Rail,"635,2",413,12.8,18.9,12.7,"31,6",4.04,0,0,99.5,Peak
+PGK00702,2026-07-07,Atyrau,Hair care,Road,1390.4,82,17.0,8.0,3.7,11.6,3.16,0,0,99.4,Peak
+PGK00703,2026-02-20,Astana,Laundry,Road,503.6,902,19.5,13.3,10.6,24.0,4.12,0,0,98.1,Non-peak
+PGK00704,2026-02-22,Astana,Oral care,Road,1658.6,578,4.5,15.7,17.6,33.3,4.07,0,0,97.8,Non-peak
+PGK00705,09/02/2026,Aktobe,Baby care,Road,2218.5,105,25.7,5.1,9.8,14.9,5.47,0,0,99.5,Non-peak
+PGK00706,2026-06-21,Astana,Feminine care,Road,1065.7,1566,16.6,26.4,13.6,40.0,5.62,0,0,99.5,Peak
+PGK00707,2026-01-03,Shymkent,Laundry,Road,629.1,1220,24.7,18.0,10.6,28.6,5.43,0,0,99.2,Non-peak
+PGK00708,2026-06-24,Astana,Laundry,Road,1150.1,1825,3.2,24.4,14.6,39.0,4.01,0,0,100.0,Peak
+PGK00709,2026-05-25,Almaty,BABY CARE,Road,2018.4,987,20.5,8.1,7.2,15.2,3.86,0,0,98.5,Non-peak
+PGK00710,2026-05-22,Shymkent,Feminine care,Road,1580.8,905,4.3,9.2,13.3,22.5,2.99,0,0,99.3,Non-peak
+PGK00711,2026-07-26,Almaty,Baby care,Road,477.6,1693,8.3,47.0,10.9,57.9,5.0,0,0,96.8,Peak
+PGK00712,2026-06-08,Almaty,Oral care,Road,1458.7,208,16.9,11.5,8.4,19.9,3.48,0,0,99.4,Peak
+PGK00713,2026-08-10,Shymkent,Feminine care,Road,1303.2,755,4.0,18.5,6.0,24.5,3.24,0,0,100.0,Peak
+PGK00714,2026-08-21,Shymkent,Feminine care,Road,986.0,1608,6.8,19.1,18.7,37.7,4.89,0,0,97.8,Peak
+PGK00715,2026-10-07,Aktobe,Baby care,Road,497.9,620,3.1,21.4,7.9,29.3,2.37,0,0,99.8,Non-peak
+PGK00716,31/08/2026,Almaty,Oral care,Rail,2457.5,1776,16.6,23.4,10.3,33.7,6.8,0,0,100.0,Peak
+PGK00717,2026-06-07,Almaty,Baby care,Road,646.1,604,5.4,14.7,17.1,31.8,2.86,0,0,98.2,Peak
+PGK00718,2026-05-30,ATYRAU,Oral care,Road,683.7,857,10.4,15.5,8.0,23.4,3.63,0,0,99.5,Non-peak
+PGK00719,2026-03-13,Almaty,Baby care,Road,577.6,1800,13.6,25.5,8.7,34.2,3.09,0,0,100.0,Non-peak
+PGK00720,2026-07-02,Almaty,Baby care,Road,1532.9,524,12.7,16.3,20.3,36.6,5.09,1,3,94.0,Peak
+PGK00721,2026-02-12,Almaty,Baby care,rail,1248.3,1938,11.9,19.4,11.7,31.1,4.27,0,0,99.7,Non-peak
+PGK00722,2026-10-11,Astana,Oral care,Road,811.5,135,11.9,5.7,3.0,8.7,2.12,1,7,85.7,Non-peak
+PGK00723,2026-09-14,Aktobe,Oral care,Rail,1216.2,568,3.3,20.6,10.1,30.7,4.24,0,0,99.5,Peak
+PGK00724,2026-02-06,Shymkent,Feminine care,Road,1765.4,1203,8.7,20.9,6.5,27.4,5.64,0,0,99.5,Non-peak
+PGK00725,2026-08-27,Shymkent,Oral care,Rail,883.8,1209,11.8,23.2,10.1,33.3,4.0,0,0,97.6,Peak
+PGK00726,2026-02-05,Almaty,Laundry,Road,2309.3,1825,10.9,35.8,"19,0",54.8,5.82,0,0,97.5,Non-peak
+PGK00727,08/08/2026,Astana,Baby care,Road,939.3,1922,9.4,"21,2",13.7,35.0,3.36,1,1,97.8,Peak
+PGK00728,2026-01-27,Astana,HAIR CARE,Road,695.9,1372,6.0,17.2,12.2,29.5,"3,55",0,0,98.7,Non-peak
+PGK00729,2026-05-29,Almaty,Laundry,Rail,2397.8,1337,"12,5",13.5,17.4,30.9,7.78,1,7,"88,2",Non-peak
+PGK00730,2026-07-19,Almaty,Laundry,Road,"2073,8",668,14.1,36.0,8.6,"44,6",6.86,1,6,88.8,Peak
+PGK00731,2026-08-10,Almaty,Baby care,Road,1022.1,1621,7.5,29.9,10.9,40.8,6.57,0,0,98.8,Peak
+PGK00732,2026-05-08,Almaty,Feminine care,Road,2143.2,1304,19.6,8.3,12.9,21.2,5.2,1,2,95.5,Non-peak
+PGK00733,2026-10-08,Astana,Baby care,Road,1417.3,96,26.0,3.9,1.9,5.7,3.33,0,0,99.7,Non-peak
+PGK00734,2026-08-24,Shymkent,Baby care,Rail,1030.2,1673,10.5,20.8,10.9,31.6,4.32,0,0,99.7,Peak
+PGK00735,2026-03-05,ALMATY,Laundry,Road,2139.1,751,5.6,5.9,4.2,10.1,3.4,0,0,99.9,Non-peak
+PGK00736,2026-07-24,Astana,Oral care,Rail,1942.4,978,3.9,22.2,17.4,39.6,6.26,0,0,98.4,Peak
+PGK00737,2026-08-11,Shymkent,Laundry,Rail,920.2,998,8.2,18.3,11.1,29.4,3.6,0,0,100.0,Peak
+PGK00738,12/04/2026,Shymkent,Feminine care,Road,1615.0,1649,10.0,37.7,14.5,52.2,6.47,0,0,99.2,Non-peak
+PGK00739,2026-08-13,Aktobe,Feminine care,Road,1081.1,572,3.7,20.1,6.6,26.6,3.47,0,0,99.4,Peak
+PGK00740,2026-10-01,Astana,Feminine care,Rail,252.4,814,8.0,12.5,9.8,22.3,4.27,0,0,99.2,Non-peak
+PGK00741,2026-09-06,Aktobe,Hair care,Rail,2414.1,126,18.9,9.3,9.2,18.5,7.52,0,0,99.7,Peak
+PGK00742,2026-08-20,Almaty,Laundry,Rail,1486.7,729,1.4,17.9,21.1,39.1,5.82,0,0,97.0,Peak
+PGK00743,2026-07-12,Astana,Hair care,Rail,1596.5,222,11.0,29.9,10.3,40.2,5.25,1,4,92.2,Peak
+PGK00744,2026-03-24,Almaty,Oral care,road,1599.8,1187,6.7,15.0,13.8,28.7,4.59,1,3,95.5,Non-peak
+PGK00745,2026-08-30,Astana,Hair care,Rail,1488.9,1792,10.2,22.0,14.6,36.6,8.03,0,0,99.1,Peak
+PGK00746,2026-04-21,Astana,Feminine care,Road,902.6,956,26.9,21.9,4.0,25.9,3.75,0,0,99.1,Non-peak
+PGK00747,2026-06-11,Almaty,LAUNDRY,Rail,2436.0,1829,9.9,25.4,15.4,40.9,8.39,1,7,86.3,Peak
+PGK00748,2026-04-06,Shymkent,Laundry,Rail,1648.8,1956,8.9,24.9,12.1,37.0,5.06,0,0,99.3,Non-peak
+PGK00749,06/04/2026,Almaty,Hair care,Road,1759.6,154,15.9,8.8,4.7,13.5,3.49,0,0,99.1,Non-peak
+PGK00750,2026-02-17,Almaty,Oral care,Rail,1273.3,1057,12.6,18.1,7.6,25.6,4.65,0,0,100.0,Non-peak
+PGK00751,2026-10-20,Almaty,Oral care,Road,897.7,1080,11.0,8.8,8.4,17.2,2.64,0,0,98.3,Non-peak
+PGK00752,2026-02-14,ASTANA,Hair care,Road,394.8,801,12.9,5.1,6.0,11.2,1.79,0,0,98.8,Non-peak
+PGK00753,2026-01-27,Almaty,Oral care,Road,1038.0,1670,22.3,18.8,15.1,33.9,3.97,1,5,89.8,Non-peak
+PGK00754,2026-10-12,Astana,Oral care,Road,646.2,820,18.1,8.3,5.3,13.6,3.22,0,0,100.0,Non-peak
+PGK00755,2026-06-18,Almaty,Baby care,Rail,1739.7,157,8.4,14.1,"17,4",31.5,6.67,0,0,98.7,Peak
+PGK00756,2026-05-14,Shymkent,Baby care,Road,2227.8,1119,26.0,"7,3",12.4,19.7,5.71,0,0,98.6,Non-peak
+PGK00757,2026-08-13,Atyrau,Laundry,Road,931.2,443,7.0,22.6,13.8,36.3,"4,18",0,0,96.8,Peak
+PGK00758,2026-04-27,Astana,Hair care,Road,999.0,742,"11,0",9.7,5.1,14.8,2.96,0,0,"98,3",Non-peak
+PGK00759,2026-02-08,Shymkent,Baby care,Rail,"1758,3",1029,11.9,6.5,7.3,"13,8",4.54,0,0,99.8,Non-peak
+PGK00760,10/08/2026,Aktobe,Laundry,Road,585.9,1460,8.1,15.5,13.1,28.6,2.89,0,0,99.5,Peak
+PGK00761,2026-02-23,Atyrau,Baby care,Rail,2341.2,592,24.2,16.0,7.3,23.3,7.19,0,0,98.4,Non-peak
+PGK00762,2026-06-18,Shymkent,Laundry,Rail,1068.7,792,7.8,17.3,13.1,30.4,5.42,0,0,98.4,Peak
+PGK00763,2026-10-16,Aktobe,Oral care,Road,477.7,182,9.3,18.8,5.6,24.4,4.8,0,0,100.0,Non-peak
+PGK00764,2026-10-12,Aktobe,Laundry,Rail,643.0,799,19.9,13.1,18.5,31.7,4.41,0,0,100.0,Non-peak
+PGK00765,2026-04-20,Aktobe,Laundry,Rail,2348.7,1182,7.2,6.8,6.9,13.7,6.92,0,0,100.0,Non-peak
+PGK00766,2026-08-26,Astana,ORAL CARE,Rail,806.0,1253,3.6,21.8,8.8,30.5,2.94,0,0,100.0,Peak
+PGK00767,2026-07-06,Almaty,Hair care,road,1740.1,622,11.2,23.3,7.5,30.8,4.33,0,0,100.0,Peak
+PGK00768,2026-05-26,Almaty,Hair care,Rail,601.4,168,4.6,5.4,4.8,10.1,2.45,0,0,100.0,Non-peak
+PGK00769,2026-02-12,ASTANA,Hair care,Road,686.7,1176,4.2,12.8,15.3,28.2,3.35,0,0,98.7,Non-peak
+PGK00770,2026-04-25,Astana,Hair care,Rail,2228.3,1328,1.4,23.5,11.7,35.2,8.54,0,0,98.0,Non-peak
+PGK00771,18/07/2026,Astana,Oral care,Road,583.1,216,1.7,27.3,3.2,30.5,3.03,0,0,100.0,Peak
+PGK00772,2026-10-27,Astana,Oral care,Rail,292.2,1035,1.8,12.7,4.5,17.2,1.42,0,0,98.2,Non-peak
+PGK00773,2026-01-02,Astana,Hair care,Road,1377.8,235,28.2,5.0,5.3,10.4,4.51,0,0,98.3,Non-peak
+PGK00774,2026-08-07,Aktobe,Oral care,Rail,2191.1,933,1.8,15.3,9.2,24.5,5.67,0,0,98.1,Peak
+PGK00775,2026-09-15,Almaty,Oral care,Rail,983.5,1300,4.5,26.5,11.7,38.2,4.8,0,0,98.7,Peak
+PGK00776,2026-10-17,Almaty,Baby care,Rail,538.4,1453,9.4,15.2,9.9,25.1,3.83,1,2,93.7,Non-peak
+PGK00777,2026-05-09,Aktobe,Baby care,Rail,2460.0,1442,15.5,21.7,19.6,41.3,6.98,0,0,97.3,Non-peak
+PGK00778,2026-02-06,Aktobe,Feminine care,Rail,1772.7,1529,16.5,11.4,15.7,27.1,5.78,1,3,93.3,Non-peak
+PGK00779,2026-03-24,Atyrau,Baby care,Road,2164.1,520,5.6,8.0,5.2,13.3,4.0,0,0,98.1,Non-peak
+PGK00780,2026-09-16,Aktobe,Hair care,Road,1942.3,1701,10.9,24.7,13.6,38.3,5.3,0,0,99.9,Peak
+PGK00781,2026-09-24,Aktobe,Baby care,Rail,1821.0,732,9.2,9.5,8.8,18.2,4.87,1,3,94.1,Peak
+PGK00782,13/07/2026,Almaty,Feminine care,Road,1115.3,781,10.4,17.4,5.7,23.1,2.94,0,0,99.7,Peak
+PGK00783,2026-02-07,Astana,Oral care,Road,979.8,1586,11.4,15.8,9.6,25.4,5.53,0,0,99.5,Non-peak
+PGK00784,2026-02-07,Almaty,Laundry,Rail,1863.2,688,13.6,46.0,"6,1",52.1,7.1,1,2,95.0,Non-peak
+PGK00785,2026-05-26,Shymkent,BABY CARE,Road,1862.6,196,6.6,"8,1",3.5,11.6,3.2,0,0,100.0,Non-peak
+PGK00786,2026-06-28,ATYRAU,Oral care,Rail,2388.8,1443,21.7,39.3,11.0,50.3,"7,85",1,7,87.1,Peak
+PGK00787,2026-01-10,Astana,Hair care,Rail,1529.5,1341,"7,9",19.0,9.3,28.3,7.29,1,7,"86,8",Non-peak
+PGK00788,2026-07-28,Astana,Feminine care,Road,"912,9",1185,37.0,18.6,13.5,"32,1",6.08,0,0,97.2,Peak
+PGK00789,2026-06-15,Almaty,Feminine care,Road,1351.4,329,6.9,27.0,6.2,33.2,3.63,0,0,99.4,Peak
+PGK00790,2026-01-04,Almaty,Feminine care,road,1630.9,1282,11.0,11.3,16.8,28.1,3.74,0,0,97.7,Non-peak
+PGK00791,2026-01-30,Almaty,Laundry,Road,1210.1,437,9.3,6.0,3.9,9.9,2.45,0,0,99.7,Non-peak
+PGK00792,2026-05-19,Almaty,Baby care,Road,2030.0,1133,10.7,22.7,14.9,37.6,6.33,0,0,98.9,Non-peak
+PGK00793,08/08/2026,Atyrau,Baby care,Rail,1565.4,1040,20.2,12.4,12.2,24.6,5.25,0,0,97.7,Peak
+PGK00794,2026-09-08,Astana,Oral care,Rail,271.2,1557,8.9,18.5,9.9,28.3,2.18,0,0,99.2,Peak
+PGK00795,2026-05-12,Aktobe,Feminine care,Rail,1532.1,1955,4.0,23.0,11.6,34.6,4.89,0,0,99.1,Non-peak
+PGK00796,2026-03-31,Shymkent,Hair care,Rail,1675.6,420,6.5,15.1,15.9,31.0,5.65,0,0,99.1,Non-peak
+PGK00797,2026-10-22,Almaty,Baby care,Rail,2309.3,273,8.9,6.7,3.3,9.9,5.73,0,0,99.5,Non-peak
+PGK00798,2026-05-20,Almaty,Oral care,Road,1180.9,1134,11.7,19.2,19.0,38.2,5.61,0,0,98.2,Non-peak
+PGK00799,2026-04-06,Aktobe,Oral care,Rail,1542.6,1907,5.6,16.0,14.6,30.6,5.36,0,0,99.5,Non-peak
+PGK00800,2026-05-15,Almaty,Oral care,Rail,1318.7,358,6.1,15.4,7.5,22.9,4.77,0,0,98.4,Non-peak
+PGK00801,2026-01-04,Atyrau,Hair care,Road,1446.2,1000,12.0,11.8,10.7,22.4,4.73,0,0,98.0,Non-peak
+PGK00802,2026-04-02,Almaty,Feminine care,Road,401.4,844,12.3,14.3,7.1,21.5,3.43,0,0,99.8,Non-peak
+PGK00803,2026-06-06,SHYMKENT,Laundry,Road,2268.9,670,18.4,31.0,6.9,37.9,5.42,0,0,99.8,Peak
+PGK00804,07/10/2026,Aktobe,BABY CARE,Rail,2298.4,1345,6.5,10.2,10.4,20.6,5.6,0,0,99.7,Non-peak
+PGK00805,2026-08-13,Almaty,Oral care,Road,1483.1,626,14.5,13.2,10.8,24.0,4.25,1,1,97.2,Peak
+PGK00806,2026-08-26,Almaty,Laundry,Rail,1502.2,1011,9.3,30.1,13.2,43.3,5.79,0,0,96.8,Peak
+PGK00807,2026-06-15,Atyrau,Baby care,Road,379.5,1699,7.2,23.7,15.8,39.5,3.4,0,0,100.0,Peak
+PGK00808,2026-02-03,Almaty,Baby care,Rail,1595.4,790,9.5,6.8,11.5,18.2,5.19,0,0,97.2,Non-peak
+PGK00809,2026-04-29,Astana,Oral care,Rail,1215.6,91,10.5,12.1,18.6,30.7,6.66,0,0,99.5,Non-peak
+PGK00810,2026-10-31,Astana,Laundry,Road,1845.3,1776,3.6,22.4,13.0,35.4,4.35,0,0,100.0,Non-peak
+PGK00811,2026-01-14,Almaty,Hair care,Rail,356.0,585,3.9,17.9,13.6,31.6,3.26,0,0,99.1,Non-peak
+PGK00812,2026-09-25,Shymkent,Hair care,Rail,1849.5,1557,15.8,21.5,15.6,37.1,5.85,1,1,97.4,Peak
+PGK00813,2026-07-28,Shymkent,Oral care,road,895.5,1538,7.7,27.1,"27,7",54.8,3.97,1,4,92.1,Peak
+PGK00814,2026-03-28,Astana,Hair care,Rail,1716.3,1076,11.7,"31,4",9.6,40.9,6.14,0,0,99.0,Non-peak
+PGK00815,25/08/2026,Aktobe,Baby care,Road,1661.0,221,15.5,23.8,7.7,31.5,"4,15",0,0,100.0,Peak
+PGK00816,2026-09-12,Almaty,Oral care,Road,760.4,1903,"9,6",22.3,20.4,42.7,4.39,0,0,"97,9",Peak
+PGK00817,2026-01-14,Almaty,Oral care,Rail,"1241,0",1378,14.7,12.5,16.3,"28,9",5.28,0,0,98.0,Non-peak
+PGK00818,2026-02-02,Astana,Laundry,Road,2130.2,877,10.5,18.8,7.5,26.2,4.39,0,0,98.7,Non-peak
+PGK00819,2026-07-22,Atyrau,Feminine care,Rail,1612.6,1715,10.9,30.9,16.0,46.9,6.02,0,0,100.0,Peak
+PGK00820,2026-10-31,ALMATY,Laundry,Road,404.7,1587,21.3,19.4,14.7,34.1,4.76,0,0,98.3,Non-peak
+PGK00821,2026-01-08,Almaty,Laundry,Rail,1246.5,1533,8.8,15.7,14.2,29.9,4.84,0,0,99.4,Non-peak
+PGK00822,2026-07-22,Astana,Laundry,Rail,951.5,377,15.9,25.5,10.2,35.7,7.84,0,0,99.9,Peak
+PGK00823,2026-02-11,Aktobe,HAIR CARE,Rail,1693.7,1284,3.1,8.8,6.0,14.9,4.51,0,0,100.0,Non-peak
+PGK00824,2026-07-17,Almaty,Feminine care,Road,1632.8,607,11.5,12.5,12.5,25.1,4.11,0,0,100.0,Peak
+PGK00825,2026-07-09,Astana,Hair care,Road,273.4,203,24.7,27.4,11.2,38.6,3.73,1,3,95.1,Peak
+PGK00826,28/01/2026,Shymkent,Oral care,Road,1617.3,709,38.7,23.1,9.7,32.8,4.95,1,5,90.7,Non-peak
+PGK00827,2026-07-26,Astana,Baby care,Road,1903.4,252,3.2,39.2,6.7,45.8,4.91,0,0,98.2,Peak
+PGK00828,2026-09-30,Almaty,Laundry,Road,1979.6,256,7.7,11.8,16.3,28.1,4.43,0,0,99.1,Peak
+PGK00829,2026-09-20,Almaty,Baby care,Road,382.7,1468,4.7,19.1,10.1,29.2,3.29,0,0,98.6,Peak
+PGK00830,2026-01-09,Astana,Laundry,Road,933.2,1029,9.1,12.4,15.1,27.5,4.65,0,0,100.0,Non-peak
+PGK00831,2026-03-16,Astana,Baby care,Road,1197.9,826,17.7,10.8,5.5,16.3,3.37,0,0,98.7,Non-peak
+PGK00832,2026-03-15,Aktobe,Baby care,Road,654.5,425,21.8,3.0,11.8,14.8,2.32,0,0,99.7,Non-peak
+PGK00833,2026-05-18,Shymkent,Baby care,Road,1196.7,1554,22.2,17.0,8.5,25.5,4.26,1,5,89.0,Non-peak
+PGK00834,2026-02-13,Shymkent,Hair care,Road,410.0,1287,3.0,13.6,14.8,28.4,2.05,0,0,99.1,Non-peak
+PGK00835,2026-09-17,Atyrau,Oral care,Rail,504.7,1192,10.3,16.9,22.0,38.9,3.95,1,7,86.6,Peak
+PGK00836,2026-08-25,Astana,Baby care,road,1754.6,420,6.4,13.7,19.0,32.7,4.59,1,6,89.4,Peak
+PGK00837,03/09/2026,ASTANA,Hair care,Rail,840.8,291,8.7,17.7,16.3,34.0,3.7,0,0,99.6,Peak
+PGK00838,2026-03-02,Atyrau,Baby care,Road,1850.7,290,7.1,11.5,6.4,17.9,4.08,0,0,100.0,Non-peak
+PGK00839,2026-01-05,Almaty,Laundry,Road,358.2,98,3.1,8.3,3.5,11.9,1.17,0,0,100.0,Non-peak
+PGK00840,2026-10-04,Shymkent,Feminine care,Road,1516.1,1940,21.9,15.9,12.4,28.3,4.86,1,3,93.8,Non-peak
+PGK00841,2026-03-29,Shymkent,Oral care,Road,1130.8,767,5.7,17.1,13.5,30.6,4.36,0,0,98.0,Non-peak
+PGK00842,2026-07-19,Almaty,HAIR CARE,Road,2043.2,1334,6.5,14.9,"15,4",30.2,5.1,0,0,98.1,Peak
+PGK00843,2026-10-04,Astana,Oral care,Rail,2013.9,1966,24.8,"15,0",28.6,43.5,7.03,0,0,99.0,Non-peak
+PGK00844,2026-01-11,Almaty,Oral care,Road,1095.0,1877,2.6,17.6,10.9,28.5,"4,01",0,0,99.1,Non-peak
+PGK00845,2026-01-02,Almaty,Oral care,Road,,675,"13,5",11.9,18.7,30.6,5.06,0,0,"99,2",Non-peak
+PGK00846,2026-01-02,Astana,Laundry,Rail,"762,0",1005,19.3,24.1,8.9,"33,0",4.96,1,1,96.7,Non-peak
+PGK00847,2026-02-17,Almaty,Feminine care,Rail,1555.9,953,23.6,34.7,6.0,40.7,7.8,1,4,93.4,Non-peak
+PGK00848,16/01/2026,Aktobe,Feminine care,Rail,432.8,115,12.9,5.9,7.0,12.8,2.97,0,0,97.8,Non-peak
+PGK00849,2026-09-07,Aktobe,Feminine care,Road,1227.9,1548,16.1,33.5,16.1,49.6,4.4,1,5,89.5,Peak
+PGK00850,2026-07-04,Aktobe,Feminine care,Road,661.1,1170,19.3,14.9,19.0,33.8,3.27,1,5,89.3,Peak
+PGK00851,2026-10-25,Almaty,Feminine care,Road,2237.6,774,9.2,11.9,6.5,18.4,4.84,0,0,99.0,Non-peak
+PGK00852,2026-09-01,Almaty,Oral care,Road,1251.0,1139,5.0,24.9,13.1,38.0,3.9,0,0,100.0,Peak
+PGK00853,2026-10-20,Almaty,Laundry,Road,1579.2,1484,26.0,24.7,11.3,36.0,4.95,0,0,98.6,Non-peak
+PGK00854,2026-03-14,ALMATY,Baby care,Road,1060.9,79,15.0,9.9,4.3,14.2,3.73,0,0,99.3,Non-peak
+PGK00855,2026-03-29,Atyrau,Hair care,Road,899.7,1310,10.3,51.3,20.1,71.4,4.63,1,7,87.0,Non-peak
+PGK00856,2026-09-16,Astana,Hair care,Road,706.6,1730,3.3,17.9,16.9,34.8,3.71,0,0,98.5,Peak
+PGK00857,2026-03-16,Almaty,Feminine care,Rail,2301.7,1467,1.1,29.4,6.4,35.8,6.41,0,0,99.2,Non-peak
+PGK00858,2026-01-18,Aktobe,Feminine care,Road,2048.8,1259,13.3,11.4,11.6,23.0,4.92,0,0,99.3,Non-peak
+PGK00859,23/07/2026,Astana,Baby care,road,549.8,226,1.0,19.2,4.1,23.2,1.86,0,0,98.0,Peak
+PGK00860,2026-09-01,Almaty,Oral care,Road,1930.1,1502,10.2,25.7,14.1,39.8,5.67,0,0,98.3,Peak
+PGK00861,2026-10-22,Almaty,LAUNDRY,Road,1191.7,1514,5.9,18.8,7.4,26.2,4.48,1,5,90.9,Non-peak
+PGK00862,2026-10-10,Shymkent,Hair care,Road,284.6,1013,7.1,20.1,12.0,32.2,8.42,0,0,100.0,Non-peak
+PGK00863,2026-02-06,Shymkent,Feminine care,Rail,1438.8,1186,22.4,12.6,5.9,18.5,5.34,0,0,,Non-peak
+PGK00864,2026-08-23,Almaty,Baby care,Road,542.6,1256,5.9,25.3,9.3,34.7,4.04,1,1,99.3,Peak
+PGK00865,2026-09-15,Atyrau,Baby care,Rail,722.4,286,10.6,7.3,12.4,19.7,2.87,0,0,99.6,Peak
+PGK00866,2026-08-01,Aktobe,Baby care,Road,1816.1,552,5.9,25.5,9.5,35.0,5.95,1,3,93.4,Peak
+PGK00867,2026-09-07,Aktobe,Hair care,Rail,828.6,1595,12.5,18.8,9.9,28.7,3.39,1,4,92.1,Peak
+PGK00868,2026-09-12,Almaty,Feminine care,Road,2256.7,1949,11.3,21.7,24.1,45.8,7.81,1,5,90.1,Peak
+PGK00869,2026-05-16,Almaty,Oral care,Road,1728.6,576,10.3,15.6,6.1,21.6,4.22,0,0,98.7,Non-peak
+PGK00870,13/01/2026,Aktobe,Oral care,Rail,2122.6,831,19.3,9.8,7.6,17.4,5.61,0,0,99.6,Non-peak
+PGK00871,2026-05-19,ALMATY,Hair care,Road,1634.2,1835,2.6,17.0,"12,0",29.0,3.77,0,0,99.4,Non-peak
+PGK00872,2026-03-03,Shymkent,Oral care,Road,2204.9,366,2.0,"15,3",9.9,25.2,5.38,0,0,97.9,Non-peak
+PGK00873,2026-02-04,Shymkent,Feminine care,Road,1063.8,559,3.8,9.3,6.3,15.6,"2,71",0,0,100.0,Non-peak
+PGK00874,2026-02-07,Almaty,Oral care,Rail,1485.6,159,"11,3",8.3,5.4,13.7,4.45,0,0,"97,4",Non-peak
+PGK00875,2026-08-01,Shymkent,Baby care,Rail,"1410,8",508,13.9,14.5,15.5,"30,0",6.02,1,5,90.2,Peak
+PGK00876,2026-06-03,Atyrau,Hair care,Road,2283.5,1291,1.0,20.6,17.7,38.3,5.0,0,0,100.0,Peak
+PGK00877,2026-06-14,Shymkent,Baby care,Road,621.1,729,13.8,11.8,9.5,21.3,4.23,0,0,99.7,Peak
+PGK00878,2026-08-15,Astana,Hair care,Road,1550.6,1968,7.9,27.6,14.5,42.1,4.32,0,0,98.4,Peak
+PGK00879,2026-06-16,Aktobe,Oral care,Rail,1947.5,1789,26.4,13.7,9.4,23.1,5.75,1,2,97.7,Peak
+PGK00880,2026-07-11,Astana,LAUNDRY,Road,1082.6,1797,13.1,19.4,15.2,34.6,4.01,0,0,98.4,Peak
+PGK00881,27/01/2026,Shymkent,Laundry,Road,2202.1,1467,24.5,17.9,15.4,33.3,5.8,0,0,96.9,Non-peak
+PGK00882,2026-09-16,Aktobe,Oral care,rail,1089.3,1419,21.7,22.8,11.5,34.3,4.78,0,0,99.3,Peak
+PGK00883,2026-05-17,Shymkent,Hair care,Road,639.9,1044,7.9,17.6,17.0,34.6,3.52,0,0,97.1,Non-peak
+PGK00884,2026-02-17,Almaty,Baby care,Rail,1564.1,1982,17.7,22.4,8.9,31.3,5.05,0,0,98.1,Non-peak
+PGK00885,2026-09-05,Almaty,Baby care,Road,1196.3,236,7.8,9.4,5.4,14.8,3.37,0,0,99.9,Peak
+PGK00886,2026-08-12,Almaty,Baby care,Road,284.2,1460,28.5,15.8,20.0,35.8,3.24,1,3,93.3,Peak
+PGK00887,2026-01-17,Astana,Oral care,Road,407.1,323,8.4,9.9,10.6,20.4,1.84,0,0,99.7,Non-peak
+PGK00888,2026-02-28,ASTANA,Hair care,Road,689.4,711,14.4,22.4,3.8,26.2,3.32,1,7,86.0,Non-peak
+PGK00889,2026-01-05,Astana,Oral care,Rail,,548,31.9,17.6,3.3,20.9,6.01,1,6,89.8,Non-peak
+PGK00890,2026-03-24,Astana,Hair care,Rail,2257.1,1222,14.8,53.5,13.0,66.4,7.6,1,7,84.7,Non-peak
+PGK00891,2026-01-31,Shymkent,Hair care,Rail,1477.7,1585,7.2,12.7,13.3,25.9,5.27,0,0,100.0,Non-peak
+PGK00892,04/08/2026,Atyrau,Baby care,Road,487.5,205,3.4,21.1,7.1,28.1,2.14,0,0,98.5,Peak
+PGK00893,2026-06-08,Almaty,Feminine care,Road,1452.4,1223,2.7,27.3,19.4,46.8,5.0,0,0,100.0,Peak
+PGK00894,2026-10-25,Shymkent,Hair care,Rail,2175.1,482,13.8,25.6,4.9,30.6,6.47,0,0,98.1,Non-peak
+PGK00895,2026-08-16,Shymkent,Baby care,Rail,1936.3,200,9.5,24.4,3.3,27.7,5.96,0,0,100.0,Peak
+PGK00896,2026-07-05,Astana,Laundry,Rail,905.0,864,3.9,20.1,13.9,34.0,4.98,0,0,97.9,Peak
+PGK00897,2026-06-04,Almaty,Laundry,Road,528.8,1184,16.5,26.3,16.5,42.9,4.19,0,0,96.9,Peak
+PGK00898,2026-01-17,Aktobe,Oral care,Road,2276.5,443,16.3,12.6,4.9,17.5,5.32,0,0,99.2,Non-peak
+PGK00899,2026-01-22,Atyrau,ORAL CARE,Road,2171.7,810,9.4,10.7,5.1,15.8,4.81,0,0,100.0,Non-peak
+PGK00900,2026-07-07,Shymkent,Hair care,Road,370.9,1910,25.2,30.7,"10,2",40.9,3.58,0,0,99.6,Peak
+PGK00901,2026-01-02,Atyrau,Oral care,Rail,2103.3,726,2.2,"14,5",8.1,22.6,5.98,0,0,100.0,Non-peak
+PGK00902,2026-01-13,Atyrau,Hair care,Road,468.7,1992,7.5,23.0,14.6,37.6,"2,72",0,0,99.6,Non-peak
+PGK00903,08/03/2026,Astana,Hair care,Road,392.4,1677,"14,7",35.7,17.0,52.7,4.33,0,0,"97,7",Non-peak
+PGK00904,2026-09-26,Shymkent,Baby care,Rail,"1956,9",773,4.3,24.2,12.1,"36,3",5.88,0,0,99.6,Peak
+PGK00905,2026-05-20,ASTANA,Hair care,road,1456.7,1175,17.6,18.0,8.1,26.1,4.19,0,0,99.1,Non-peak
+PGK00906,2026-08-04,Atyrau,Feminine care,Rail,1182.7,1433,21.0,19.4,13.8,33.1,7.03,1,6,88.0,Peak
+PGK00907,2026-05-06,Almaty,Baby care,Road,2283.7,956,1.0,13.4,14.5,27.9,5.04,0,0,99.2,Non-peak
+PGK00908,2026-02-22,Astana,Hair care,Road,2138.4,845,25.8,6.9,10.0,16.8,4.67,0,0,99.1,Non-peak
+PGK00909,2026-04-23,Aktobe,Baby care,Road,379.7,693,14.2,11.2,12.4,23.6,2.13,0,0,100.0,Non-peak
+PGK00910,2026-01-28,Almaty,Oral care,Road,1636.2,322,6.8,17.0,3.2,20.2,3.87,1,2,95.2,Non-peak
+PGK00911,2026-08-23,Shymkent,Hair care,Rail,1987.6,98,2.9,10.3,10.6,20.9,4.8,0,0,98.6,Peak
+PGK00912,2026-02-25,Astana,Feminine care,Road,1488.6,707,19.1,6.1,9.8,15.9,3.89,0,0,98.5,Non-peak
+PGK00913,2026-04-25,Atyrau,Baby care,Road,2461.8,1602,3.7,21.1,10.4,31.5,5.9,0,0,100.0,Non-peak
+PGK00914,25/10/2026,Aktobe,Oral care,Road,1793.6,505,14.1,10.4,12.8,23.3,3.81,0,0,98.4,Non-peak
+PGK00915,2026-06-29,Almaty,Feminine care,Road,484.3,400,3.8,28.2,21.7,49.9,3.98,0,0,99.9,Peak
+PGK00916,2026-05-20,Shymkent,Baby care,Rail,696.2,690,10.1,13.1,3.7,16.8,4.27,0,0,98.2,Non-peak
+PGK00917,2026-06-15,Almaty,Laundry,Road,2109.1,1218,18.6,15.5,11.0,26.6,5.58,1,1,97.8,Peak
+PGK00918,2026-08-27,Shymkent,ORAL CARE,Road,2492.7,469,6.9,13.1,8.8,21.8,5.57,0,0,99.4,Peak
+PGK00919,2026-03-19,Shymkent,Laundry,Rail,471.3,479,25.6,9.9,7.1,17.0,3.74,1,7,88.5,Non-peak
+PGK00920,2026-07-13,Aktobe,Baby care,Road,475.7,269,15.0,12.7,6.2,18.8,2.48,0,0,100.0,Peak
+PGK00921,2026-09-23,Almaty,Feminine care,Road,1967.6,698,4.3,19.2,5.9,25.1,3.81,0,0,99.1,Peak
+PGK00922,2026-06-24,ALMATY,Baby care,Road,394.8,474,3.1,7.9,8.2,16.2,1.63,0,0,98.7,Peak
+PGK00923,2026-05-16,Shymkent,Oral care,Road,404.3,1671,5.4,36.2,11.6,47.9,5.58,0,0,100.0,Non-peak
+PGK00924,2026-02-14,Astana,Baby care,Road,2249.8,1817,9.7,16.1,11.3,27.4,5.08,0,0,98.4,Non-peak
+PGK00925,17/03/2026,Astana,Hair care,Road,2051.0,772,27.2,8.5,8.1,16.6,6.19,0,0,96.9,Non-peak
+PGK00926,2026-10-15,Almaty,Hair care,Rail,2233.5,216,30.5,7.1,7.0,14.1,6.43,0,0,97.4,Non-peak
+PGK00927,2026-06-14,Astana,Baby care,Road,1713.7,220,6.7,14.3,7.3,21.6,4.59,1,6,87.3,Peak
+PGK00928,2026-04-02,Aktobe,Laundry,road,975.7,683,6.5,17.1,5.8,22.9,2.64,1,6,89.5,Non-peak
+PGK00929,2026-05-08,Almaty,Baby care,Road,2289.2,954,16.7,10.0,"8,8",18.8,4.74,0,0,100.0,Non-peak
+PGK00930,2026-06-25,Astana,Baby care,Road,922.1,1081,16.6,"41,5",12.8,54.3,4.52,0,0,96.5,Peak
+PGK00931,2026-06-13,Atyrau,Feminine care,Road,869.9,643,23.1,14.0,9.9,23.9,"5,61",0,0,98.3,Peak
+PGK00932,2026-08-01,Almaty,Laundry,Road,2244.4,741,"23,5",13.3,23.9,37.2,5.47,0,0,"98,9",Peak
+PGK00933,2026-03-20,Shymkent,Feminine care,Road,"1781,9",603,5.1,5.1,9.2,"14,3",4.17,0,0,100.0,Non-peak
+PGK00934,2026-07-17,Almaty,Baby care,Road,2265.3,1059,2.5,17.4,11.4,28.8,5.04,0,0,98.2,Peak
+PGK00935,2026-05-15,Aktobe,Oral care,Road,600.8,1409,15.1,18.1,8.3,26.4,2.63,1,2,96.2,Non-peak
+PGK00936,13/10/2026,Shymkent,Baby care,Rail,2392.7,134,11.8,9.4,3.3,12.7,7.45,0,0,99.0,Non-peak
+PGK00937,2026-02-18,Aktobe,HAIR CARE,Road,1628.7,983,1.4,15.8,8.0,23.7,5.13,0,0,100.0,Non-peak
+PGK00938,2026-02-15,Almaty,Feminine care,Road,1753.1,1315,2.5,17.8,9.4,27.2,4.2,0,0,99.2,Non-peak
+PGK00939,2026-05-21,ASTANA,Hair care,Road,2306.6,1362,14.6,18.6,9.5,28.1,5.25,0,0,99.3,Non-peak
+PGK00940,2026-06-04,Shymkent,Laundry,Road,1106.7,1149,9.1,18.8,13.6,32.4,3.1,0,0,99.0,Peak
+PGK00941,2026-07-30,Almaty,Oral care,Road,1869.0,1074,14.9,15.4,16.9,32.3,4.29,0,0,98.5,Peak
+PGK00942,2026-05-03,Almaty,Oral care,Road,1690.8,1378,4.0,14.0,14.0,28.0,3.89,1,2,96.5,Non-peak
+PGK00943,2026-10-05,Almaty,Feminine care,Rail,2022.4,788,15.6,7.0,10.9,17.9,5.43,0,0,98.0,Non-peak
+PGK00944,2026-05-25,Atyrau,Baby care,Road,2268.1,1156,12.8,20.0,7.1,27.0,5.87,0,0,97.0,Non-peak
+PGK00945,2026-02-09,Shymkent,Laundry,Road,1780.1,673,16.4,7.9,14.3,22.2,3.82,1,2,95.5,Non-peak
+PGK00946,2026-02-06,Shymkent,Laundry,Rail,402.2,904,7.0,14.4,6.2,20.7,2.04,0,0,99.9,Non-peak
+PGK00947,23/10/2026,Shymkent,Baby care,Rail,662.1,292,5.9,13.7,7.5,21.2,3.56,0,0,98.5,Non-peak
+PGK00948,2026-02-10,Astana,Hair care,Road,2396.5,733,2.9,22.2,10.4,32.6,5.3,0,0,99.1,Non-peak
+PGK00949,2026-10-16,Astana,Feminine care,Road,2429.5,327,8.0,2.2,13.2,15.4,4.66,0,0,98.0,Non-peak
+PGK00950,2026-03-26,Astana,Laundry,Road,2426.7,491,20.4,8.6,18.6,27.3,6.22,1,2,96.7,Non-peak
+PGK00951,2026-01-29,Shymkent,Feminine care,rail,332.8,868,24.1,10.6,7.4,18.0,2.78,0,0,99.8,Non-peak
+PGK00952,2026-04-03,Almaty,Hair care,Road,1110.5,1025,3.7,13.1,10.1,23.2,2.93,1,2,95.7,Non-peak
+PGK00953,2026-07-06,Aktobe,Laundry,Road,1959.3,1887,9.7,35.9,20.7,56.6,6.05,1,5,,Peak
+PGK00954,2026-05-11,Aktobe,Hair care,Road,1944.0,100,27.5,4.9,18.0,22.9,5.28,0,0,97.7,Non-peak
+PGK00955,2026-08-27,Astana,Laundry,Road,443.3,1803,29.9,34.3,13.5,47.8,4.08,0,0,97.3,Peak
+PGK00956,2026-07-05,ASTANA,BABY CARE,Rail,1621.3,690,7.7,20.8,7.3,28.1,6.29,0,0,98.9,Peak
+PGK00957,2026-05-02,Almaty,Hair care,Road,571.5,1462,21.6,15.8,7.4,23.2,2.73,0,0,99.6,Non-peak
+PGK00958,12/07/2026,Atyrau,Baby care,Rail,1359.7,1372,19.2,18.4,"8,4",26.9,5.0,0,0,99.6,Peak
+PGK00959,2026-10-23,Aktobe,Baby care,Road,789.3,1944,18.2,"19,6",10.7,30.3,3.16,1,6,88.4,Non-peak
+PGK00960,2026-05-06,Atyrau,Laundry,Rail,369.6,262,2.1,11.6,10.7,22.3,"5,53",1,1,98.1,Non-peak
+PGK00961,2026-02-16,Almaty,Laundry,Road,430.0,1936,"6,4",13.5,17.8,31.3,2.89,0,0,"100,0",Non-peak
+PGK00962,2026-05-05,Almaty,Laundry,Rail,"2299,5",172,9.0,3.5,7.5,"11,0",5.36,0,0,99.2,Non-peak
+PGK00963,2026-09-13,Almaty,Laundry,Road,1925.5,1761,8.8,25.2,13.1,38.4,4.69,1,4,92.3,Peak
+PGK00964,2026-03-08,Almaty,Laundry,Road,2346.6,1322,9.7,8.7,12.3,21.0,5.0,0,0,98.9,Non-peak
+PGK00965,2026-10-16,Almaty,Hair care,Road,1307.5,990,32.0,23.8,9.4,33.2,5.81,1,2,95.4,Non-peak
+PGK00966,2026-06-28,Almaty,Baby care,Rail,1179.9,826,7.9,13.3,9.6,22.9,3.77,0,0,99.3,Peak
+PGK00967,2026-07-02,Atyrau,Hair care,Rail,1056.4,232,13.2,13.4,9.5,22.9,5.74,0,0,100.0,Peak
+PGK00968,2026-04-07,Almaty,Hair care,Road,1636.7,1614,12.9,22.6,10.4,33.0,4.6,0,0,99.8,Non-peak
+PGK00969,07/10/2026,Almaty,Baby care,Road,1041.0,1470,9.7,10.8,12.5,23.2,3.79,0,0,99.9,Non-peak
+PGK00970,2026-01-11,Aktobe,Baby care,Road,1929.1,1878,3.9,9.5,14.8,24.4,3.88,0,0,98.6,Non-peak
+PGK00971,2026-04-01,Astana,Hair care,Road,2053.0,1475,10.7,17.4,14.5,31.9,5.22,0,0,98.0,Non-peak
+PGK00972,2026-05-08,Shymkent,Hair care,Road,2220.7,1917,1.4,24.7,8.8,33.5,4.45,0,0,99.3,Non-peak
+PGK00973,2026-05-26,SHYMKENT,Baby care,Road,796.3,1780,14.1,15.9,18.9,34.8,3.49,0,0,100.0,Non-peak
+PGK00974,2026-05-25,Aktobe,Laundry,rail,1435.8,880,1.1,11.7,8.4,20.1,5.17,0,0,,Non-peak
+PGK00975,2026-02-14,Shymkent,BABY CARE,Road,752.8,1422,13.3,12.1,22.5,34.5,4.02,1,7,84.5,Non-peak
+PGK00976,2026-03-10,Astana,Feminine care,Road,,565,6.1,11.8,12.0,23.7,2.22,0,0,100.0,Non-peak
+PGK00977,2026-01-29,Shymkent,Hair care,Road,1842.6,1601,4.5,13.7,9.0,22.7,4.82,0,0,99.5,Non-peak
+PGK00978,2026-06-24,Astana,Laundry,Road,1485.2,1237,16.9,30.6,14.8,45.4,5.29,1,6,89.4,Peak
+PGK00979,2026-04-17,Astana,Oral care,Road,1878.8,909,7.3,12.5,14.8,27.3,3.67,0,0,97.3,Non-peak
+PGK00980,21/06/2026,Astana,Laundry,Road,447.2,1275,10.3,16.2,11.5,27.7,2.8,0,0,98.8,Peak
+PGK00981,2026-06-29,Almaty,Laundry,Road,2489.9,590,2.2,15.6,6.8,22.4,5.5,1,5,91.4,Peak
+PGK00982,2026-08-02,Aktobe,Laundry,Rail,2487.3,1264,25.3,21.9,9.1,31.1,9.77,1,6,87.6,Peak
+PGK00983,2026-06-16,Almaty,Feminine care,Road,1296.2,976,11.1,16.7,7.4,24.1,3.21,0,0,96.2,Peak
+PGK00984,2026-07-16,Almaty,Feminine care,Road,2198.6,677,11.0,13.8,5.3,19.1,5.32,1,2,96.1,Peak
+PGK00985,2026-06-28,Almaty,Baby care,Road,798.0,1953,14.3,18.1,14.8,32.9,3.68,0,0,98.9,Peak
+PGK00986,2026-07-18,Aktobe,Oral care,Road,1909.5,174,1.0,25.5,4.9,30.4,3.71,0,0,100.0,Peak
+PGK00987,2026-07-07,Almaty,Oral care,Rail,2228.3,1528,26.9,15.0,"11,3",26.3,6.56,1,3,93.8,Peak
+PGK00988,2026-04-07,Shymkent,Oral care,Rail,2083.0,459,7.7,"6,3",18.9,25.2,5.48,0,0,99.0,Non-peak
+PGK00989,2026-03-16,Aktobe,Baby care,Rail,2076.5,484,25.9,9.9,9.3,19.2,"5,84",0,0,99.9,Non-peak
+PGK00990,2026-08-28,ALMATY,Feminine care,Road,1291.8,351,"7,5",10.0,5.9,15.9,2.65,0,0,"100,0",Peak
+PGK00991,15/04/2026,Shymkent,Oral care,Rail,"2095,0",249,6.2,16.4,23.3,"39,7",6.6,0,0,,Non-peak
+PGK00992,2026-06-16,Almaty,Laundry,Road,1804.1,291,13.7,14.2,9.7,23.9,3.71,0,0,100.0,Peak
+PGK00993,2026-03-01,Almaty,Hair care,Road,548.0,1674,36.1,18.4,27.7,46.2,4.38,0,0,98.1,Non-peak
+PGK00994,2026-05-12,Shymkent,FEMININE CARE,Road,506.9,1857,21.6,20.2,21.9,42.1,3.78,0,0,98.8,Non-peak
+PGK00995,2026-06-11,Aktobe,Baby care,Rail,1986.8,1190,14.7,24.7,13.5,38.2,6.19,1,2,96.1,Peak
+PGK00996,2026-07-10,Almaty,Hair care,Road,1657.3,77,13.5,24.8,7.3,32.0,3.97,0,0,99.8,Peak
+PGK00997,2026-06-10,Astana,Feminine care,rail,1418.6,1736,10.6,19.6,18.5,38.2,5.42,0,0,99.1,Peak
+PGK00998,2026-04-20,Almaty,Oral care,Road,2291.3,1224,25.2,25.1,11.2,36.3,5.54,0,0,97.8,Non-peak
+PGK00999,2026-10-20,Astana,Baby care,Rail,1734.1,1066,17.1,22.3,8.0,30.3,5.85,0,0,97.1,Non-peak
+PGK01000,2026-06-05,Shymkent,Baby care,Rail,1141.3,1898,2.8,24.3,13.1,37.4,5.08,0,0,98.6,Peak
+PGK01001,2026-09-03,Shymkent,Laundry,Rail,1181.3,849,4.5,13.8,16.1,29.8,4.01,0,0,99.9,Peak
+PGK01002,12/08/2026,Shymkent,Hair care,Road,1611.8,752,15.1,18.2,7.5,25.8,3.99,0,0,99.5,Peak
+PGK01003,2026-06-19,Almaty,Baby care,Rail,1960.6,1571,3.8,19.6,18.8,38.4,5.57,0,0,99.1,Peak
+PGK01004,2026-09-27,Shymkent,Feminine care,Road,1519.8,1078,11.0,22.5,11.9,34.4,5.24,0,0,98.9,Peak
+PGK01005,2026-02-08,Shymkent,Hair care,Road,1394.7,1448,18.1,13.3,7.0,20.3,4.0,0,0,99.4,Non-peak
+PGK01006,2026-10-08,Shymkent,Laundry,Road,1885.5,1407,13.8,17.4,16.8,34.2,5.68,0,0,97.9,Non-peak
+PGK01007,2026-09-16,ALMATY,Baby care,Rail,1836.8,1687,3.3,19.2,11.3,30.5,6.51,1,4,92.9,Peak
+PGK01008,2026-06-03,Astana,Feminine care,Rail,2118.3,668,4.7,21.1,7.6,28.7,5.7,0,0,99.8,Peak
+PGK01009,2026-08-11,Astana,Baby care,Road,390.7,190,14.1,7.8,7.3,15.1,3.09,0,0,98.9,Peak
+PGK01010,2026-06-08,Almaty,Hair care,Rail,-99,981,33.6,20.0,11.1,31.1,7.15,0,0,99.4,Peak
+PGK01011,2026-03-23,Almaty,Oral care,Road,1406.0,1313,9.4,27.5,12.0,39.5,4.09,0,0,97.1,Non-peak
+PGK01012,2026-09-01,Astana,Oral care,Road,418.1,1644,18.5,37.8,19.3,57.2,4.0,0,0,98.7,Peak
+PGK01013,16/03/2026,Shymkent,HAIR CARE,Road,1777.8,571,13.8,13.5,12.8,26.3,4.49,0,0,98.9,Non-peak
+PGK01014,2026-04-06,Almaty,Feminine care,Rail,1862.2,1504,6.0,16.6,9.4,26.0,5.71,0,0,100.0,Non-peak
+PGK01015,2026-06-07,Aktobe,Baby care,Road,1428.2,1673,18.7,43.1,12.2,55.4,4.77,1,2,94.9,Peak
+PGK01016,2026-09-12,Astana,Laundry,Rail,,1627,2.1,28.3,"18,5",46.8,6.3,1,6,89.3,Peak
+PGK01017,2026-04-27,Shymkent,Baby care,Road,925.6,1626,17.8,"34,6",8.7,43.3,4.51,1,7,86.4,Non-peak
+PGK01018,2026-05-31,Astana,Feminine care,Rail,704.3,1976,14.4,23.6,13.5,37.0,"4,54",0,0,96.5,Non-peak
+PGK01019,2026-01-13,Astana,Hair care,Road,1039.2,1339,"6,5",11.0,19.1,30.1,3.39,0,0,"98,7",Non-peak
+PGK01020,2026-02-05,Shymkent,Baby care,road,"1172,6",772,4.1,33.3,7.0,"40,3",4.27,0,0,99.0,Non-peak
+PGK01021,2026-01-18,Atyrau,Oral care,Rail,1815.9,901,7.0,21.0,5.0,26.1,5.1,0,0,99.2,Non-peak
+PGK01022,2026-01-22,Astana,Oral care,Rail,2152.4,1507,5.7,16.6,8.6,25.3,6.31,0,0,99.2,Non-peak
+PGK01023,2026-09-22,Astana,Feminine care,Rail,1872.1,511,8.3,9.2,6.8,16.0,5.39,0,0,98.7,Peak
+PGK01024,13/09/2026,SHYMKENT,Laundry,Rail,641.5,1226,7.6,30.3,9.3,39.6,4.84,0,0,98.5,Peak
+PGK01025,2026-09-07,Shymkent,Baby care,Rail,1074.0,1167,6.5,25.6,11.1,36.7,6.16,0,0,97.7,Peak
+PGK01026,2026-01-17,Almaty,Baby care,Road,606.4,1350,2.0,38.9,26.2,65.1,5.22,0,0,96.3,Non-peak
+PGK01027,2026-01-24,Astana,Laundry,Road,1795.1,871,3.6,27.3,11.2,38.5,4.42,0,0,98.7,Non-peak
+PGK01028,2026-03-27,Astana,Oral care,Rail,808.4,1493,20.7,31.9,10.7,42.6,4.34,1,2,94.6,Non-peak
+PGK01029,2026-06-21,Atyrau,Laundry,Road,1432.1,189,6.7,17.4,7.8,25.2,3.3,0,0,100.0,Peak
+PGK01030,2026-04-12,Astana,Baby care,Rail,2031.6,1512,8.4,16.5,9.1,25.6,7.49,0,0,96.9,Non-peak
+PGK01031,2026-05-29,Astana,Hair care,Road,1759.6,1633,7.3,22.5,11.6,34.1,4.55,0,0,99.2,Non-peak
+PGK01032,2026-02-22,Atyrau,LAUNDRY,Rail,921.3,1778,25.5,16.5,20.4,36.9,5.26,1,6,90.8,Non-peak
+PGK01033,2026-08-11,Astana,Feminine care,Road,999.0,1850,5.5,23.4,15.1,38.5,4.5,1,4,91.8,Peak
+PGK01034,2026-04-06,Almaty,Hair care,Road,1720.1,731,5.2,14.7,13.4,28.1,4.13,0,0,99.0,Non-peak
+PGK01035,21/01/2026,Almaty,Hair care,Rail,1486.3,140,14.6,16.6,10.1,26.7,6.4,0,0,99.4,Non-peak
+PGK01036,2026-08-14,Almaty,Feminine care,Rail,,1324,11.6,37.6,27.4,65.1,4.23,0,0,98.8,Peak
+PGK01037,2026-10-02,Almaty,Feminine care,Road,2216.5,226,14.9,15.3,10.3,25.6,5.38,0,0,98.6,Non-peak
+PGK01038,2026-01-05,Astana,Laundry,Road,1403.4,596,14.3,3.5,21.6,25.1,6.15,0,0,98.0,Non-peak
+PGK01039,2026-05-13,Shymkent,Hair care,Road,1315.1,1420,19.0,39.7,16.7,56.4,6.71,0,0,99.1,Non-peak
+PGK01040,2026-09-09,Shymkent,Oral care,Road,696.5,1210,3.2,29.8,13.6,43.4,4.89,0,0,96.8,Peak
+PGK01041,2026-08-03,ALMATY,Oral care,Road,1098.2,1233,13.7,22.0,9.8,31.8,3.32,1,6,89.6,Peak
+PGK01042,2026-09-18,Astana,Feminine care,Road,998.9,1515,5.2,24.5,18.5,43.0,4.08,1,4,91.5,Peak
+PGK01043,2026-05-07,Almaty,Baby care,road,859.2,371,1.4,1.4,12.5,13.9,2.31,0,0,99.3,Non-peak
+PGK01044,2026-04-24,Atyrau,Laundry,Road,1526.7,1593,14.2,21.6,17.6,39.2,4.3,0,0,98.3,Non-peak
+PGK01045,2026-08-04,Almaty,Feminine care,Road,1290.1,1194,13.7,30.1,"7,0",37.1,4.53,0,0,100.0,Peak
+PGK01046,16/02/2026,Shymkent,Laundry,Rail,2250.7,869,10.0,"4,9",7.3,12.1,5.29,0,0,99.5,Non-peak
+PGK01047,2026-03-14,Almaty,Laundry,Road,2368.0,954,19.2,8.4,11.5,19.8,"5,42",0,0,98.8,Non-peak
+PGK01048,2026-07-02,Shymkent,Oral care,Rail,743.8,1042,"5,3",23.7,10.2,33.8,3.29,0,0,"98,5",Peak
+PGK01049,2026-07-23,Astana,Oral care,Rail,"475,2",1123,15.8,21.5,10.0,"31,5",3.87,1,7,86.9,Peak
+PGK01050,2026-02-06,Shymkent,Laundry,Road,2017.0,701,9.0,8.4,5.8,14.3,3.63,0,0,100.0,Non-peak
+PGK01051,2026-06-04,Almaty,LAUNDRY,Rail,2488.4,485,9.5,15.5,5.2,20.7,6.41,0,0,97.8,Peak
+PGK01052,2026-04-21,Aktobe,Baby care,Rail,2193.1,379,1.7,12.0,8.9,20.9,5.5,0,0,100.0,Non-peak
+PGK01053,2026-06-02,Astana,Hair care,Rail,,714,19.3,18.9,8.2,27.1,3.16,1,3,94.5,Peak
+PGK01054,2026-10-19,Shymkent,Oral care,Road,815.3,558,13.3,13.6,6.1,19.7,3.04,0,0,100.0,Non-peak
+PGK01055,2026-01-24,Aktobe,Baby care,Road,347.5,1056,15.4,12.5,9.0,21.5,2.45,1,3,94.6,Non-peak
+PGK01056,2026-10-30,Atyrau,Baby care,Rail,2096.8,1829,4.7,19.4,15.6,35.0,5.78,1,5,90.4,Non-peak
+PGK01057,17/05/2026,Almaty,Baby care,Rail,1558.2,260,12.2,13.6,7.6,21.3,6.05,1,6,89.9,Non-peak
+PGK01058,2026-08-23,ALMATY,Hair care,Road,1405.9,652,9.0,20.2,11.0,31.2,4.05,1,7,87.3,Peak
+PGK01059,2026-05-10,Almaty,Hair care,Road,1497.5,145,13.8,5.9,1.1,7.0,3.54,0,0,100.0,Non-peak
+PGK01060,2026-04-05,Almaty,Oral care,Rail,818.0,1951,11.9,27.9,18.4,46.3,4.44,1,5,91.6,Non-peak
+PGK01061,2026-08-23,Astana,Baby care,Road,1603.7,1417,28.8,18.7,23.8,42.5,8.73,0,0,98.8,Peak
+PGK01062,2026-07-29,Atyrau,Baby care,Road,319.0,521,23.2,11.2,10.3,21.5,3.05,0,0,98.7,Peak
+PGK01063,2026-02-13,Atyrau,Baby care,Rail,1703.5,858,8.2,18.4,5.6,24.0,6.34,0,0,98.4,Non-peak
+PGK01064,2026-08-03,Astana,Hair care,Road,1902.5,1460,14.2,27.4,11.4,38.8,4.97,0,0,99.3,Peak
+PGK01065,2026-08-17,Shymkent,Feminine care,Road,1764.3,1918,7.7,27.7,11.9,39.6,5.18,0,0,97.9,Peak
+PGK01066,2026-04-28,Aktobe,Baby care,road,997.3,1169,18.9,9.8,19.5,29.3,3.8,1,1,96.9,Non-peak
+PGK01067,2026-10-09,Atyrau,Oral care,Road,2109.1,578,9.3,8.5,6.2,14.7,5.05,0,0,98.3,Non-peak
+PGK01068,14/07/2026,Almaty,Feminine care,Road,1860.0,1409,6.9,26.5,14.1,40.6,4.58,1,1,97.6,Peak
+PGK01069,2026-04-12,Astana,Feminine care,Road,538.7,1387,12.1,19.3,10.2,29.4,2.58,0,0,98.2,Non-peak
+PGK01070,2026-01-04,Aktobe,ORAL CARE,Road,689.1,1306,22.1,11.5,13.2,24.7,3.68,0,0,97.8,Non-peak
+PGK01071,2026-07-25,Almaty,Oral care,Road,1683.5,139,19.9,22.0,5.2,27.2,5.61,1,4,91.1,Peak
+PGK01072,2026-03-05,Astana,Baby care,Road,901.2,1428,7.2,16.2,12.0,28.2,3.17,0,0,98.4,Non-peak
+PGK01073,2026-08-18,Atyrau,Oral care,Road,518.7,88,27.2,11.0,6.2,17.2,2.89,0,0,98.7,Peak
+PGK01074,2026-06-09,Atyrau,Hair care,Road,598.7,1816,4.9,22.9,"20,8",43.7,2.9,1,7,87.1,Peak
+PGK01075,2026-05-22,AKTOBE,Oral care,Rail,622.6,1770,6.3,"21,3",7.7,29.0,4.35,0,0,98.8,Non-peak
+PGK01076,2026-02-19,Aktobe,Laundry,Rail,1325.0,1149,18.4,23.6,8.8,32.4,"4,86",0,0,99.3,Non-peak
+PGK01077,2026-08-05,Almaty,Feminine care,Road,1616.6,1310,"1,4",28.4,18.1,46.5,4.37,1,3,"94,0",Peak
+PGK01078,2026-02-20,Almaty,Hair care,Road,"646,9",182,10.3,13.5,10.7,"24,2",2.68,0,0,99.8,Non-peak
+PGK01079,07/05/2026,Astana,Oral care,Rail,1853.1,1756,8.2,22.7,8.4,31.1,5.76,0,0,97.0,Non-peak
+PGK01080,2026-09-12,Astana,Laundry,Road,882.3,578,28.2,14.3,13.5,27.9,4.52,0,0,97.9,Peak
+PGK01081,2026-10-07,Astana,Laundry,Rail,951.0,561,4.2,9.6,4.7,14.3,5.64,0,0,99.8,Non-peak
+PGK01082,2026-10-28,Shymkent,Feminine care,Road,752.9,1431,4.6,17.9,8.9,26.8,3.15,0,0,99.2,Non-peak
+PGK01083,2026-10-19,Astana,Feminine care,Road,2016.7,1881,30.7,16.6,17.9,34.5,5.22,0,0,99.9,Non-peak
+PGK01084,2026-06-19,Shymkent,Hair care,Rail,2409.6,1013,8.3,30.8,10.2,41.0,7.17,0,0,97.2,Peak
+PGK01085,2026-03-02,Almaty,Laundry,Road,1358.1,1040,21.5,16.9,5.4,22.3,4.38,0,0,98.6,Non-peak
+PGK01086,2026-09-13,Almaty,Feminine care,Rail,344.6,1120,7.3,21.9,8.4,30.3,4.15,1,3,93.6,Peak
+PGK01087,2026-09-01,Almaty,Feminine care,Road,836.3,618,6.1,14.5,10.1,24.5,4.02,1,5,90.7,Peak
+PGK01088,2026-10-29,Almaty,Laundry,Rail,605.6,1213,22.2,16.3,8.9,25.2,3.74,1,5,90.6,Non-peak
+PGK01089,2026-07-17,Aktobe,ORAL CARE,road,,1924,35.4,28.2,13.7,41.9,6.49,0,0,99.2,Peak
+PGK01090,13/02/2026,Astana,Hair care,Road,440.9,796,23.3,8.9,11.1,20.0,3.21,0,0,99.0,Non-peak
+PGK01091,2026-06-02,Almaty,Oral care,Rail,2424.6,1558,6.9,23.2,15.1,38.3,7.16,0,0,100.0,Peak
+PGK01092,2026-05-17,SHYMKENT,Baby care,Rail,1574.2,1559,10.0,12.4,10.5,23.0,4.95,0,0,100.0,Non-peak
+PGK01093,2026-09-14,Astana,Laundry,Rail,1414.9,1709,4.8,41.9,18.9,60.8,7.77,0,0,97.3,Peak
+PGK01094,2026-04-30,Almaty,Hair care,Road,2156.5,1461,5.5,17.3,13.8,31.1,4.38,1,1,97.3,Non-peak
+PGK01095,2026-04-10,Almaty,Baby care,Road,312.0,1847,5.3,15.5,14.0,29.5,3.35,0,0,99.8,Non-peak
+PGK01096,2026-01-25,Almaty,Oral care,Road,1998.6,1443,7.4,31.9,9.3,41.2,5.66,0,0,99.3,Non-peak
+PGK01097,2026-09-11,Shymkent,Laundry,Road,512.4,1954,11.2,28.8,21.0,49.8,3.78,0,0,98.2,Peak
+PGK01098,2026-08-18,Almaty,Feminine care,Road,2141.8,1445,10.3,27.7,11.7,39.4,4.89,0,0,99.0,Peak
+PGK01099,2026-01-13,Almaty,Oral care,Road,1440.6,1682,16.6,17.0,11.0,28.0,4.28,0,0,97.4,Non-peak
+PGK01100,2026-05-12,Almaty,Feminine care,Road,387.5,1787,11.6,20.2,22.2,42.5,3.91,0,0,98.7,Non-peak
+PGK01101,26/05/2026,Astana,Feminine care,Road,2124.8,1968,15.6,13.2,10.5,23.7,4.09,0,0,97.6,Non-peak
+PGK01102,2026-05-23,Almaty,Laundry,Road,311.5,1211,17.3,15.1,7.4,22.5,2.22,0,0,99.6,Non-peak
+PGK01103,2026-10-07,Aktobe,Laundry,Road,561.3,1435,7.0,36.8,"10,1",46.9,3.85,0,0,97.5,Non-peak
+PGK01104,2026-02-15,Almaty,Oral care,Road,2045.1,1936,9.1,"11,9",9.9,21.7,4.56,0,0,99.3,Non-peak
+PGK01105,2026-04-04,Shymkent,Laundry,Rail,1296.0,791,58.8,16.4,5.3,21.7,"5,98",1,4,92.6,Non-peak
+PGK01106,2026-02-25,Astana,Laundry,Rail,2233.1,282,"6,6",3.0,15.9,18.9,5.5,0,0,"99,2",Non-peak
+PGK01107,2026-03-16,Astana,Baby care,Road,"1679,7",1775,16.2,11.2,11.4,"22,7",4.43,0,0,98.5,Non-peak
+PGK01108,2026-10-03,Almaty,FEMININE CARE,Rail,1652.9,1282,3.4,47.4,11.9,59.3,5.78,1,7,86.3,Non-peak
+PGK01109,2026-10-13,AKTOBE,Oral care,Road,907.5,885,17.6,12.9,5.0,17.9,3.8,0,0,100.0,Non-peak
+PGK01110,2026-01-14,Aktobe,Baby care,Road,550.8,1448,5.7,13.4,8.2,21.6,2.36,0,0,98.7,Non-peak
+PGK01111,2026-07-12,Almaty,Laundry,Road,2412.6,113,10.6,20.5,18.6,39.1,5.56,0,0,98.8,Peak
+PGK01112,12/03/2026,Almaty,Hair care,road,485.8,981,2.9,25.9,6.1,32.0,2.78,0,0,98.4,Non-peak
+PGK01113,2026-02-28,Aktobe,Oral care,Rail,1440.3,567,9.8,16.0,9.2,25.2,4.3,0,0,100.0,Non-peak
+PGK01114,2026-03-30,Astana,Laundry,Road,863.3,612,10.0,12.7,2.7,15.3,2.82,0,0,99.3,Non-peak
+PGK01115,2026-03-01,Almaty,Baby care,Rail,844.3,1941,8.9,21.9,9.1,31.0,4.37,0,0,98.2,Non-peak
+PGK01116,2026-05-30,Almaty,Laundry,Road,1587.8,1123,13.9,13.0,8.8,21.8,3.67,0,0,99.1,Non-peak
+PGK01117,2026-10-30,Shymkent,Hair care,Road,2045.4,323,21.0,5.9,11.2,17.1,4.26,1,4,92.2,Non-peak
+PGK01118,2026-06-28,Shymkent,Hair care,Road,1998.7,761,4.6,17.6,10.4,28.0,6.63,0,0,100.0,Peak
+PGK01119,2026-08-08,Shymkent,Oral care,Road,2204.8,523,9.0,17.2,8.7,25.9,4.28,0,0,99.0,Peak
+PGK01120,2026-05-30,Atyrau,Feminine care,Road,909.0,1823,3.1,17.1,15.7,32.7,3.02,0,0,97.5,Non-peak
+PGK01121,2026-01-05,Astana,Laundry,Road,1297.9,618,1.9,12.2,8.7,20.9,4.55,0,0,99.6,Non-peak
+PGK01122,2026-01-26,Almaty,Oral care,Road,271.0,746,11.5,8.0,4.0,12.0,1.39,0,0,100.0,Non-peak
+PGK01123,23/03/2026,Astana,Oral care,Road,1930.4,701,4.3,14.0,7.9,21.9,3.95,0,0,100.0,Non-peak
+PGK01124,2026-03-16,Astana,Feminine care,Rail,930.3,392,10.2,10.9,5.2,16.1,3.94,0,0,98.1,Non-peak
+PGK01125,2026-09-13,Almaty,Feminine care,Rail,1513.4,1572,11.8,19.9,12.7,32.7,5.32,1,4,91.8,Peak
+PGK01126,2026-09-14,ALMATY,Laundry,Road,630.9,1174,2.2,21.5,10.2,31.7,2.22,0,0,98.9,Peak
+PGK01127,2026-09-17,Astana,ORAL CARE,Rail,2093.6,902,13.1,19.7,10.8,30.4,5.89,0,0,98.9,Peak
+PGK01128,2026-07-13,Shymkent,Baby care,Road,2088.9,822,20.3,27.6,12.4,40.0,4.98,0,0,99.2,Peak
+PGK01129,2026-06-19,Almaty,Laundry,Road,2224.3,1350,15.2,21.8,9.1,30.9,5.08,0,0,98.6,Peak
+PGK01130,2026-07-17,Astana,Hair care,Road,353.4,237,4.7,10.3,5.9,16.2,2.27,0,0,98.3,Peak
+PGK01131,2026-05-04,Shymkent,Feminine care,Rail,2483.0,1867,9.8,16.9,15.7,32.6,6.7,0,0,99.9,Non-peak
+PGK01132,2026-07-23,Shymkent,Baby care,Road,807.5,1152,10.6,35.8,"15,5",51.3,4.02,0,0,97.5,Peak
+PGK01133,2026-08-30,Shymkent,Hair care,Rail,946.2,494,9.2,"11,5",17.4,28.9,3.84,0,0,98.2,Peak
+PGK01134,20/08/2026,Aktobe,Hair care,Road,811.0,1099,3.3,22.3,11.8,34.1,"4,34",0,0,97.8,Peak
+PGK01135,2026-07-06,Shymkent,Feminine care,road,851.9,1712,"5,3",26.2,11.7,37.8,3.64,1,7,"87,5",Peak
+PGK01136,2026-01-18,Almaty,Hair care,Rail,"1493,5",387,8.6,11.2,4.5,"15,8",4.53,0,0,99.3,Non-peak
+PGK01137,2026-08-09,Astana,Laundry,Rail,,1072,11.7,14.7,11.6,26.3,4.67,0,0,99.9,Peak
+PGK01138,2026-04-22,Shymkent,Baby care,Rail,1136.0,1215,6.5,11.3,7.2,18.5,3.28,0,0,98.4,Non-peak
+PGK01139,2026-08-15,Almaty,Feminine care,Road,1725.1,1630,1.6,20.6,21.3,41.9,4.65,0,0,97.5,Peak
+PGK01140,2026-06-14,Almaty,Laundry,Road,2131.1,1156,6.9,20.5,10.1,30.6,4.43,0,0,98.5,Peak
+PGK01141,2026-09-25,Almaty,Hair care,Rail,1808.7,1486,28.7,34.4,19.5,53.9,8.83,1,4,91.5,Peak
+PGK01142,2026-04-13,Astana,Baby care,Rail,1587.2,1559,13.2,16.8,8.3,25.2,6.16,0,0,99.3,Non-peak
+PGK01143,2026-10-11,ASTANA,Laundry,Road,582.4,1788,11.5,20.4,11.6,32.1,2.9,0,0,97.2,Non-peak
+PGK01144,2026-09-14,Almaty,Oral care,Rail,2086.3,755,5.3,19.2,9.0,28.2,5.79,1,6,89.3,Peak
+PGK01145,11/04/2026,Aktobe,Hair care,Road,333.9,1423,7.1,18.1,7.1,25.2,1.99,0,0,98.2,Non-peak
+PGK01146,2026-05-27,Atyrau,LAUNDRY,Road,844.4,535,1.5,12.7,6.3,19.0,3.26,0,0,98.5,Non-peak
+PGK01147,2026-06-11,Almaty,Hair care,Road,378.4,1697,5.0,32.5,15.0,47.5,3.81,0,0,99.8,Peak
+PGK01148,2026-08-22,Atyrau,Feminine care,Road,1751.7,1905,12.7,22.9,10.1,33.0,4.5,1,4,89.9,Peak
+PGK01149,2026-07-29,Almaty,Feminine care,Road,1078.8,624,11.6,13.2,12.0,25.3,3.35,0,0,99.4,Peak
+PGK01150,2026-09-17,Atyrau,Baby care,Road,1717.1,1144,6.1,15.7,13.2,28.9,3.89,0,0,99.3,Peak
+PGK01151,2026-04-23,Atyrau,Baby care,Rail,1030.8,1654,9.1,15.1,11.7,26.8,5.35,1,5,89.7,Non-peak
+PGK01152,2026-06-03,Almaty,Feminine care,Rail,1275.4,102,10.3,37.1,11.0,48.2,5.41,0,0,98.2,Peak
+PGK01153,2026-05-11,Shymkent,Laundry,Road,1280.4,1425,6.3,27.1,14.8,41.9,3.95,0,0,100.0,Non-peak
+PGK01154,2026-10-04,Atyrau,Oral care,Rail,352.6,1651,13.7,17.9,32.1,50.0,4.63,0,0,,Non-peak
+PGK01155,2026-04-03,Aktobe,Oral care,Road,1218.0,1749,11.4,14.7,8.4,23.1,3.38,0,0,100.0,Non-peak
+PGK01156,28/06/2026,Atyrau,Oral care,Road,1692.4,433,7.3,24.8,17.8,42.6,5.51,0,0,100.0,Peak
+PGK01157,2026-02-06,Astana,Hair care,Road,1478.6,1527,3.5,15.8,16.3,32.1,5.49,0,0,98.2,Non-peak
+PGK01158,2026-09-16,Almaty,Oral care,rail,419.4,1583,6.9,19.2,14.9,34.1,2.85,0,0,97.3,Peak
+PGK01159,2026-04-27,Aktobe,Oral care,Road,1753.1,55,6.6,10.4,2.4,12.7,3.91,0,0,99.2,Non-peak
+PGK01160,2026-04-14,SHYMKENT,Feminine care,Road,944.9,1425,6.0,14.4,9.4,23.8,2.7,0,0,99.9,Non-peak
+PGK01161,2026-06-27,Shymkent,Laundry,Rail,282.5,1271,2.3,21.0,"10,4",31.4,5.09,0,0,97.1,Peak
+PGK01162,2026-06-01,Astana,Oral care,Road,600.1,1940,23.9,"22,1",14.4,36.5,4.02,1,4,91.1,Peak
+PGK01163,2026-09-15,Astana,Feminine care,Road,1369.5,133,23.2,14.9,10.9,25.8,"4,81",0,0,98.2,Peak
+PGK01164,2026-06-11,Almaty,Hair care,Road,948.4,1933,"8,9",22.9,22.1,45.0,3.37,0,0,"99,0",Peak
+PGK01165,2026-06-07,Shymkent,ORAL CARE,Road,"1812,4",1164,11.7,26.1,23.5,"49,6",5.09,1,5,90.3,Peak
+PGK01166,2026-02-01,Almaty,Laundry,Rail,791.5,585,13.6,21.1,6.1,27.2,3.3,0,0,98.2,Non-peak
+PGK01167,07/01/2026,Shymkent,Oral care,Road,1988.8,805,9.0,23.9,9.1,32.9,4.85,0,0,99.1,Non-peak
+PGK01168,2026-05-02,Aktobe,Oral care,Road,894.6,1545,12.3,41.6,8.7,50.3,6.02,1,4,90.6,Non-peak
+PGK01169,2026-10-31,Astana,Laundry,Rail,1646.9,1993,14.9,32.5,18.5,51.0,7.17,1,6,88.0,Non-peak
+PGK01170,2026-10-06,Astana,Laundry,Road,2048.2,668,11.1,21.0,9.6,30.6,5.21,0,0,97.7,Non-peak
+PGK01171,2026-07-11,Almaty,Oral care,Rail,1117.5,1969,16.7,18.7,14.2,32.9,4.6,1,1,97.1,Peak
+PGK01172,2026-07-11,Atyrau,Hair care,Rail,355.3,1277,5.9,17.7,8.4,26.1,2.18,0,0,98.2,Peak
+PGK01173,2026-04-30,Shymkent,Baby care,Road,1454.8,424,9.8,15.2,7.6,22.8,3.7,1,2,96.4,Non-peak
+PGK01174,2026-02-23,Astana,Laundry,Rail,2489.7,1216,46.4,8.2,11.2,19.5,8.57,0,0,99.1,Non-peak
+PGK01175,2026-01-03,Almaty,Feminine care,Road,2430.2,1614,19.3,58.2,7.4,65.6,6.6,1,1,96.4,Non-peak
+PGK01176,2026-04-14,Almaty,Baby care,Rail,747.3,156,11.3,4.0,2.3,6.3,3.49,0,0,100.0,Non-peak
+PGK01177,2026-04-07,ASTANA,Feminine care,Road,1950.3,203,4.6,16.5,6.6,23.1,4.25,0,0,99.5,Non-peak
+PGK01178,28/02/2026,Atyrau,Laundry,Rail,1026.1,60,10.1,10.8,16.1,26.8,3.75,0,0,98.6,Non-peak
+PGK01179,2026-03-20,Shymkent,Hair care,Road,610.6,1162,18.4,10.4,16.0,26.4,2.67,0,0,98.4,Non-peak
+PGK01180,2026-01-08,Almaty,Oral care,Rail,1748.3,162,16.0,11.1,5.1,16.2,4.7,0,0,98.0,Non-peak
+PGK01181,2026-07-04,Aktobe,Oral care,road,1377.0,1868,1.8,18.8,13.4,32.2,3.65,0,0,98.9,Peak
+PGK01182,2026-10-09,Astana,Oral care,Rail,1463.3,299,2.4,11.2,4.1,15.3,5.19,0,0,99.5,Non-peak
+PGK01183,2026-07-30,Aktobe,Feminine care,Rail,2111.6,189,2.5,15.3,5.4,20.7,5.18,0,0,97.2,Peak
+PGK01184,2026-05-17,Almaty,FEMININE CARE,Road,1007.2,552,13.7,10.8,6.4,17.1,4.38,1,1,96.1,Non-peak
+PGK01185,2026-05-08,Shymkent,Laundry,Road,1751.0,1538,2.6,19.0,25.2,44.2,4.05,0,0,98.2,Non-peak
+PGK01186,2026-04-04,Atyrau,Hair care,Road,1073.9,1819,4.4,15.8,11.2,27.0,3.29,0,0,97.9,Non-peak
+PGK01187,2026-02-13,Almaty,Feminine care,Rail,346.1,539,8.8,2.3,7.3,9.6,2.08,0,0,99.4,Non-peak
+PGK01188,2026-07-01,Shymkent,Baby care,Rail,1100.5,1061,20.5,23.8,8.0,31.9,5.21,0,0,99.1,Peak
+PGK01189,22/06/2026,Atyrau,Feminine care,Road,2387.6,1559,14.1,32.6,16.0,48.6,6.2,0,0,98.5,Peak
+PGK01190,2026-01-03,Almaty,Baby care,Road,1337.3,1604,8.0,14.8,"11,5",26.3,3.44,0,0,99.6,Non-peak
+PGK01191,2026-05-07,Almaty,Laundry,Rail,493.5,348,17.0,"28,7",5.1,33.8,3.5,0,0,98.3,Non-peak
+PGK01192,2026-03-26,Shymkent,Baby care,Road,1797.6,1685,34.1,40.1,9.0,49.1,"7,05",0,0,98.6,Non-peak
+PGK01193,2026-02-21,Almaty,Feminine care,Road,2417.6,1742,"10,2",17.8,9.7,27.5,5.14,0,0,"98,0",Non-peak
+PGK01194,2026-08-02,ALMATY,Oral care,Road,"2292,9",1483,3.3,21.4,11.5,"32,8",4.18,0,0,99.2,Peak
+PGK01195,2026-06-09,Astana,Laundry,Road,1536.9,1078,4.6,18.4,10.0,28.5,3.66,0,0,99.1,Peak
+PGK01196,2026-07-12,Shymkent,Hair care,Road,1096.6,813,4.5,11.4,7.4,18.8,2.8,0,0,98.0,Peak
+PGK01197,2026-08-05,Almaty,Feminine care,Rail,1556.5,1785,5.4,22.4,13.9,36.2,5.17,0,0,98.7,Peak
+PGK01198,2026-10-26,Almaty,Feminine care,Road,2085.8,1735,7.6,15.3,12.9,28.2,5.23,0,0,99.0,Non-peak
+PGK01199,2026-09-02,Aktobe,Oral care,Rail,2187.8,1061,12.0,19.8,15.0,34.8,6.39,0,0,99.2,Peak
+PGK01200,08/07/2026,Astana,Laundry,Road,2092.4,1497,2.8,22.9,23.2,46.2,5.35,0,0,99.0,Peak
+PGK01201,2026-09-25,Aktobe,Oral care,Road,1274.8,830,3.3,16.6,6.2,22.8,4.97,1,7,86.5,Peak
+PGK01202,2026-05-26,Astana,Feminine care,Road,517.4,1499,14.8,21.1,12.7,33.8,4.39,0,0,99.7,Non-peak
+PGK01203,2026-10-27,Atyrau,ORAL CARE,Rail,1530.6,224,6.6,4.0,5.0,9.0,3.84,0,0,99.9,Non-peak
+PGK01204,2026-08-20,Shymkent,Baby care,rail,602.0,1808,4.9,22.1,9.8,32.0,3.45,0,0,98.2,Peak
+PGK01205,2026-07-17,Almaty,Baby care,Road,387.2,1055,8.3,19.0,9.3,28.3,3.14,0,0,97.8,Peak
+PGK01206,2026-10-02,Aktobe,Hair care,Road,1372.0,1217,22.8,16.5,13.0,29.5,3.94,0,0,98.3,Non-peak
+PGK01207,2026-06-06,Astana,Hair care,Road,1724.6,419,16.2,29.4,11.1,40.5,5.06,0,0,97.3,Peak
+PGK01208,2026-08-08,Almaty,Oral care,Road,2171.8,1081,15.4,30.0,11.9,41.9,5.52,0,0,99.0,Peak
+PGK01209,2026-03-28,Almaty,Laundry,Road,2011.4,56,28.0,9.7,3.0,12.7,5.71,0,0,100.0,Non-peak
+PGK01210,2026-10-20,Shymkent,Laundry,Rail,2178.8,1786,12.4,18.1,19.8,37.9,7.02,0,0,100.0,Non-peak
+PGK01211,09/07/2026,ALMATY,Hair care,Road,1960.2,1511,29.7,14.7,10.0,24.7,5.15,0,0,98.0,Peak
+PGK01212,2026-08-26,Almaty,Oral care,Rail,1832.3,936,31.2,21.8,9.5,31.3,7.22,0,0,99.7,Peak
+PGK01213,2026-05-21,Almaty,Oral care,Road,272.8,1680,2.9,18.2,11.0,29.2,3.57,0,0,99.1,Non-peak
+PGK01214,2026-09-21,Astana,Baby care,Rail,1658.7,1633,2.2,22.2,13.3,35.6,4.65,1,2,93.1,Peak
+PGK01215,2026-01-23,Astana,Baby care,Rail,521.1,282,4.3,16.7,22.5,39.3,3.16,0,0,98.5,Non-peak
+PGK01216,2026-02-04,Astana,Laundry,Road,382.0,155,21.4,1.9,15.0,16.9,4.5,0,0,98.8,Non-peak
+PGK01217,2026-06-04,Almaty,Hair care,Road,601.9,544,8.4,26.9,11.4,38.3,6.03,0,0,100.0,Peak
+PGK01218,2026-08-11,Almaty,Laundry,Rail,2102.4,52,7.6,19.7,7.3,27.0,5.64,0,0,98.1,Peak
+PGK01219,2026-09-04,Shymkent,Oral care,Rail,1923.7,1168,17.3,31.7,"11,8",43.4,7.57,1,3,94.2,Peak
+PGK01220,2026-05-14,Astana,Oral care,Road,2384.7,1080,6.3,"17,2",12.9,30.0,4.58,0,0,98.9,Non-peak
+PGK01221,2026-07-17,Shymkent,Hair care,Rail,2452.7,1099,11.3,28.2,17.4,45.6,"7,12",0,0,97.2,Peak
+PGK01222,18/06/2026,Almaty,HAIR CARE,Rail,2259.9,193,"14,8",14.9,4.7,19.6,6.25,0,0,"98,6",Peak
+PGK01223,2026-10-20,Almaty,Hair care,Road,"549,1",1841,4.6,13.5,22.7,"36,3",3.96,0,0,100.0,Non-peak
+PGK01224,2026-07-18,Almaty,Feminine care,Rail,2226.4,1955,3.8,19.8,16.8,36.6,6.36,1,4,91.9,Peak
+PGK01225,2026-05-07,Astana,Baby care,Road,2136.9,1202,10.2,9.4,8.1,17.5,5.23,0,0,100.0,Non-peak
+PGK01226,2026-10-22,Astana,Oral care,Road,2209.9,60,11.1,3.7,4.8,8.5,5.1,0,0,100.0,Non-peak
+PGK01227,2026-02-02,Aktobe,Baby care,rail,591.3,822,16.4,22.3,10.5,32.8,3.59,0,0,98.5,Non-peak
+PGK01228,2026-10-27,ASTANA,Oral care,Rail,512.8,1451,4.2,17.4,13.3,30.7,2.84,0,0,97.7,Non-peak
+PGK01229,2026-02-16,Astana,Baby care,Rail,2328.6,1510,5.6,13.6,8.3,21.9,6.02,0,0,98.0,Non-peak
+PGK01230,2026-03-29,Shymkent,Hair care,Rail,641.1,524,31.0,33.9,7.0,40.9,4.91,0,0,100.0,Non-peak
+PGK01231,2026-09-07,Almaty,Feminine care,Rail,1079.4,1655,19.0,52.7,14.6,67.3,6.24,1,6,,Peak
+PGK01232,2026-08-12,Astana,Oral care,Road,1276.0,1937,9.0,18.8,20.9,39.7,4.29,0,0,97.1,Peak
+PGK01233,22/10/2026,Astana,Oral care,Road,530.0,1042,21.0,15.6,16.1,31.7,3.29,1,4,93.0,Non-peak
+PGK01234,2026-08-16,Astana,Feminine care,Road,296.4,794,4.2,19.2,6.9,26.1,1.8,0,0,97.2,Peak
+PGK01235,2026-07-13,Almaty,Hair care,Road,2486.7,1076,8.2,12.8,11.6,24.4,7.13,1,3,93.1,Peak
+PGK01236,2026-04-16,Shymkent,Laundry,Road,2222.5,103,11.0,16.8,3.6,20.3,4.26,0,0,99.2,Non-peak
+PGK01237,2026-01-02,Atyrau,Baby care,Road,2302.8,1071,7.5,9.2,11.4,20.6,3.92,0,0,100.0,Non-peak
+PGK01238,2026-02-07,Almaty,Hair care,Rail,890.3,102,7.7,29.5,21.1,50.6,5.39,1,7,87.5,Non-peak
+PGK01239,2026-04-01,Shymkent,Baby care,Rail,745.2,117,15.9,13.0,10.7,23.8,3.27,0,0,98.6,Non-peak
+PGK01240,2026-01-13,Shymkent,Hair care,Rail,1208.2,1129,19.2,33.6,12.1,45.7,6.15,0,0,98.7,Non-peak
+PGK01241,2026-06-04,Almaty,HAIR CARE,Rail,1270.0,1046,6.9,22.0,15.3,37.3,4.56,0,0,99.7,Peak
+PGK01242,2026-08-25,Shymkent,Hair care,Rail,262.6,1975,3.1,23.6,23.6,47.2,5.9,1,2,96.7,Peak
+PGK01243,2026-10-20,Shymkent,Hair care,Road,2003.3,1040,2.5,25.8,13.8,39.6,6.21,1,5,90.0,Non-peak
+PGK01244,29/05/2026,Atyrau,Oral care,Road,2492.5,1961,1.3,41.7,9.8,51.5,5.68,0,0,98.4,Non-peak
+PGK01245,2026-09-24,ATYRAU,Baby care,Rail,1439.6,1624,27.7,37.5,24.6,62.2,7.52,1,2,94.2,Peak
+PGK01246,2026-10-27,Almaty,Baby care,Road,1123.6,708,15.9,7.1,8.5,15.7,3.54,0,0,99.9,Non-peak
+PGK01247,2026-09-19,Astana,Laundry,Road,1133.7,1856,13.6,39.2,16.3,55.5,4.54,1,4,92.7,Peak
+PGK01248,2026-05-22,Astana,Baby care,Road,466.2,991,6.2,12.3,"15,9",28.2,3.25,0,0,97.1,Non-peak
+PGK01249,2026-04-09,Almaty,Laundry,Road,848.9,1210,6.2,"14,3",24.9,39.2,3.66,0,0,98.4,Non-peak
+PGK01250,2026-10-25,Almaty,Hair care,rail,1379.8,245,19.6,4.6,4.7,9.3,"4,64",0,0,98.1,Non-peak
+PGK01251,2026-03-15,Atyrau,Baby care,Road,1221.7,464,"2,2",9.3,13.4,22.7,3.64,0,0,"99,2",Non-peak
+PGK01252,2026-05-06,Almaty,Laundry,Road,"1476,3",1068,7.2,13.9,7.8,"21,7",3.58,1,5,89.4,Non-peak
+PGK01253,2026-01-23,Astana,Hair care,Road,2160.4,579,21.5,5.3,8.8,14.1,4.28,0,0,97.9,Non-peak
+PGK01254,2026-08-30,Aktobe,Hair care,Road,756.8,1220,7.1,32.8,8.3,41.1,4.0,0,0,99.9,Peak
+PGK01255,17/07/2026,Almaty,Feminine care,Road,312.2,205,15.4,20.4,6.4,26.9,3.49,0,0,98.9,Peak
+PGK01256,2026-01-26,Astana,Feminine care,Rail,336.0,539,9.2,12.1,8.4,20.6,3.24,0,0,99.1,Non-peak
+PGK01257,2026-03-09,Atyrau,Laundry,Rail,551.9,1347,1.0,14.3,13.3,27.6,3.61,0,0,99.4,Non-peak
+PGK01258,2026-06-18,Astana,Oral care,Road,1533.6,1244,9.0,14.4,14.5,28.9,4.35,0,0,100.0,Peak
+PGK01259,2026-06-14,Almaty,Oral care,Rail,2068.4,1969,10.3,31.2,20.4,51.6,6.5,1,2,94.8,Peak
+PGK01260,2026-09-01,Almaty,HAIR CARE,Road,2245.3,1805,8.4,26.1,13.2,39.4,8.02,0,0,98.4,Peak
+PGK01261,2026-03-22,Atyrau,Baby care,Road,1679.0,1631,3.6,25.9,11.5,37.4,5.01,1,4,91.6,Non-peak
+PGK01262,2026-10-09,ALMATY,Oral care,Road,1157.1,51,8.5,1.0,5.4,6.4,2.47,0,0,100.0,Non-peak
+PGK01263,2026-05-16,Astana,Hair care,Rail,597.7,1225,1.4,14.5,9.2,23.6,3.68,0,0,99.0,Non-peak
+PGK01264,2026-09-08,Almaty,Laundry,Road,1153.2,496,7.1,22.6,6.6,29.2,3.05,0,0,98.7,Peak
+PGK01265,2026-03-14,Astana,Hair care,Rail,997.9,570,16.2,19.4,8.0,27.4,4.88,0,0,99.4,Non-peak
+PGK01266,12/01/2026,Atyrau,Hair care,Rail,2207.6,459,26.8,41.3,11.2,52.5,7.94,0,0,100.0,Non-peak
+PGK01267,2026-01-17,Astana,Hair care,Rail,1345.1,939,23.9,9.0,10.6,19.6,4.52,0,0,99.2,Non-peak
+PGK01268,2026-04-24,Atyrau,Hair care,Road,758.9,291,4.1,24.1,5.0,29.1,2.48,0,0,98.7,Non-peak
+PGK01269,2026-10-17,Almaty,Laundry,Road,899.8,1087,2.6,15.4,10.2,25.6,3.28,0,0,100.0,Non-peak
+PGK01270,2026-01-15,Astana,Feminine care,Rail,557.1,374,11.0,7.1,5.2,12.3,3.18,0,0,100.0,Non-peak
+PGK01271,2026-04-23,Aktobe,Laundry,Road,2316.8,1026,9.8,18.8,12.1,30.9,4.65,1,4,93.3,Non-peak
+PGK01272,2026-02-03,Astana,Oral care,Rail,363.3,1271,14.6,21.9,14.7,36.6,3.37,0,0,98.3,Non-peak
+PGK01273,2026-10-11,Almaty,Oral care,road,278.9,400,5.8,8.1,11.4,19.4,2.35,0,0,98.6,Non-peak
+PGK01274,2026-07-25,Aktobe,Oral care,Rail,661.7,250,10.0,11.3,7.6,18.9,2.87,0,0,97.3,Peak
+PGK01275,2026-08-20,Astana,Feminine care,Road,2074.5,1623,9.7,37.5,12.2,49.7,7.89,0,0,99.6,Peak
+PGK01276,2026-08-05,Astana,Laundry,Road,1427.8,1490,7.3,19.4,18.5,37.9,4.61,1,1,97.2,Peak
+PGK01277,19/07/2026,Atyrau,Hair care,Road,1658.1,560,2.0,17.3,"8,6",25.8,3.75,0,0,97.2,Peak
+PGK01278,2026-08-24,Almaty,Laundry,Rail,1054.9,1780,16.0,"24,1",14.9,38.9,5.95,0,0,100.0,Peak
+PGK01279,2026-01-03,ALMATY,BABY CARE,Road,404.5,481,11.1,21.3,8.7,30.0,"3,33",1,4,91.8,Non-peak
+PGK01280,2026-09-21,Almaty,Oral care,Road,2176.4,1857,"16,8",21.0,14.8,35.9,5.69,0,0,"98,6",Peak
+PGK01281,2026-08-13,Astana,Feminine care,Road,"681,8",271,19.6,16.2,11.9,"28,1",3.86,0,0,97.5,Peak
+PGK01282,2026-08-13,Almaty,Hair care,Road,324.4,1338,9.0,24.1,9.0,33.0,3.52,0,0,99.4,Peak
+PGK01283,2026-04-30,Shymkent,Hair care,Road,1538.6,87,16.1,10.2,7.8,18.0,3.59,0,0,99.7,Non-peak
+PGK01284,2026-09-01,Almaty,Feminine care,Rail,437.4,435,27.2,8.6,6.6,15.2,2.64,0,0,99.2,Peak
+PGK01285,2026-04-27,Shymkent,Oral care,Road,465.5,839,32.9,7.5,7.3,14.8,4.35,0,0,98.8,Non-peak
+PGK01286,2026-01-15,Almaty,Oral care,Rail,2050.8,216,12.1,13.9,7.0,21.0,5.95,1,5,93.2,Non-peak
+PGK01287,2026-10-03,Astana,Baby care,Road,1356.1,941,12.8,16.7,5.0,21.7,3.48,0,0,97.9,Non-peak
+PGK01288,13/03/2026,Astana,Baby care,Rail,793.4,502,11.9,1.9,6.8,8.7,2.63,0,0,98.6,Non-peak
+PGK01289,2026-01-31,Shymkent,Hair care,Rail,1034.4,243,14.2,29.2,5.2,34.3,4.2,0,0,99.6,Non-peak
+PGK01290,2026-07-09,Astana,Oral care,Road,1890.8,1926,19.0,18.8,14.7,33.5,5.24,1,5,89.4,Peak
+PGK01291,2026-03-13,Astana,Hair care,Road,399.3,1965,11.8,20.7,11.9,32.6,3.03,0,0,97.8,Non-peak
+PGK01292,2026-09-18,Aktobe,Feminine care,Road,512.1,1927,31.7,19.1,15.5,34.6,5.09,0,0,100.0,Peak
+PGK01293,2026-05-15,Astana,Laundry,Road,1636.6,350,28.8,10.5,5.0,15.5,4.93,1,3,94.7,Non-peak
+PGK01294,2026-01-02,Almaty,Baby care,Rail,1615.7,795,10.3,6.3,8.4,14.8,5.4,0,0,99.7,Non-peak
+PGK01295,2026-10-17,Aktobe,Hair care,Rail,2438.0,688,10.2,7.4,8.9,16.3,7.27,0,0,99.4,Non-peak
+PGK01296,2026-06-06,ASTANA,Oral care,road,1092.7,685,6.9,17.4,15.5,32.9,3.82,0,0,98.2,Peak
+PGK01297,2026-03-21,Almaty,Oral care,Road,396.4,862,14.8,20.8,15.8,36.6,4.97,1,2,95.2,Non-peak
+PGK01298,2026-07-25,Astana,FEMININE CARE,Road,1459.5,1045,7.8,19.7,7.9,27.6,3.53,0,0,98.9,Peak
+PGK01299,11/06/2026,Almaty,Oral care,Road,1686.3,996,6.6,19.8,17.3,37.1,5.41,0,0,99.7,Peak
+PGK01300,2026-01-10,Almaty,Hair care,Road,564.1,619,14.5,7.8,5.0,12.8,1.86,0,0,99.7,Non-peak
+PGK01301,2026-08-19,Shymkent,Hair care,Rail,1493.9,1961,3.9,25.0,15.1,40.2,4.66,1,5,89.3,Peak
+PGK01302,2026-05-03,Almaty,Feminine care,Road,695.0,1961,19.2,23.2,9.2,32.4,3.16,1,3,94.6,Non-peak
+PGK01303,2026-08-01,Aktobe,Baby care,Road,2150.6,696,15.0,25.4,5.5,31.0,5.07,0,0,97.3,Peak
+PGK01304,2026-09-30,Atyrau,Laundry,Road,2129.1,481,27.9,13.3,23.8,37.1,5.22,1,1,96.8,Peak
+PGK01305,2026-07-05,Shymkent,Feminine care,Rail,1216.7,1089,12.2,18.2,11.8,30.0,4.66,0,0,97.8,Peak
+PGK01306,2026-07-24,Shymkent,Oral care,Road,,770,16.6,7.4,"9,6",17.1,4.71,0,0,98.3,Peak
+PGK01307,2026-03-19,Shymkent,Laundry,Road,2454.5,1975,18.1,"39,8",14.6,54.4,9.07,1,2,97.0,Non-peak
+PGK01308,2026-03-14,Atyrau,Oral care,Rail,540.8,887,22.7,34.4,8.2,42.6,"3,86",0,0,97.3,Non-peak
+PGK01309,2026-05-07,Astana,Oral care,Road,1077.4,127,"11,3",9.5,10.0,19.5,3.36,0,0,"98,3",Non-peak
+PGK01310,17/09/2026,Almaty,Oral care,Rail,"1600,7",293,6.8,13.4,9.6,"23,0",5.37,0,0,99.6,Peak
+PGK01311,2026-06-09,Astana,Feminine care,Road,440.9,195,12.4,31.0,11.3,42.3,5.04,0,0,98.3,Peak
+PGK01312,2026-04-16,Astana,Baby care,Road,1111.0,796,19.2,6.6,6.1,12.7,3.96,0,0,99.4,Non-peak
+PGK01313,2026-08-26,ALMATY,Baby care,Road,837.6,667,20.9,11.4,6.2,17.6,4.42,0,0,100.0,Peak
+PGK01314,2026-09-17,Shymkent,Oral care,Rail,2392.1,1721,2.1,40.2,19.1,59.4,7.91,0,0,99.1,Peak
+PGK01315,2026-10-02,Almaty,Laundry,Rail,1176.1,1787,51.1,17.3,14.0,31.3,5.94,0,0,98.5,Non-peak
+PGK01316,2026-04-01,Atyrau,Laundry,Rail,1966.0,323,6.6,4.4,3.3,7.7,4.35,0,0,99.2,Non-peak
+PGK01317,2026-08-04,Almaty,FEMININE CARE,Road,1120.1,1892,16.8,26.9,11.6,38.5,5.04,0,0,99.3,Peak
+PGK01318,2026-06-29,Almaty,Hair care,Rail,546.6,1189,24.4,14.9,12.6,27.5,3.65,1,6,89.4,Peak
+PGK01319,2026-05-17,Almaty,Baby care,road,2192.1,648,9.6,24.3,10.6,35.0,4.43,1,7,87.0,Non-peak
+PGK01320,2026-05-01,Almaty,Hair care,Rail,250.9,843,21.5,16.4,5.9,22.3,2.82,0,0,99.5,Non-peak
+PGK01321,04/02/2026,Almaty,Hair care,Rail,375.9,911,2.0,11.0,17.8,28.8,2.7,0,0,99.3,Non-peak
+PGK01322,2026-03-25,Almaty,Baby care,Road,,382,22.0,9.5,10.3,19.8,5.04,0,0,99.1,Non-peak
+PGK01323,2026-06-17,Almaty,Feminine care,Road,1795.5,1742,20.3,27.8,19.7,47.5,5.47,0,0,98.0,Peak
+PGK01324,2026-09-27,Almaty,Baby care,Road,1018.8,74,13.6,11.4,8.1,19.5,3.28,0,0,99.9,Peak
+PGK01325,2026-09-21,Astana,Laundry,Road,399.2,186,19.3,9.3,8.2,17.4,2.73,0,0,99.5,Peak
+PGK01326,2026-02-27,Astana,Hair care,Road,965.1,583,29.4,15.9,4.2,20.1,4.78,0,0,97.1,Non-peak
+PGK01327,2026-07-26,Almaty,Laundry,Road,801.2,330,24.9,28.8,6.3,35.1,3.77,0,0,98.0,Peak
+PGK01328,2026-01-26,Almaty,Feminine care,Road,262.2,170,10.0,12.4,5.6,18.1,2.52,0,0,98.7,Non-peak
+PGK01329,2026-07-25,Almaty,Hair care,Rail,1453.3,797,12.4,16.3,12.2,28.5,4.83,0,0,98.8,Peak
+PGK01330,2026-04-14,ALMATY,Hair care,Road,512.5,785,8.8,9.9,9.3,19.2,3.78,0,0,100.0,Non-peak
+PGK01331,2026-05-17,Almaty,Laundry,Road,896.9,294,7.9,19.9,2.1,22.0,4.67,0,0,100.0,Non-peak
+PGK01332,07/08/2026,Shymkent,Baby care,Rail,1692.7,1630,18.0,26.2,11.0,37.1,6.26,1,1,94.7,Peak
+PGK01333,2026-05-10,Atyrau,Feminine care,Road,1881.5,1771,8.7,19.9,13.5,33.4,4.91,0,0,99.2,Non-peak
+PGK01334,2026-09-03,Atyrau,Baby care,Road,842.8,1454,18.0,24.2,14.9,39.1,3.94,1,5,90.4,Peak
+PGK01335,2026-06-12,Astana,Oral care,Road,990.7,1068,9.6,15.7,"10,2",25.9,2.69,0,0,98.9,Peak
+PGK01336,2026-10-31,Astana,LAUNDRY,Rail,805.5,1898,10.7,"15,7",15.9,31.6,3.99,0,0,99.5,Non-peak
+PGK01337,2026-07-14,Almaty,Laundry,Road,2403.0,733,5.2,17.0,13.1,30.1,"4,93",0,0,99.1,Peak
+PGK01338,2026-04-01,Shymkent,Oral care,Road,678.7,883,"17,6",5.7,22.6,28.3,3.22,0,0,"98,6",Non-peak
+PGK01339,2026-08-24,Shymkent,Laundry,Rail,"662,2",79,1.9,23.8,7.8,"31,6",3.2,0,0,99.0,Peak
+PGK01340,2026-05-05,Aktobe,Baby care,Road,1251.3,1430,22.6,9.8,9.6,19.3,4.25,0,0,99.7,Non-peak
+PGK01341,2026-06-12,Aktobe,Hair care,Rail,675.9,230,39.7,9.8,5.5,15.3,4.53,0,0,99.7,Peak
+PGK01342,2026-02-11,Astana,Laundry,rail,602.6,1348,10.9,9.2,7.0,16.2,2.84,1,5,90.9,Non-peak
+PGK01343,06/02/2026,Shymkent,Baby care,Road,465.7,1576,10.6,20.6,14.3,34.9,4.6,0,0,98.3,Non-peak
+PGK01344,2026-06-24,Aktobe,Feminine care,Road,1690.4,473,2.6,21.0,11.3,32.3,3.46,0,0,100.0,Peak
+PGK01345,2026-02-26,Almaty,Laundry,Road,1627.2,1244,7.0,17.0,6.8,23.8,3.53,0,0,99.4,Non-peak
+PGK01346,2026-10-31,Atyrau,Feminine care,Rail,1712.9,642,19.4,8.7,10.6,19.3,6.22,0,0,,Non-peak
+PGK01347,2026-09-18,ALMATY,Baby care,Road,1989.9,827,21.3,16.3,11.3,27.6,4.42,0,0,98.5,Peak
+PGK01348,2026-08-02,Atyrau,Oral care,Rail,984.3,1083,12.0,30.8,10.6,41.4,4.09,0,0,98.9,Peak
+PGK01349,2026-08-12,Shymkent,Laundry,Road,2316.5,536,18.6,9.4,5.0,14.3,4.41,0,0,99.4,Peak
+PGK01350,2026-06-30,Almaty,Feminine care,Rail,1899.7,1604,5.3,20.3,15.7,36.0,5.92,0,0,96.9,Peak
+PGK01351,2026-01-19,Shymkent,Laundry,Rail,2060.6,819,14.0,6.8,18.7,25.6,5.91,1,1,96.6,Non-peak
+PGK01352,2026-04-30,Almaty,Feminine care,Road,1872.2,950,26.4,11.4,6.7,18.0,4.88,0,0,98.4,Non-peak
+PGK01353,2026-05-31,Shymkent,Oral care,Rail,1056.5,1639,15.9,28.2,12.6,40.8,4.37,0,0,98.2,Non-peak
+PGK01354,06/10/2026,Aktobe,Hair care,Road,886.8,494,29.1,10.9,9.7,20.6,3.42,0,0,98.1,Non-peak
+PGK01355,2026-03-08,Shymkent,LAUNDRY,Rail,1200.7,932,29.6,11.3,4.2,15.5,5.36,0,0,99.3,Non-peak
+PGK01356,2026-06-01,Aktobe,Oral care,Road,468.3,1988,14.6,26.1,12.4,38.5,3.81,0,0,100.0,Peak
+PGK01357,2026-04-15,Almaty,Laundry,Road,1265.4,829,1.0,11.8,4.7,16.5,2.58,0,0,99.3,Non-peak
+PGK01358,2026-02-10,Almaty,Oral care,Road,347.1,275,21.0,18.7,16.5,35.2,3.56,0,0,97.7,Non-peak
+PGK01359,2026-02-01,Astana,Oral care,Rail,258.9,604,3.6,16.3,2.8,19.2,2.1,0,0,98.1,Non-peak
+PGK01360,2026-04-22,Almaty,Hair care,Road,,1914,1.0,18.1,11.9,30.0,4.69,0,0,98.6,Non-peak
+PGK01361,2026-01-26,Astana,Hair care,Road,1801.0,1531,1.6,18.1,12.6,30.7,4.35,0,0,97.5,Non-peak
+PGK01362,2026-01-21,Almaty,Hair care,Rail,1514.2,1628,22.0,23.2,9.3,32.6,7.57,0,0,99.2,Non-peak
+PGK01363,2026-04-17,Astana,Hair care,Rail,1017.5,544,14.7,9.3,2.7,12.0,5.53,0,0,100.0,Non-peak
+PGK01364,2026-03-03,ASTANA,Laundry,Road,1533.7,1686,12.2,18.7,"11,2",29.8,3.61,1,2,95.0,Non-peak
+PGK01365,18/06/2026,Aktobe,Hair care,rail,2256.0,817,15.7,"29,8",8.1,37.8,6.96,1,5,90.4,Peak
+PGK01366,2026-01-06,Almaty,Oral care,Road,1717.9,1600,1.7,15.7,13.4,29.1,"3,46",0,0,98.5,Non-peak
+PGK01367,2026-04-02,Aktobe,Hair care,Road,1605.6,1768,"8,8",16.2,15.9,32.1,4.55,1,3,"93,2",Non-peak
+PGK01368,2026-05-18,Astana,Oral care,Rail,"1285,5",456,6.1,11.8,3.7,"15,5",3.87,0,0,99.4,Non-peak
+PGK01369,2026-10-20,Almaty,Feminine care,Road,1027.8,1881,11.5,20.5,10.6,31.0,4.62,1,1,96.6,Non-peak
+PGK01370,2026-07-12,Astana,Oral care,Road,1821.7,1284,11.8,20.8,10.3,31.1,4.61,1,1,96.4,Peak
+PGK01371,2026-09-25,Astana,Baby care,Rail,2457.2,1475,15.2,25.6,16.7,42.3,9.17,0,0,97.1,Peak
+PGK01372,2026-04-15,Almaty,Hair care,Road,1205.7,1526,16.8,13.1,11.6,24.7,5.74,0,0,99.1,Non-peak
+PGK01373,2026-05-17,Astana,Feminine care,Rail,1132.5,378,1.8,9.3,3.4,12.8,4.88,0,0,100.0,Non-peak
+PGK01374,2026-05-08,Almaty,HAIR CARE,Road,1213.3,1504,8.9,21.0,16.8,37.8,3.37,1,6,89.3,Non-peak
+PGK01375,2026-09-27,Astana,Baby care,Road,1207.5,465,10.4,25.3,6.7,32.0,4.08,1,7,88.5,Peak
+PGK01376,19/10/2026,Astana,Baby care,Rail,2478.9,579,3.5,18.6,5.8,24.4,6.25,1,4,91.6,Non-peak
+PGK01377,2026-10-20,Astana,Oral care,Road,1840.3,277,3.1,20.1,3.4,23.6,3.83,0,0,99.9,Non-peak
+PGK01378,2026-08-17,Aktobe,Baby care,Rail,1058.2,403,1.6,18.9,9.5,28.4,4.65,1,7,86.0,Peak
+PGK01379,2026-06-02,Almaty,Oral care,Road,1085.9,1959,2.7,29.6,13.8,43.4,3.73,0,0,99.4,Peak
+PGK01380,2026-06-14,Atyrau,Feminine care,Rail,1219.3,690,18.6,14.3,17.7,31.9,5.12,1,1,98.9,Peak
+PGK01381,2026-10-26,SHYMKENT,Hair care,Road,332.6,805,2.2,6.6,8.8,15.4,1.92,0,0,99.7,Non-peak
+PGK01382,2026-03-28,Atyrau,Feminine care,Road,1437.6,986,2.6,13.7,6.4,20.1,2.66,0,0,100.0,Non-peak
+PGK01383,2026-04-16,Aktobe,Laundry,Road,2075.6,1440,11.2,15.7,10.9,26.6,4.44,0,0,98.4,Non-peak
+PGK01384,2026-09-30,Almaty,Feminine care,Road,1736.3,1169,13.9,14.3,20.8,35.1,5.8,1,7,86.8,Peak
+PGK01385,2026-04-28,Astana,Laundry,Road,696.4,1096,10.2,10.9,6.1,17.0,1.97,1,6,88.1,Non-peak
+PGK01386,2026-03-13,Almaty,Feminine care,Road,1888.1,1682,4.1,17.8,14.0,31.8,4.84,0,0,99.0,Non-peak
+PGK01387,20/06/2026,Aktobe,Hair care,Road,1868.8,1017,3.2,39.6,6.9,46.5,4.51,0,0,98.9,Peak
+PGK01388,2026-04-09,Astana,Feminine care,road,840.7,1550,10.9,17.3,18.5,35.8,3.42,0,0,98.9,Non-peak
+PGK01389,2026-09-28,Almaty,Laundry,Road,1651.5,1827,9.4,21.4,12.9,34.3,5.08,0,0,98.4,Peak
+PGK01390,2026-10-04,Atyrau,Baby care,Road,1624.6,1369,7.6,23.5,7.9,31.4,3.71,0,0,98.4,Non-peak
+PGK01391,2026-04-04,Almaty,Feminine care,Rail,2139.5,118,18.0,12.8,14.0,26.8,6.36,0,0,99.4,Non-peak
+PGK01392,2026-06-10,Astana,Laundry,Road,556.2,564,8.9,18.1,9.1,27.2,3.18,0,0,98.9,Peak
+PGK01393,2026-10-27,Shymkent,HAIR CARE,Road,688.4,1255,2.9,8.2,"10,1",18.3,2.0,0,0,98.0,Non-peak
+PGK01394,2026-08-14,Almaty,Laundry,Rail,1343.4,984,7.7,"17,7",9.5,27.2,4.07,0,0,97.1,Peak
+PGK01395,2026-03-07,Shymkent,Hair care,Rail,349.3,605,15.1,29.8,6.2,35.9,"3,49",0,0,98.3,Non-peak
+PGK01396,2026-06-29,Aktobe,Hair care,Road,1185.1,704,"8,5",15.0,5.6,20.6,2.66,0,0,"97,7",Peak
+PGK01397,2026-07-08,Almaty,Oral care,Road,"2023,5",202,14.9,10.7,10.0,"20,7",4.31,0,0,98.3,Peak
+PGK01398,18/07/2026,ASTANA,Hair care,Rail,584.6,508,17.0,31.6,5.4,37.1,3.62,0,0,98.4,Peak
+PGK01399,2026-01-08,Almaty,Laundry,Rail,1284.9,1577,8.9,17.1,16.1,33.1,5.0,0,0,98.8,Non-peak
+PGK01400,2026-04-02,Shymkent,Laundry,Road,2477.0,69,10.1,2.4,2.3,4.7,4.37,0,0,98.7,Non-peak
+PGK01401,2026-09-17,Almaty,Feminine care,Road,1388.3,1682,8.1,17.7,14.1,31.8,3.62,1,1,99.4,Peak
+PGK01402,2026-03-15,Atyrau,Feminine care,Road,1371.2,712,15.1,11.4,6.0,17.3,5.13,0,0,97.9,Non-peak
+PGK01403,2026-04-02,Aktobe,Hair care,Road,1507.3,1626,7.9,20.3,10.1,30.4,5.02,0,0,100.0,Non-peak
+PGK01404,2026-04-09,Almaty,Laundry,Road,668.5,549,14.1,10.0,6.4,16.3,2.29,0,0,99.0,Non-peak
+PGK01405,2026-02-23,Almaty,Laundry,Road,581.1,1666,12.0,13.5,13.1,26.6,6.0,0,0,98.4,Non-peak
+PGK01406,2026-02-17,Astana,Feminine care,Rail,1774.0,1165,1.6,13.8,18.0,31.8,5.97,0,0,99.5,Non-peak
+PGK01407,2026-04-16,Shymkent,Oral care,Road,1140.5,1711,14.6,14.5,10.4,24.9,3.92,1,1,96.9,Non-peak
+PGK01408,2026-09-23,Astana,Oral care,Rail,902.3,171,11.2,33.1,3.3,36.4,4.66,0,0,98.0,Peak
+PGK01409,01/01/2026,Almaty,Hair care,Rail,320.6,1605,23.2,11.4,17.8,29.3,2.95,0,0,100.0,Non-peak
+PGK01410,2026-03-28,Almaty,Oral care,Road,2153.6,577,3.6,10.6,10.3,21.0,5.41,0,0,96.9,Non-peak
+PGK01411,2026-01-19,Atyrau,Laundry,road,322.7,750,12.1,11.2,5.0,16.1,1.6,0,0,99.0,Non-peak
+PGK01412,2026-06-20,Astana,ORAL CARE,Rail,1937.5,137,7.0,14.5,4.2,18.7,5.65,0,0,99.4,Peak
+PGK01413,2026-03-18,Aktobe,Baby care,Road,1109.5,1911,1.8,13.5,14.3,27.8,4.21,0,0,100.0,Non-peak
+PGK01414,2026-08-29,Astana,Hair care,Road,1597.0,1301,1.3,35.2,13.0,48.2,4.18,0,0,98.2,Peak
+PGK01415,2026-06-27,ATYRAU,Oral care,Rail,807.3,1963,26.3,46.2,25.4,71.6,6.95,1,5,92.4,Peak
+PGK01416,2026-08-27,Almaty,Oral care,Rail,599.6,1158,12.1,24.4,13.9,38.3,3.99,0,0,99.6,Peak
+PGK01417,2026-07-13,Almaty,Baby care,Rail,1450.1,358,8.7,14.3,6.4,20.7,5.35,0,0,96.8,Peak
+PGK01418,2026-05-14,Atyrau,Laundry,Road,1815.1,708,2.4,4.2,5.3,9.4,4.23,0,0,97.9,Non-peak
+PGK01419,2026-09-19,Atyrau,Laundry,Road,689.9,908,25.3,31.8,10.9,42.7,5.98,1,1,97.3,Peak
+PGK01420,25/05/2026,Almaty,Feminine care,Road,1231.8,337,5.6,5.0,2.1,7.1,3.92,0,0,98.2,Non-peak
+PGK01421,2026-10-16,Astana,Hair care,Rail,1250.5,1867,12.5,11.3,8.6,20.0,3.73,0,0,99.7,Non-peak
+PGK01422,2026-10-30,Astana,Hair care,Road,736.0,1918,10.9,22.8,"9,4",32.2,2.9,0,0,98.5,Non-peak
+PGK01423,2026-06-29,Astana,Oral care,Road,1521.4,1149,33.2,"30,4",9.5,39.9,5.9,1,2,94.2,Peak
+PGK01424,2026-07-25,Almaty,Hair care,Road,578.4,1190,10.0,30.8,11.6,42.4,"4,51",1,1,96.1,Peak
+PGK01425,2026-03-19,Aktobe,Hair care,Rail,1396.9,1422,"6,7",14.1,13.3,27.4,4.21,1,4,"93,1",Non-peak
+PGK01426,2026-09-05,Almaty,Oral care,Road,"505,2",1374,12.3,17.7,19.4,"37,0",3.92,1,4,90.0,Peak
+PGK01427,2026-07-24,Shymkent,Baby care,Road,1342.5,172,13.2,17.2,13.1,30.3,5.44,0,0,100.0,Peak
+PGK01428,2026-10-02,Almaty,Oral care,Rail,951.1,1086,48.3,15.2,13.6,28.8,6.58,0,0,100.0,Non-peak
+PGK01429,2026-03-23,Almaty,Laundry,Rail,1267.6,1566,9.8,18.1,9.8,27.9,5.18,1,7,86.8,Non-peak
+PGK01430,2026-08-28,Shymkent,Baby care,Rail,1225.9,1623,3.5,26.4,11.0,37.4,4.64,0,0,97.4,Peak
+PGK01431,23/05/2026,Almaty,BABY CARE,Rail,2292.8,1212,7.6,9.9,11.4,21.3,6.09,0,0,99.7,Non-peak
+PGK01432,2026-02-26,SHYMKENT,Oral care,Road,1352.4,1798,12.2,32.3,14.1,46.3,7.29,1,5,89.7,Non-peak
+PGK01433,2026-02-22,Almaty,Laundry,Rail,2091.6,1193,13.9,17.7,6.7,24.4,5.89,0,0,97.5,Non-peak
+PGK01434,2026-06-20,Atyrau,Laundry,rail,-99,796,2.2,27.3,9.3,36.7,3.27,0,0,100.0,Peak
+PGK01435,2026-04-08,Shymkent,Oral care,Road,1042.2,913,6.9,14.5,6.0,20.5,2.48,0,0,98.2,Non-peak
+PGK01436,2026-01-31,Aktobe,Oral care,Rail,419.0,1396,31.9,20.8,6.7,27.5,4.45,0,0,97.5,Non-peak
+PGK01437,2026-05-10,Almaty,Feminine care,Rail,1196.7,1779,4.7,24.4,13.3,37.7,5.04,0,0,99.1,Non-peak
+PGK01438,2026-07-18,Almaty,Hair care,Road,1754.6,498,18.3,16.8,13.2,30.0,4.77,1,1,97.2,Peak
+PGK01439,2026-04-07,Astana,Feminine care,Rail,2135.9,622,7.8,4.0,17.1,21.1,6.21,0,0,100.0,Non-peak
+PGK01440,2026-10-18,Astana,Hair care,Rail,1523.3,1321,10.3,19.5,9.7,29.2,5.91,0,0,98.6,Non-peak
+PGK01441,2026-08-25,Almaty,Oral care,Rail,1690.2,1539,2.5,28.5,9.0,37.6,5.38,1,2,95.1,Peak
+PGK01442,05/06/2026,Almaty,Laundry,Rail,648.9,828,8.4,25.5,21.6,47.1,4.64,0,0,99.0,Peak
+PGK01443,2026-10-12,Astana,Feminine care,Road,333.7,1304,12.1,7.8,22.5,30.4,2.69,1,5,90.7,Non-peak
+PGK01444,2026-05-12,Almaty,Hair care,Rail,2031.3,63,9.9,9.6,28.1,37.7,6.9,1,1,97.4,Non-peak
+PGK01445,2026-02-12,Astana,Feminine care,Rail,625.8,619,8.8,8.1,23.3,31.4,4.92,0,0,99.2,Non-peak
+PGK01446,2026-01-11,Almaty,Hair care,Road,455.1,1914,15.2,23.0,13.6,36.6,4.25,0,0,99.0,Non-peak
+PGK01447,2026-10-13,Almaty,Oral care,Road,2359.5,1174,3.2,25.7,9.7,35.4,7.0,0,0,98.4,Non-peak
+PGK01448,2026-10-19,Shymkent,Baby care,Rail,2417.9,1744,12.5,13.9,15.5,29.4,6.65,0,0,99.8,Non-peak
+PGK01449,2026-08-13,ASTANA,Laundry,Rail,1636.6,474,1.1,9.0,5.2,14.3,4.0,0,0,98.9,Peak
+PGK01450,2026-02-01,Astana,LAUNDRY,Road,1101.9,617,21.8,7.7,5.2,13.0,3.77,0,0,100.0,Non-peak
+PGK01451,2026-03-31,Astana,Oral care,Road,2124.8,1952,9.1,22.4,"12,3",34.7,4.72,1,1,98.6,Non-peak
+PGK01452,2026-01-13,Shymkent,Laundry,Road,710.6,1996,17.5,"13,6",18.6,32.3,4.1,0,0,98.2,Non-peak
+PGK01453,16/01/2026,Astana,Hair care,Rail,1216.1,1760,1.0,23.8,18.0,41.8,"4,9",0,0,100.0,Non-peak
+PGK01454,2026-03-16,Astana,Baby care,Rail,1053.3,668,"15,8",23.6,7.3,30.9,4.15,0,0,"98,2",Non-peak
+PGK01455,2026-06-23,Atyrau,Hair care,Road,"2303,6",1613,5.4,24.0,9.9,"33,9",5.38,0,0,98.2,Peak
+PGK01456,2026-01-20,Astana,Laundry,Road,2319.5,945,10.3,8.6,12.8,21.5,4.28,0,0,99.7,Non-peak
+PGK01457,2026-10-27,Aktobe,Oral care,road,1714.5,1696,16.0,19.1,8.2,27.3,5.99,0,0,99.5,Non-peak
+PGK01458,2026-05-19,Aktobe,Oral care,Rail,499.2,1710,9.6,21.2,10.0,31.2,3.22,0,0,99.0,Non-peak
+PGK01459,2026-03-22,Almaty,Oral care,Road,1334.9,898,14.7,12.8,9.5,22.3,3.42,0,0,99.9,Non-peak
+PGK01460,2026-06-06,Astana,Feminine care,Rail,802.0,644,7.9,15.3,5.8,21.1,3.59,0,0,99.4,Peak
+PGK01461,2026-08-29,Shymkent,Laundry,Road,2241.1,1951,22.9,32.5,12.4,44.9,6.4,1,7,88.9,Peak
+PGK01462,2026-04-06,Atyrau,Baby care,Road,561.4,929,9.1,10.5,13.8,24.2,2.45,1,4,92.2,Non-peak
+PGK01463,2026-01-15,Astana,Hair care,Road,372.2,892,9.2,31.4,12.1,43.5,3.02,1,5,89.4,Non-peak
+PGK01464,16/01/2026,Almaty,Feminine care,Rail,1835.0,1348,9.3,19.8,7.1,26.9,4.98,1,4,91.7,Non-peak
+PGK01465,2026-09-17,Astana,Baby care,Road,1269.9,1877,10.1,26.1,15.9,42.1,5.14,1,2,95.8,Peak
+PGK01466,2026-02-03,ALMATY,Laundry,Road,2136.3,304,3.3,5.6,2.1,7.7,5.08,1,5,91.3,Non-peak
+PGK01467,2026-07-13,Shymkent,Oral care,Road,417.9,1970,4.6,22.1,17.8,39.8,4.03,0,0,99.0,Peak
+PGK01468,2026-04-27,Astana,Laundry,Rail,2052.4,874,19.2,15.9,6.3,22.2,5.84,0,0,98.3,Non-peak
+PGK01469,2026-08-25,Shymkent,HAIR CARE,Road,334.0,99,17.5,18.5,6.6,25.2,3.22,0,0,100.0,Peak
+PGK01470,2026-01-19,Aktobe,Oral care,Rail,313.2,653,16.7,13.3,8.0,21.3,3.07,0,0,100.0,Non-peak
+PGK01471,2026-09-30,Shymkent,Baby care,Rail,1288.0,952,13.8,9.8,7.6,17.4,3.8,0,0,99.2,Peak
+PGK01472,2026-08-01,Shymkent,Oral care,Rail,747.9,1370,6.8,20.9,10.1,31.0,3.37,0,0,100.0,Peak
+PGK01473,2026-05-17,Shymkent,Baby care,Rail,1585.9,1154,6.2,12.5,19.6,32.1,5.52,0,0,99.8,Non-peak
+PGK01474,2026-03-04,Aktobe,Feminine care,Rail,308.1,315,9.8,2.4,5.3,7.7,1.34,0,0,100.0,Non-peak
+PGK01475,25/10/2026,Aktobe,Baby care,Road,329.6,1002,21.2,22.3,9.6,31.9,2.81,0,0,99.4,Non-peak
+PGK01476,2026-04-02,Almaty,Laundry,Rail,1886.1,504,11.6,8.1,7.7,15.8,5.99,0,0,99.4,Non-peak
+PGK01477,2026-05-30,Astana,Laundry,Rail,722.9,575,4.4,7.9,14.4,22.3,2.76,0,0,99.9,Non-peak
+PGK01478,2026-04-30,Almaty,Oral care,Rail,1726.9,1437,2.7,15.8,14.6,30.5,4.7,0,0,98.5,Non-peak
+PGK01479,2026-03-12,Aktobe,Laundry,Rail,1937.3,1617,17.8,27.5,8.3,35.8,7.44,0,0,99.3,Non-peak
+PGK01480,2026-05-07,Shymkent,Hair care,road,383.5,354,25.7,3.4,"14,6",17.9,2.57,0,0,100.0,Non-peak
+PGK01481,2026-02-16,Astana,Laundry,Road,1981.9,1225,2.1,"20,6",21.4,42.0,5.49,0,0,99.6,Non-peak
+PGK01482,2026-01-01,Almaty,Hair care,Rail,853.9,873,18.2,22.4,5.4,27.7,"6,12",0,0,99.0,Non-peak
+PGK01483,2026-03-30,ALMATY,Baby care,Road,1126.5,706,"13,6",25.7,6.6,32.3,3.42,0,0,"99,1",Non-peak
+PGK01484,2026-02-04,Shymkent,Laundry,Road,"444,9",1440,5.3,20.6,10.3,"31,0",2.65,0,0,99.7,Non-peak
+PGK01485,2026-05-07,Almaty,Baby care,Road,2136.9,535,11.8,7.7,6.1,13.8,4.44,1,3,94.9,Non-peak
+PGK01486,20/09/2026,Almaty,Feminine care,Rail,1511.6,1543,3.8,26.3,16.1,42.4,6.32,1,4,92.7,Peak
+PGK01487,2026-02-19,Aktobe,Laundry,Rail,1385.5,831,8.5,23.6,7.6,31.2,4.63,0,0,99.3,Non-peak
+PGK01488,2026-01-01,Shymkent,LAUNDRY,Road,2429.2,235,10.2,3.0,4.2,7.2,3.54,0,0,,Non-peak
+PGK01489,2026-02-03,Almaty,Hair care,Road,1002.6,1595,22.8,9.9,14.6,24.5,3.33,0,0,98.4,Non-peak
+PGK01490,2026-06-04,Almaty,Feminine care,Road,2254.3,1712,8.2,22.6,9.5,32.1,4.78,0,0,99.4,Peak
+PGK01491,2026-03-25,Atyrau,Baby care,Road,1869.3,1148,5.8,20.1,10.5,30.7,5.04,0,0,99.8,Non-peak
+PGK01492,2026-05-29,Shymkent,Oral care,Rail,2339.2,1462,12.9,19.0,13.1,32.1,6.82,0,0,99.6,Non-peak
+PGK01493,2026-01-09,Shymkent,Laundry,Road,2292.6,337,15.0,11.3,13.9,25.2,5.62,0,0,98.4,Non-peak
+PGK01494,2026-04-12,Almaty,Oral care,Road,2479.8,711,5.6,26.1,8.2,34.3,5.01,0,0,98.7,Non-peak
+PGK01495,2026-05-05,Almaty,Laundry,Road,546.3,732,4.2,12.1,3.9,15.9,2.31,0,0,98.0,Non-peak
+PGK01496,2026-05-12,Almaty,Oral care,Road,2041.0,1540,4.5,11.7,11.7,23.4,4.98,0,0,97.7,Non-peak
+PGK01497,17/06/2026,Shymkent,Laundry,Road,2060.1,736,22.8,14.1,5.8,19.9,5.94,0,0,99.2,Peak
+PGK01498,2026-08-26,Almaty,Feminine care,Road,1699.8,1470,14.5,22.6,14.6,37.2,7.2,0,0,100.0,Peak
+PGK01499,2026-05-23,Almaty,Hair care,Road,877.4,648,7.8,13.0,13.7,26.7,3.4,0,0,99.1,Non-peak
+PGK01500,2026-09-13,SHYMKENT,Laundry,Road,2421.6,1222,20.4,27.7,11.7,39.4,5.34,0,0,100.0,Peak
+PGK01501,2026-06-11,Atyrau,Hair care,Road,709.9,459,5.6,14.5,8.1,22.6,3.09,0,0,98.9,Peak
+PGK01502,2026-03-21,Shymkent,Laundry,Road,1374.0,1139,9.5,15.4,13.3,28.7,3.23,0,0,99.0,Non-peak
+PGK01503,2026-03-11,Astana,Laundry,rail,1423.3,207,3.7,15.3,7.4,22.7,4.93,0,0,98.1,Non-peak
+PGK01504,2026-04-09,Astana,Baby care,Road,614.1,1483,19.8,27.6,14.2,41.9,4.09,0,0,98.4,Non-peak
+PGK01505,2026-07-01,Astana,Hair care,Rail,1875.7,106,5.2,6.1,23.0,29.1,6.6,0,0,97.8,Peak
+PGK01506,2026-03-15,Almaty,Hair care,Rail,450.0,1999,5.3,17.1,11.4,28.6,2.72,0,0,97.4,Non-peak
+PGK01507,2026-10-05,Astana,FEMININE CARE,Rail,1809.5,1686,13.1,20.7,13.8,34.5,6.17,1,2,94.3,Non-peak
+PGK01508,26/05/2026,Astana,Laundry,Road,2159.4,1178,1.0,7.5,18.0,25.6,4.71,0,0,99.1,Non-peak
+PGK01509,2026-09-20,Shymkent,Hair care,Rail,1036.1,1824,3.0,26.0,"22,7",48.8,4.08,1,3,92.8,Peak
+PGK01510,2026-07-27,Aktobe,Laundry,Rail,1846.2,1627,16.4,"22,3",16.0,38.4,6.76,0,0,98.3,Peak
+PGK01511,2026-04-12,Atyrau,Baby care,Road,602.7,328,4.5,8.6,5.4,14.1,"1,8",0,0,99.7,Non-peak
+PGK01512,2026-03-11,Almaty,Hair care,Rail,2153.4,1502,"40,1",14.2,14.2,28.4,7.8,1,1,"95,7",Non-peak
+PGK01513,2026-08-15,Astana,Laundry,Road,"2392,1",786,11.3,27.3,13.5,"40,7",6.18,0,0,98.8,Peak
+PGK01514,2026-04-11,Almaty,Laundry,Road,593.6,1719,1.9,14.9,16.2,31.1,3.23,1,6,89.6,Non-peak
+PGK01515,2026-03-17,Astana,Feminine care,Road,1806.7,1735,26.6,27.3,8.9,36.2,6.34,1,2,96.4,Non-peak
+PGK01516,2026-10-10,Almaty,Laundry,Rail,1388.1,1912,11.3,13.5,23.9,37.3,4.67,0,0,99.3,Non-peak
+PGK01517,2026-05-27,ALMATY,Oral care,Rail,1445.9,929,8.7,7.2,17.1,24.3,7.06,1,1,97.3,Non-peak
+PGK01518,2026-01-15,Shymkent,Feminine care,Road,1839.6,426,11.3,11.3,6.6,17.9,3.5,0,0,98.6,Non-peak
+PGK01519,31/05/2026,Astana,Baby care,Road,1349.7,294,1.9,8.0,13.6,21.6,3.38,0,0,99.0,Non-peak
+PGK01520,2026-05-21,Atyrau,Hair care,Rail,1600.7,372,9.7,12.5,6.1,18.6,4.65,0,0,100.0,Non-peak
+PGK01521,2026-09-20,Almaty,Oral care,Road,769.5,1985,4.8,18.3,24.4,42.8,3.51,0,0,99.0,Peak
+PGK01522,2026-08-05,Almaty,Feminine care,Road,1101.6,1193,9.3,16.8,12.3,29.1,5.56,0,0,98.9,Peak
+PGK01523,2026-02-28,Astana,Laundry,Rail,2196.8,736,6.9,32.4,5.3,37.8,6.11,1,4,92.6,Non-peak
+PGK01524,2026-02-15,Almaty,Feminine care,Road,497.3,926,10.9,7.5,22.4,29.9,4.65,0,0,99.0,Non-peak
+PGK01525,2026-07-03,Almaty,Feminine care,Rail,1594.5,387,7.8,24.3,12.6,37.0,6.22,0,0,99.1,Peak
+PGK01526,2026-01-15,Atyrau,LAUNDRY,rail,664.6,1163,6.6,53.4,9.0,62.5,4.82,1,6,87.9,Non-peak
+PGK01527,2026-04-07,Almaty,Laundry,Road,2154.7,880,4.3,36.0,18.8,54.9,5.66,1,5,89.6,Non-peak
+PGK01528,2026-02-12,Almaty,Oral care,Rail,1552.8,1606,2.0,15.2,14.7,29.9,5.37,0,0,100.0,Non-peak
+PGK01529,2026-01-07,Astana,Laundry,Road,1156.9,91,1.6,14.3,4.3,18.6,2.65,1,1,95.5,Non-peak
+PGK01530,07/10/2026,Astana,Oral care,Road,812.1,1867,3.1,25.0,22.9,47.9,3.64,1,7,87.2,Non-peak
+PGK01531,2026-01-28,Astana,Laundry,Rail,1232.9,168,15.5,16.6,10.0,26.6,4.87,0,0,98.5,Non-peak
+PGK01532,2026-01-03,Astana,Oral care,Road,2404.6,864,4.1,11.7,10.1,21.8,6.03,0,0,97.2,Non-peak
+PGK01533,2026-10-11,Aktobe,Hair care,Rail,1395.7,714,5.7,12.4,8.1,20.5,4.31,1,1,96.5,Non-peak
+PGK01534,2026-02-27,ALMATY,Laundry,Rail,1306.4,1450,5.8,17.9,8.1,26.1,3.81,0,0,99.0,Non-peak
+PGK01535,2026-09-06,Astana,Laundry,Road,1929.1,1334,7.0,17.5,7.7,25.2,4.44,0,0,99.1,Peak
+PGK01536,2026-01-10,Shymkent,Laundry,Road,1102.9,433,13.7,8.9,10.4,19.3,3.32,0,0,99.9,Non-peak
+PGK01537,2026-02-16,Aktobe,Baby care,Road,1211.7,1007,7.8,17.1,5.9,23.0,3.05,0,0,99.9,Non-peak
+PGK01538,2026-02-03,Astana,Laundry,Rail,1008.1,1092,17.5,15.7,"6,7",22.4,4.52,0,0,97.6,Non-peak
+PGK01539,2026-08-03,Astana,Feminine care,Rail,589.6,955,3.1,"23,1",10.4,33.5,3.0,0,0,99.3,Peak
+PGK01540,2026-07-08,Almaty,Oral care,Road,1856.1,92,16.3,12.7,7.0,19.8,"4,26",0,0,99.9,Peak
+PGK01541,25/05/2026,Almaty,Hair care,Rail,2214.3,397,"24,5",11.2,4.2,15.4,6.59,1,1,"97,7",Non-peak
+PGK01542,2026-03-15,Almaty,Feminine care,Rail,"2287,6",1032,9.7,19.7,12.8,"32,5",6.9,0,0,99.4,Non-peak
+PGK01543,2026-01-28,Shymkent,Oral care,Road,2231.8,558,3.8,26.6,3.3,29.8,5.05,0,0,97.0,Non-peak
+PGK01544,2026-06-23,Almaty,Oral care,Rail,1266.5,1113,13.9,13.1,15.0,28.1,5.29,0,0,98.0,Peak
+PGK01545,2026-03-12,Shymkent,LAUNDRY,Rail,889.1,369,9.8,17.2,5.6,22.8,3.83,0,0,100.0,Non-peak
+PGK01546,2026-06-29,Almaty,Oral care,Rail,1685.3,1484,12.2,21.4,10.4,31.8,5.05,0,0,98.6,Peak
+PGK01547,2026-07-28,Aktobe,Baby care,Road,2398.1,417,17.9,20.1,4.8,24.9,5.5,0,0,100.0,Peak
+PGK01548,2026-09-16,Aktobe,Feminine care,Road,1885.9,1317,7.3,16.3,13.2,29.6,5.32,0,0,97.7,Peak
+PGK01549,2026-05-31,Almaty,Baby care,road,1363.4,1682,6.4,29.6,8.5,38.1,3.49,0,0,100.0,Non-peak
+PGK01550,2026-01-02,Almaty,Oral care,Rail,1799.8,749,45.2,9.2,4.5,13.7,5.88,0,0,98.6,Non-peak
+PGK01551,2026-03-27,ALMATY,Hair care,Rail,1988.2,322,14.0,18.9,14.5,33.4,5.96,0,0,99.8,Non-peak
+PGK01552,17/09/2026,Aktobe,Laundry,Road,2318.4,61,20.0,9.2,3.6,12.8,5.57,0,0,99.0,Peak
+PGK01553,2026-06-12,Almaty,Laundry,Road,1967.2,753,17.2,8.8,6.0,14.8,3.9,0,0,99.3,Peak
+PGK01554,2026-07-08,Astana,Feminine care,Road,1224.7,275,20.2,12.0,11.2,23.1,4.76,0,0,99.7,Peak
+PGK01555,2026-05-20,Astana,Oral care,Road,865.6,1770,12.5,18.2,13.4,31.5,3.73,0,0,98.3,Non-peak
+PGK01556,2026-02-19,Aktobe,Hair care,Road,1374.7,1948,18.6,46.4,11.0,57.4,5.15,1,6,89.1,Non-peak
+PGK01557,2026-09-30,Astana,Oral care,Road,988.4,1963,5.8,29.5,12.0,41.5,8.13,0,0,98.5,Peak
+PGK01558,2026-08-23,Astana,Laundry,Road,2371.2,1849,2.0,15.1,12.1,27.2,4.11,0,0,99.2,Peak
+PGK01559,2026-10-30,Atyrau,Laundry,Rail,1392.9,1194,4.6,24.6,8.1,32.7,4.87,0,0,96.3,Non-peak
+PGK01560,2026-09-18,Almaty,Baby care,Road,1312.1,684,8.7,30.1,12.2,42.3,3.9,1,2,95.0,Peak
+PGK01561,2026-03-30,Aktobe,Oral care,Road,1033.4,921,7.9,11.5,9.7,21.3,3.4,0,0,100.0,Non-peak
+PGK01562,2026-03-19,Almaty,Feminine care,Road,1688.7,555,9.8,20.1,6.0,26.1,3.71,0,0,99.7,Non-peak
+PGK01563,17/03/2026,Astana,Oral care,Road,1420.1,1689,5.5,32.1,10.5,42.6,4.11,0,0,99.6,Non-peak
+PGK01564,2026-10-07,Aktobe,HAIR CARE,Road,540.4,901,1.2,20.4,11.9,32.4,2.36,0,0,99.0,Non-peak
+PGK01565,2026-06-19,Shymkent,Feminine care,Road,2205.7,801,7.1,11.8,7.7,19.5,4.22,0,0,100.0,Peak
+PGK01566,2026-05-19,Shymkent,Baby care,Rail,1057.8,1396,2.8,17.8,6.7,24.5,4.69,0,0,99.3,Non-peak
+PGK01567,2026-10-22,Almaty,Feminine care,Road,1223.3,779,9.5,16.7,"15,4",32.1,3.28,0,0,98.3,Non-peak
+PGK01568,2026-07-03,ASTANA,Laundry,Road,712.8,746,13.0,"27,4",8.8,36.2,3.17,0,0,99.7,Peak
+PGK01569,2026-10-04,Astana,Laundry,Rail,1495.1,493,7.0,9.3,19.5,28.8,"4,74",0,0,99.9,Non-peak
+PGK01570,2026-10-27,Astana,Laundry,Road,1829.6,181,"3,6",16.9,4.1,21.0,3.72,0,0,"99,8",Non-peak
+PGK01571,2026-01-25,Astana,Feminine care,Road,"2232,6",124,10.2,6.9,5.5,"12,5",5.58,0,0,98.9,Non-peak
+PGK01572,2026-04-20,Almaty,Laundry,road,366.1,835,46.8,9.0,5.6,14.7,3.3,0,0,99.5,Non-peak
+PGK01573,2026-08-12,Almaty,Feminine care,Rail,2440.0,1991,14.0,24.7,16.1,40.8,8.33,0,0,100.0,Peak
+PGK01574,05/09/2026,Almaty,Oral care,Road,1833.6,558,14.8,9.4,8.1,17.5,5.73,0,0,99.7,Peak
+PGK01575,2026-02-15,Astana,Laundry,Rail,889.7,1300,6.5,4.8,9.4,14.3,3.13,1,2,94.4,Non-peak
+PGK01576,2026-04-07,Almaty,Feminine care,Rail,710.1,683,4.9,3.9,8.2,12.1,2.25,1,1,97.0,Non-peak
+PGK01577,2026-06-16,Aktobe,Laundry,Road,916.2,640,20.2,16.2,8.0,24.2,4.77,0,0,98.4,Peak
+PGK01578,2026-08-31,Shymkent,Laundry,Rail,2220.4,367,1.0,12.7,9.4,22.2,6.5,0,0,98.3,Peak
+PGK01579,2026-02-04,Almaty,Baby care,Rail,905.6,1149,5.3,14.1,7.4,21.5,3.0,0,0,97.0,Non-peak
+PGK01580,2026-07-02,Shymkent,Hair care,Road,1291.3,1335,28.2,18.6,13.1,31.7,6.54,0,0,100.0,Peak
+PGK01581,2026-04-01,Aktobe,Hair care,Rail,1837.9,733,9.1,22.0,3.8,25.9,5.2,0,0,98.2,Non-peak
+PGK01582,2026-03-07,Almaty,Laundry,Road,2212.0,1077,2.2,19.9,5.7,25.5,4.32,0,0,98.2,Non-peak
+PGK01583,2026-06-06,Almaty,ORAL CARE,Road,1731.8,978,13.2,17.0,8.2,25.2,4.84,0,0,97.1,Peak
+PGK01584,2026-05-06,Almaty,Laundry,Road,1944.5,578,7.1,39.7,4.0,43.6,6.67,0,0,99.6,Non-peak
+PGK01585,13/07/2026,ALMATY,Hair care,Road,640.0,1399,1.7,23.4,9.4,32.8,3.12,0,0,98.8,Peak
+PGK01586,2026-04-07,Shymkent,Baby care,Road,2224.2,1130,11.5,23.3,11.6,34.9,5.05,0,0,,Non-peak
+PGK01587,2026-09-08,Atyrau,Baby care,Rail,870.4,178,10.3,17.6,6.6,24.2,3.52,0,0,98.8,Peak
+PGK01588,2026-01-24,Almaty,Oral care,Road,538.9,1011,9.9,12.0,7.5,19.5,2.4,0,0,99.7,Non-peak
+PGK01589,2026-09-20,Shymkent,Hair care,Rail,2446.5,809,13.9,35.6,11.3,46.9,10.72,1,2,94.8,Peak
+PGK01590,2026-01-10,Almaty,Oral care,Road,703.7,1602,3.4,16.9,12.8,29.7,3.25,0,0,97.0,Non-peak
+PGK01591,2026-08-12,Shymkent,Oral care,Road,557.5,648,12.4,19.0,7.7,26.7,3.1,0,0,97.7,Peak
+PGK01592,2026-04-16,Shymkent,Hair care,Rail,1658.5,1915,10.9,22.1,17.9,39.9,6.62,1,7,85.5,Non-peak
+PGK01593,2026-04-27,Astana,Hair care,Rail,967.4,1249,19.9,18.7,9.1,27.8,4.36,0,0,99.3,Non-peak
+PGK01594,2026-01-06,Almaty,Baby care,Road,550.0,304,5.3,23.8,8.8,32.6,4.44,0,0,99.8,Non-peak
+PGK01595,2026-08-02,Shymkent,Baby care,rail,1602.5,836,22.3,18.4,8.1,26.5,6.12,0,0,100.0,Peak
+PGK01596,20/02/2026,Atyrau,Laundry,Rail,1957.7,1774,17.0,18.7,"12,9",31.6,6.18,0,0,97.3,Non-peak
+PGK01597,2026-07-20,Almaty,Baby care,Rail,2034.7,546,8.8,"18,9",12.3,31.2,5.86,1,3,94.5,Peak
+PGK01598,2026-08-09,Almaty,Laundry,Road,599.9,1425,9.9,45.5,15.1,60.7,"3,71",1,7,85.9,Peak
+PGK01599,2026-09-14,Almaty,Baby care,Road,1503.0,1578,"1,0",31.8,15.3,47.1,5.33,1,1,"99,9",Peak
+PGK01600,2026-08-04,Astana,Feminine care,Road,"2080,8",1401,9.7,16.7,10.3,"27,0",4.06,0,0,100.0,Peak
+PGK00527,2026-10-08,Astana,Baby care,Road,"1605,1",1660,7.5,30.9,6.9,"37,9",4.52,1,5,90.2,Non-peak
+PGK00355,2026-10-22,Astana,Feminine care,Rail,391.2,1882,15.2,19.1,8.9,28.0,3.16,0,0,97.8,Non-peak
+PGK00169,2026-04-12,Astana,Laundry,rail,320.1,58,7.5,3.4,0.8,4.2,1.84,0,0,97.1,Non-peak
+PGK00136,2026-04-03,Almaty,Baby care,Road,595.9,1485,12.4,14.3,17.3,31.6,3.09,0,0,98.0,Non-peak
+PGK00938,2026-02-15,Almaty,Feminine care,Road,1753.1,1315,2.5,17.8,9.4,27.2,4.2,0,0,99.2,Non-peak
+PGK01545,2026-03-12,Shymkent,LAUNDRY,Rail,889.1,369,9.8,17.2,5.6,22.8,3.83,0,0,100.0,Non-peak
+PGK01254,2026-08-30,Aktobe,Hair care,Road,756.8,1220,7.1,32.8,8.3,41.1,4.0,0,0,99.9,Peak
+PGK00238,2026-05-12,Astana,Baby care,rail,677.7,460,6.3,6.7,4.0,10.7,2.13,0,0,100.0,Non-peak
+PGK00479,2026-07-21,Aktobe,Hair care,Rail,650.0,155,12.8,20.0,13.2,33.2,5.39,0,0,100.0,Peak
+PGK00651,2026-05-29,Aktobe,Hair care,Road,263.2,106,9.6,15.8,14.0,29.8,2.91,0,0,99.6,Non-peak
+PGK00515,2026-10-19,Almaty,Baby care,Road,1026.3,1581,14.9,22.0,14.6,36.7,4.91,0,0,99.2,Non-peak
+PGK01104,2026-02-15,Almaty,Oral care,Road,2045.1,1936,9.1,"11,9",9.9,21.7,4.56,0,0,99.3,Non-peak
+PGK00969,07/10/2026,Almaty,Baby care,Road,1041.0,1470,9.7,10.8,12.5,23.2,3.79,0,0,99.9,Non-peak
+PGK01570,2026-10-27,Astana,Laundry,Road,1829.6,181,"3,6",16.9,4.1,21.0,3.72,0,0,"99,8",Non-peak
+PGK00585,2026-05-03,Atyrau,Laundry,Road,"785,5",425,23.2,2.6,12.1,"14,7",4.35,0,0,98.9,Non-peak
+PGK00066,2026-04-10,Aktobe,Baby care,Rail,509.4,262,18.1,32.6,2.5,35.1,3.2,0,0,98.3,Non-peak
+PGK00031,2026-05-17,Shymkent,Hair care,road,1585.6,1866,9.6,"11,5",14.1,25.6,4.43,0,0,98.8,Non-peak
+PGK00905,2026-05-20,ASTANA,Hair care,road,1456.7,1175,17.6,18.0,8.1,26.1,4.19,0,0,99.1,Non-peak
+PGK00368,2026-04-07,Astana,Laundry,Road,1929.1,397,2.8,32.1,3.8,35.9,4.09,1,4,92.1,Non-peak
+PGK01135,2026-07-06,Shymkent,Feminine care,road,851.9,1712,"5,3",26.2,11.7,37.8,3.64,1,7,"87,5",Peak
+PGK01488,2026-01-01,Shymkent,LAUNDRY,Road,2429.2,235,10.2,3.0,4.2,7.2,3.54,0,0,,Non-peak
+PGK00486,2026-03-12,Atyrau,Baby care,Rail,502.6,452,1.7,6.7,11.1,17.8,2.18,0,0,98.3,Non-peak
+PGK01549,2026-05-31,Almaty,Baby care,road,1363.4,1682,6.4,29.6,8.5,38.1,3.49,0,0,100.0,Non-peak
+PGK00375,27/09/2026,Astana,Hair care,Rail,642.4,110,8.9,17.5,6.3,23.8,3.96,0,0,98.1,Peak
